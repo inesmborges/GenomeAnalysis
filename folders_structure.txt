@@ -1,0 +1,13 @@
+GenomeAnalysis
+|
+|--code
+|
+|--output
+|  |--1_fastqc_dna_trimmed
+|  |--1_fastqc_rna_trimmed
+|  |--1_fastqc_rna_untrimmed
+|  |--1_trimmomatic
+|
+|--raw_data
+   |--DNA_trimmed
+   |--RNA_untrimmed
