@@ -1,0 +1,291 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000001.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-1__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000002.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-2__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000003.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-3__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000004.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-4__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000005.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-5__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000006.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-6__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000007.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-7__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000008.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-8__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000009.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-9__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000010.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-10__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000011.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-11__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000012.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-12__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000013.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-13__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000014.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-14__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000015.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-15__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000016.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-16__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000017.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-17__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000018.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-18__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000019.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-19__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000020.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-20__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000021.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-21__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000022.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-22__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000023.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-23__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000024.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-24__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000025.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-25__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000026.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-26__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000027.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-27__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000028.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-28__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000029.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-29__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000030.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-30__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000031.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-31__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000032.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-32__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000033.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-33__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000034.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-34__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000035.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-35__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000036.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-36__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000037.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-37__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000038.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-38__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000039.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-39__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000040.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-40__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000041.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-41__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000042.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-42__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000043.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-43__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000044.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-44__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000045.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-45__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000046.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-46__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000047.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-47__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000048.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-48__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000049.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-49__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000050.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-50__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000051.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-51__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000052.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-52__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000053.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-53__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000054.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-54__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000055.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-55__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000056.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-56__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000057.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-57__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000058.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-58__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000059.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-59__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000060.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-60__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000061.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-61__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000062.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-62__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000063.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-63__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000064.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-64__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000065.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-65__whole_genome_shotgun_sequence]
+	Loaded [Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000066.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-66__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 66
+	Total Region Length: 1669890
+Analyzing contigs...
+CONTIG: k119_148917_flag_1_multi_2.1250_len_607 (607bp)
+Best alignment score: 80.0 (LEN: 81, IDY: 98.78)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 526
+		Alignment: 15287 15368 | 157 77 | 82 81 | 98.78 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000003.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-3__whole_genome_shotgun_sequence k119_148917_flag_1_multi_2.1250_len_607
+
+CONTIG: k119_416721_flag_1_multi_6.0000_len_3891 (3891bp)
+Best alignment score: 84.0 (LEN: 87, IDY: 96.55)
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 3804
+		This contig is partially unaligned. (Aligned 87 out of 3891 bases)
+		Alignment: 475 561 | 898 812 | 87 87 | 96.55 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000041.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-41__whole_genome_shotgun_sequence k119_416721_flag_1_multi_6.0000_len_3891
+		Unaligned bases: 1 to 811 (811)
+		Unaligned bases: 899 to 3891 (2993)
+
+CONTIG: k119_419334_flag_1_multi_3.9900_len_1020 (1020bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 941
+		This contig is partially unaligned. (Aligned 79 out of 1020 bases)
+		Alignment: 124285 124363 | 747 825 | 79 79 | 100.0 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000016.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-16__whole_genome_shotgun_sequence k119_419334_flag_1_multi_3.9900_len_1020
+		Unaligned bases: 1 to 746 (746)
+		Unaligned bases: 826 to 1020 (195)
+
+CONTIG: k119_148973_flag_1_multi_5.0000_len_2409 (2409bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 2330
+		This contig is partially unaligned. (Aligned 79 out of 2409 bases)
+		Alignment: 124285 124363 | 1860 1938 | 79 79 | 100.0 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000016.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-16__whole_genome_shotgun_sequence k119_148973_flag_1_multi_5.0000_len_2409
+		Unaligned bases: 1 to 1859 (1859)
+		Unaligned bases: 1939 to 2409 (471)
+
+CONTIG: k119_408093_flag_1_multi_7.0000_len_1431 (1431bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 19791 19868 | 370 293 | 78 78 | 100.0 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000029.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-29__whole_genome_shotgun_sequence k119_408093_flag_1_multi_7.0000_len_1431
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1352
+		This contig is partially unaligned. (Aligned 79 out of 1431 bases)
+		Alignment: 26704 26782 | 371 293 | 79 79 | 100.0 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000001.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-1__whole_genome_shotgun_sequence k119_408093_flag_1_multi_7.0000_len_1431
+		Unaligned bases: 1 to 292 (292)
+		Unaligned bases: 372 to 1431 (1060)
+
+CONTIG: k119_195124_flag_1_multi_5.9510_len_2672 (2672bp)
+Best alignment score: 73.0 (LEN: 74, IDY: 98.65)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 2598
+		This contig is partially unaligned. (Aligned 74 out of 2672 bases)
+		Alignment: 16714 16787 | 837 764 | 74 74 | 98.65 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000030.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-30__whole_genome_shotgun_sequence k119_195124_flag_1_multi_5.9510_len_2672
+		Unaligned bases: 1 to 763 (763)
+		Unaligned bases: 838 to 2672 (1835)
+
+CONTIG: k119_369105_flag_0_multi_2.8662_len_657 (657bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 582
+		Alignment: 16714 16788 | 522 448 | 75 75 | 98.67 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000030.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-30__whole_genome_shotgun_sequence k119_369105_flag_0_multi_2.8662_len_657
+
+CONTIG: k119_95464_flag_0_multi_7.8347_len_1892 (1892bp)
+Best alignment score: 73.0 (LEN: 74, IDY: 98.65)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 1818
+		This contig is partially unaligned. (Aligned 74 out of 1892 bases)
+		Alignment: 16714 16787 | 137 210 | 74 74 | 98.65 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000030.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-30__whole_genome_shotgun_sequence k119_95464_flag_0_multi_7.8347_len_1892
+		Unaligned bases: 1 to 136 (136)
+		Unaligned bases: 211 to 1892 (1682)
+
+CONTIG: k119_347935_flag_1_multi_3.0000_len_1034 (1034bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 958
+		This contig is partially unaligned. (Aligned 76 out of 1034 bases)
+		Alignment: 16712 16787 | 156 81 | 76 76 | 98.68 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000030.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-30__whole_genome_shotgun_sequence k119_347935_flag_1_multi_3.0000_len_1034
+		Unaligned bases: 1 to 80 (80)
+		Unaligned bases: 157 to 1034 (878)
+
+CONTIG: k119_131649_flag_1_multi_4.0000_len_1559 (1559bp)
+Best alignment score: 76.0 (LEN: 78, IDY: 97.44)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1481
+		This contig is partially unaligned. (Aligned 78 out of 1559 bases)
+		Alignment: 16710 16787 | 80 157 | 78 78 | 97.44 | Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000030.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-30__whole_genome_shotgun_sequence k119_131649_flag_1_multi_4.0000_len_1559
+		Unaligned bases: 1 to 79 (79)
+		Unaligned bases: 158 to 1559 (1402)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Flavobacterium_sp._SCGC_AAA160-P02/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000039.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-39__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000046.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-46__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000025.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-25__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000037.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-37__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000032.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-32__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000022.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-22__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000003.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-3__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 92415 (92415 bp)
+			START in gap: 1 to 15287 (15286 bp)
+			Align 1: 15287 15368 k119_148917_flag_1_multi_2.1250_len_607 157 77
+			END in gap: 15368 to 92415 (77047 bp).
+
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000038.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-38__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000001.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-1__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 38522 (38522 bp)
+			START in gap: 1 to 26704 (26703 bp)
+			Align 1: 26704 26782 k119_408093_flag_1_multi_7.0000_len_1431 371 293
+			END in gap: 26782 to 38522 (11740 bp).
+
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000044.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-44__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000042.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-42__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000019.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-19__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000005.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-5__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000024.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-24__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000061.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-61__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000031.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-31__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000054.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-54__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000028.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-28__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000033.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-33__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000063.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-63__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000034.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-34__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000021.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-21__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000058.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-58__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000035.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-35__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000059.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-59__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000048.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-48__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000011.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-11__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000052.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-52__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000010.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-10__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000049.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-49__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000043.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-43__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000041.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-41__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 47817 (47817 bp)
+			START in gap: 1 to 475 (474 bp)
+			Align 1: 475 561 k119_416721_flag_1_multi_6.0000_len_3891 898 812
+			END in gap: 561 to 47817 (47256 bp).
+
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000013.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-13__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000004.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-4__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000012.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-12__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000040.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-40__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000016.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-16__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 127602 (127602 bp)
+			START in gap: 1 to 124285 (124284 bp)
+			Align 1: 124285 124363 k119_419334_flag_1_multi_3.9900_len_1020 747 825
+				The next alignment (124285 124363 k119_148973_flag_1_multi_5.0000_len_2409 1860 1938) is redundant. Skipping.
+
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000007.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-7__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000060.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-60__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000006.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-6__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000064.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-64__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000020.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-20__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000065.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-65__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000015.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-15__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000023.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-23__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000002.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000062.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-62__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000051.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-51__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000029.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-29__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000014.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-14__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000036.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-36__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000057.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-57__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000053.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-53__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000008.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-8__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000047.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-47__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000017.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-17__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000045.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-45__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000018.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-18__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000050.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-50__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000009.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-9__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000027.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-27__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000026.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-26__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000055.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-55__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000056.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-56__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000066.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-66__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacterium_sp._SCGC_AAA160-P02_CAJJCD010000030.1_Flavobacterium_sp._SCGC_AAA160-P02_isolate_FRAM18_bin163_genome_assembly__contig__FRAM18_bin163-30__whole_genome_shotgun_sequence: 5 total alignments. 1 total regions.
+		Region: 1 to 78955 (78955 bp)
+			START in gap: 1 to 16710 (16709 bp)
+			Align 1: 16710 16787 k119_131649_flag_1_multi_4.0000_len_1559 80 157
+				The next alignment (16712 16787 k119_347935_flag_1_multi_3.0000_len_1034 156 81) is redundant. Skipping.
+				The next alignment (16714 16787 k119_195124_flag_1_multi_5.9510_len_2672 837 764) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 16787 to 16714 (-73 bp)
+				Next Alignment: 16714 16788 k119_369105_flag_0_multi_2.8662_len_657 522 448
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 522 to 448.
+			Align 4: 16788 16788 k119_369105_flag_0_multi_2.8662_len_657 448 448
+				The next alignment (16714 16787 k119_95464_flag_0_multi_7.8347_len_1892 137 210) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Flavobacterium_sp._SCGC_AAA160-P02/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 8 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 15282
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 406
+
+	SNPs: 5
+	Insertions: 0
+	Deletions: 1
+
+	Positive Gaps: 8
+		Internal Gaps: 0
+		External Gaps: 8
+		External Gap Total: 319499
+		External Gap Average: 39937
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -73
+		External Overlaps Average: -73
+	Contigs with Redundant Alignments: 3 (303)

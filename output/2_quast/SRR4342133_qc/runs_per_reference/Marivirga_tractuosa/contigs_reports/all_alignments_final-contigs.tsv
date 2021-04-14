@@ -1,0 +1,5 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3149750	3149830	138	58	Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence	k119_123184_flag_1_multi_3.0000_len_742	98.77		True
+CONTIG	k119_123184_flag_1_multi_3.0000_len_742	742	correct_unaligned
+2010643	2010717	615	689	Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence	k119_82884_flag_1_multi_3.7993_len_1001	100.0		True
+CONTIG	k119_82884_flag_1_multi_3.7993_len_1001	1001	correct_unaligned

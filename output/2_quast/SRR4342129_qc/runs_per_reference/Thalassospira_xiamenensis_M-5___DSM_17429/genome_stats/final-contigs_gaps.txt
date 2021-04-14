@@ -1,0 +1,8 @@
+Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome
+1 162271
+162345 162702
+162777 165166
+165261 598809
+598897 4576570
+Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004389.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_plasmid_unnamed__complete_sequence
+1 192380

@@ -1,0 +1,5 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+278805	278917	701	813	Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence	k119_249648_flag_0_multi_3.5937_len_813	95.58		True
+CONTIG	k119_249648_flag_0_multi_3.5937_len_813	813	correct_unaligned
+278805	278917	113	1	Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence	k119_249677_flag_0_multi_3.5486_len_757	95.58		True
+CONTIG	k119_249677_flag_0_multi_3.5486_len_757	757	correct_unaligned

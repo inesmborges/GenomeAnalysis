@@ -1,0 +1,14 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  777672   777743  |      587      658  |       72       72  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_191732_flag_0_multi_10.7619_len_665
+ 2664879  2664950  |      658      587  |       72       72  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_191732_flag_0_multi_10.7619_len_665
+ 2807721  2807792  |      658      587  |       72       72  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_191732_flag_0_multi_10.7619_len_665
+ 2813614  2813685  |      658      587  |       72       72  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_191732_flag_0_multi_10.7619_len_665
+ 2819539  2819610  |      658      587  |       72       72  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_191732_flag_0_multi_10.7619_len_665
+  780587   780653  |      522      456  |       67       67  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_310556_flag_1_multi_31.1974_len_727
+ 2661969  2662035  |      456      522  |       67       67  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_310556_flag_1_multi_31.1974_len_727
+ 2804811  2804877  |      456      522  |       67       67  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_310556_flag_1_multi_31.1974_len_727
+ 2810704  2810770  |      456      522  |       67       67  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_310556_flag_1_multi_31.1974_len_727
+ 2816629  2816695  |      456      522  |       67       67  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_310556_flag_1_multi_31.1974_len_727
+  183578   183656  |     3456     3378  |       79       79  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_325931_flag_1_multi_14.9981_len_7441
+  183578   183656  |      680      602  |       79       79  |   100.00  | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence	k119_48643_flag_1_multi_8.4508_len_4238

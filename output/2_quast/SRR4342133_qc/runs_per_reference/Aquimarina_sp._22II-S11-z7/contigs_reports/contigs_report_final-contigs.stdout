@@ -1,0 +1,260 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000001.1_Aquimarina_atlantica_strain_22II-S11-z7_contig1__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000002.1_Aquimarina_atlantica_strain_22II-S11-z7_contig2__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000003.1_Aquimarina_atlantica_strain_22II-S11-z7_contig3__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000004.1_Aquimarina_atlantica_strain_22II-S11-z7_contig4__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000005.1_Aquimarina_atlantica_strain_22II-S11-z7_contig5__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000007.1_Aquimarina_atlantica_strain_22II-S11-z7_contig7__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000008.1_Aquimarina_atlantica_strain_22II-S11-z7_contig8__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000009.1_Aquimarina_atlantica_strain_22II-S11-z7_contig9__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000010.1_Aquimarina_atlantica_strain_22II-S11-z7_contig10__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000011.1_Aquimarina_atlantica_strain_22II-S11-z7_contig11__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000012.1_Aquimarina_atlantica_strain_22II-S11-z7_contig12__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000013.1_Aquimarina_atlantica_strain_22II-S11-z7_contig13__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000014.1_Aquimarina_atlantica_strain_22II-S11-z7_contig14__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000015.1_Aquimarina_atlantica_strain_22II-S11-z7_contig15__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000016.1_Aquimarina_atlantica_strain_22II-S11-z7_contig16__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000017.1_Aquimarina_atlantica_strain_22II-S11-z7_contig17__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000019.1_Aquimarina_atlantica_strain_22II-S11-z7_contig19__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000020.1_Aquimarina_atlantica_strain_22II-S11-z7_contig20__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000021.1_Aquimarina_atlantica_strain_22II-S11-z7_contig21__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000022.1_Aquimarina_atlantica_strain_22II-S11-z7_contig22__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000023.1_Aquimarina_atlantica_strain_22II-S11-z7_contig23__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000024.1_Aquimarina_atlantica_strain_22II-S11-z7_contig24__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000025.1_Aquimarina_atlantica_strain_22II-S11-z7_contig25__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000026.1_Aquimarina_atlantica_strain_22II-S11-z7_contig26__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000027.1_Aquimarina_atlantica_strain_22II-S11-z7_contig27__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000028.1_Aquimarina_atlantica_strain_22II-S11-z7_contig28__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000029.1_Aquimarina_atlantica_strain_22II-S11-z7_contig29__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000030.1_Aquimarina_atlantica_strain_22II-S11-z7_contig30__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000031.1_Aquimarina_atlantica_strain_22II-S11-z7_contig31__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000032.1_Aquimarina_atlantica_strain_22II-S11-z7_contig32__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000033.1_Aquimarina_atlantica_strain_22II-S11-z7_contig33__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000034.1_Aquimarina_atlantica_strain_22II-S11-z7_contig34__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000035.1_Aquimarina_atlantica_strain_22II-S11-z7_contig35__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000036.1_Aquimarina_atlantica_strain_22II-S11-z7_contig36__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000037.1_Aquimarina_atlantica_strain_22II-S11-z7_contig37__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000038.1_Aquimarina_atlantica_strain_22II-S11-z7_contig38__whole_genome_shotgun_sequence]
+	Loaded [Aquimarina_sp._22II-S11-z7_NZ_AQRA01000039.1_Aquimarina_atlantica_strain_22II-S11-z7_contig39__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 39
+	Total Region Length: 5687995
+Analyzing contigs...
+CONTIG: k119_328219_flag_1_multi_6.8614_len_3886 (3886bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 490265 490342 | 2677 2600 | 78 78 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_328219_flag_1_multi_6.8614_len_3886
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 3808
+		This contig is partially unaligned. (Aligned 78 out of 3886 bases)
+		Alignment: 61783 61860 | 2599 2676 | 78 78 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000004.1_Aquimarina_atlantica_strain_22II-S11-z7_contig4__whole_genome_shotgun_sequence k119_328219_flag_1_multi_6.8614_len_3886
+		Unaligned bases: 1 to 2598 (2598)
+		Unaligned bases: 2677 to 3886 (1210)
+
+CONTIG: k119_230197_flag_0_multi_3.8095_len_686 (686bp)
+Best alignment score: 360.0 (LEN: 377, IDY: 95.49)
+			The best set is below. Score: 360.0, number of alignments: 1, unaligned bases: 309
+		Alignment: 38146 38522 | 686 310 | 377 377 | 95.49 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k119_230197_flag_0_multi_3.8095_len_686
+
+CONTIG: k119_16105_flag_1_multi_3.8451_len_1707 (1707bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67)
+			The best set is below. Score: 132.0, number of alignments: 2, unaligned bases: 1557
+		This contig is misassembled. 2 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 1707 and total length of all aligns is 150
+		Alignment: 35152 35226 | 112 186 | 75 75 | 98.67 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k119_16105_flag_1_multi_3.8451_len_1707
+		Alignment: 35407 35481 | 208 282 | 75 75 | 98.67 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k119_16105_flag_1_multi_3.8451_len_1707
+		Unaligned bases: 1557
+
+CONTIG: k119_292500_flag_1_multi_4.9805_len_530 (530bp)
+Best alignment score: 234.0 (LEN: 243, IDY: 96.30)
+			The best set is below. Score: 234.0, number of alignments: 1, unaligned bases: 287
+		Alignment: 34746 34988 | 7 249 | 243 243 | 96.3 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k119_292500_flag_1_multi_4.9805_len_530
+
+CONTIG: k119_254517_flag_0_multi_9.9514_len_3821 (3821bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 3746
+		This contig is partially unaligned. (Aligned 75 out of 3821 bases)
+		Alignment: 149068 149142 | 3809 3735 | 75 75 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_254517_flag_0_multi_9.9514_len_3821
+		Unaligned bases: 1 to 3734 (3734)
+		Unaligned bases: 3810 to 3821 (12)
+
+CONTIG: k119_87841_flag_1_multi_4.0000_len_1864 (1864bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1787
+		This contig is partially unaligned. (Aligned 77 out of 1864 bases)
+		Alignment: 190977 191053 | 1399 1323 | 77 77 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_87841_flag_1_multi_4.0000_len_1864
+		Unaligned bases: 1 to 1322 (1322)
+		Unaligned bases: 1400 to 1864 (465)
+
+CONTIG: k119_360526_flag_1_multi_8.0000_len_6602 (6602bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 149068 149143 | 4795 4870 | 76 76 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_360526_flag_1_multi_8.0000_len_6602
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 6526
+		This contig is partially unaligned. (Aligned 76 out of 6602 bases)
+		Alignment: 147003 147078 | 843 918 | 76 76 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_360526_flag_1_multi_8.0000_len_6602
+		Unaligned bases: 1 to 842 (842)
+		Unaligned bases: 919 to 6602 (5684)
+
+CONTIG: k119_40917_flag_0_multi_7.5443_len_1225 (1225bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 1150
+		This contig is partially unaligned. (Aligned 75 out of 1225 bases)
+		Alignment: 149068 149142 | 107 33 | 75 75 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_40917_flag_0_multi_7.5443_len_1225
+		Unaligned bases: 1 to 32 (32)
+		Unaligned bases: 108 to 1225 (1118)
+
+CONTIG: k119_116015_flag_1_multi_3.0000_len_797 (797bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 719
+		This contig is partially unaligned. (Aligned 78 out of 797 bases)
+		Alignment: 490266 490343 | 18 95 | 78 78 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_116015_flag_1_multi_3.0000_len_797
+		Unaligned bases: 1 to 17 (17)
+		Unaligned bases: 96 to 797 (702)
+
+CONTIG: k119_111391_flag_1_multi_7.0000_len_1795 (1795bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 238566 238639 | 1505 1578 | 74 74 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000007.1_Aquimarina_atlantica_strain_22II-S11-z7_contig7__whole_genome_shotgun_sequence k119_111391_flag_1_multi_7.0000_len_1795
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1721
+		This contig is partially unaligned. (Aligned 74 out of 1795 bases)
+		Alignment: 238427 238500 | 1505 1578 | 74 74 | 100.0 | Aquimarina_sp._22II-S11-z7_NZ_AQRA01000007.1_Aquimarina_atlantica_strain_22II-S11-z7_contig7__whole_genome_shotgun_sequence k119_111391_flag_1_multi_7.0000_len_1795
+		Unaligned bases: 1 to 1504 (1504)
+		Unaligned bases: 1579 to 1795 (217)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Aquimarina_sp._22II-S11-z7/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000017.1_Aquimarina_atlantica_strain_22II-S11-z7_contig17__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000027.1_Aquimarina_atlantica_strain_22II-S11-z7_contig27__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000023.1_Aquimarina_atlantica_strain_22II-S11-z7_contig23__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000038.1_Aquimarina_atlantica_strain_22II-S11-z7_contig38__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000011.1_Aquimarina_atlantica_strain_22II-S11-z7_contig11__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000026.1_Aquimarina_atlantica_strain_22II-S11-z7_contig26__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000020.1_Aquimarina_atlantica_strain_22II-S11-z7_contig20__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000028.1_Aquimarina_atlantica_strain_22II-S11-z7_contig28__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000022.1_Aquimarina_atlantica_strain_22II-S11-z7_contig22__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000004.1_Aquimarina_atlantica_strain_22II-S11-z7_contig4__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 520297 (520297 bp)
+			START in gap: 1 to 61783 (61782 bp)
+			Align 1: 61783 61860 k119_328219_flag_1_multi_6.8614_len_3886 2599 2676
+			END in gap: 61860 to 520297 (458437 bp).
+
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000024.1_Aquimarina_atlantica_strain_22II-S11-z7_contig24__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000029.1_Aquimarina_atlantica_strain_22II-S11-z7_contig29__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000019.1_Aquimarina_atlantica_strain_22II-S11-z7_contig19__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000003.1_Aquimarina_atlantica_strain_22II-S11-z7_contig3__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000013.1_Aquimarina_atlantica_strain_22II-S11-z7_contig13__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000016.1_Aquimarina_atlantica_strain_22II-S11-z7_contig16__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence: 4 total alignments. 1 total regions.
+		Region: 1 to 38564 (38564 bp)
+			START in gap: 1 to 34746 (34745 bp)
+			Align 1: 34746 34988 k119_292500_flag_1_multi_4.9805_len_530 7 249
+				Gap between this and next alignment: 34988 to 35152 (163 bp)
+				Next Alignment: 35152 35226 k119_16105_flag_1_multi_3.8451_len_1707 112 186
+
+			Align 2: 35152 35226 k119_16105_flag_1_multi_3.8451_len_1707 112 186
+				Gap between this and next alignment: 35226 to 35407 (180 bp)
+				Next Alignment: 35407 35481 k119_16105_flag_1_multi_3.8451_len_1707 208 282
+
+			Align 3: 35407 35481 k119_16105_flag_1_multi_3.8451_len_1707 208 282
+				Gap between this and next alignment: 35481 to 38146 (2664 bp)
+				Next Alignment: 38146 38522 k119_230197_flag_0_multi_3.8095_len_686 686 310
+
+			Align 4: 38146 38522 k119_230197_flag_0_multi_3.8095_len_686 686 310
+			END in gap: 38522 to 38564 (42 bp).
+
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000039.1_Aquimarina_atlantica_strain_22II-S11-z7_contig39__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000032.1_Aquimarina_atlantica_strain_22II-S11-z7_contig32__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence: 5 total alignments. 1 total regions.
+		Region: 1 to 507037 (507037 bp)
+			START in gap: 1 to 147003 (147002 bp)
+			Align 1: 147003 147078 k119_360526_flag_1_multi_8.0000_len_6602 843 918
+				Gap between this and next alignment: 147078 to 149068 (1989 bp)
+				Next Alignment: 149068 149142 k119_254517_flag_0_multi_9.9514_len_3821 3809 3735
+
+			Align 2: 149068 149142 k119_254517_flag_0_multi_9.9514_len_3821 3809 3735
+				The next alignment (149068 149142 k119_40917_flag_0_multi_7.5443_len_1225 107 33) is redundant. Skipping.
+				Gap between this and next alignment: 149142 to 190977 (41834 bp)
+				Next Alignment: 190977 191053 k119_87841_flag_1_multi_4.0000_len_1864 1399 1323
+
+			Align 4: 190977 191053 k119_87841_flag_1_multi_4.0000_len_1864 1399 1323
+				Gap between this and next alignment: 191053 to 490266 (299212 bp)
+				Next Alignment: 490266 490343 k119_116015_flag_1_multi_3.0000_len_797 18 95
+
+			Align 5: 490266 490343 k119_116015_flag_1_multi_3.0000_len_797 18 95
+			END in gap: 490343 to 507037 (16694 bp).
+
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000012.1_Aquimarina_atlantica_strain_22II-S11-z7_contig12__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000031.1_Aquimarina_atlantica_strain_22II-S11-z7_contig31__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000005.1_Aquimarina_atlantica_strain_22II-S11-z7_contig5__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000030.1_Aquimarina_atlantica_strain_22II-S11-z7_contig30__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000035.1_Aquimarina_atlantica_strain_22II-S11-z7_contig35__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000009.1_Aquimarina_atlantica_strain_22II-S11-z7_contig9__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000033.1_Aquimarina_atlantica_strain_22II-S11-z7_contig33__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000034.1_Aquimarina_atlantica_strain_22II-S11-z7_contig34__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000008.1_Aquimarina_atlantica_strain_22II-S11-z7_contig8__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000015.1_Aquimarina_atlantica_strain_22II-S11-z7_contig15__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000025.1_Aquimarina_atlantica_strain_22II-S11-z7_contig25__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000007.1_Aquimarina_atlantica_strain_22II-S11-z7_contig7__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 430888 (430888 bp)
+			START in gap: 1 to 238427 (238426 bp)
+			Align 1: 238427 238500 k119_111391_flag_1_multi_7.0000_len_1795 1505 1578
+			END in gap: 238500 to 430888 (192388 bp).
+
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000014.1_Aquimarina_atlantica_strain_22II-S11-z7_contig14__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000021.1_Aquimarina_atlantica_strain_22II-S11-z7_contig21__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000002.1_Aquimarina_atlantica_strain_22II-S11-z7_contig2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000037.1_Aquimarina_atlantica_strain_22II-S11-z7_contig37__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000010.1_Aquimarina_atlantica_strain_22II-S11-z7_contig10__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000036.1_Aquimarina_atlantica_strain_22II-S11-z7_contig36__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Aquimarina_sp._22II-S11-z7_NZ_AQRA01000001.1_Aquimarina_atlantica_strain_22II-S11-z7_contig1__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Aquimarina_sp._22II-S11-z7/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 8 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 21014
+
+Ambiguously Mapped Contigs: 3
+Total Bases in Ambiguously Mapped Contigs: 12283
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1228
+
+	SNPs: 28
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 14
+		Internal Gaps: 1
+		External Gaps: 13
+		External Gap Total: 1495378
+		External Gap Average: 115029
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 1 (75)

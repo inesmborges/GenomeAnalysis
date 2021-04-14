@@ -1,0 +1,43 @@
+reference chromosomes:
+	Alcanivorax_jadensis_T9_NZ_ARXU01000016.1_Alcanivorax_jadensis_T9_contig16__whole_genome_shotgun_sequence (total length: 78298 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000003.1_Alcanivorax_jadensis_T9_contig3__whole_genome_shotgun_sequence (total length: 476720 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000024.1_Alcanivorax_jadensis_T9_contig24__whole_genome_shotgun_sequence (total length: 3783 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000029.1_Alcanivorax_jadensis_T9_contig29__whole_genome_shotgun_sequence (total length: 935 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000027.1_Alcanivorax_jadensis_T9_contig27__whole_genome_shotgun_sequence (total length: 1192 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000026.1_Alcanivorax_jadensis_T9_contig26__whole_genome_shotgun_sequence (total length: 1748 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000012.1_Alcanivorax_jadensis_T9_contig12__whole_genome_shotgun_sequence (total length: 112088 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000011.1_Alcanivorax_jadensis_T9_contig11__whole_genome_shotgun_sequence (total length: 125442 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000025.1_Alcanivorax_jadensis_T9_contig25__whole_genome_shotgun_sequence (total length: 2687 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000014.1_Alcanivorax_jadensis_T9_contig14__whole_genome_shotgun_sequence (total length: 102718 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000022.1_Alcanivorax_jadensis_T9_contig22__whole_genome_shotgun_sequence (total length: 5127 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000023.1_Alcanivorax_jadensis_T9_contig23__whole_genome_shotgun_sequence (total length: 4532 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000015.1_Alcanivorax_jadensis_T9_contig15__whole_genome_shotgun_sequence (total length: 89727 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000013.1_Alcanivorax_jadensis_T9_contig13__whole_genome_shotgun_sequence (total length: 104720 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000010.1_Alcanivorax_jadensis_T9_contig10__whole_genome_shotgun_sequence (total length: 126051 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000028.1_Alcanivorax_jadensis_T9_contig28__whole_genome_shotgun_sequence (total length: 995 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000021.1_Alcanivorax_jadensis_T9_contig21__whole_genome_shotgun_sequence (total length: 5877 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000009.1_Alcanivorax_jadensis_T9_contig9__whole_genome_shotgun_sequence (total length: 132871 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000017.1_Alcanivorax_jadensis_T9_contig17__whole_genome_shotgun_sequence (total length: 72002 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000006.1_Alcanivorax_jadensis_T9_contig6__whole_genome_shotgun_sequence (total length: 201822 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000018.1_Alcanivorax_jadensis_T9_contig18__whole_genome_shotgun_sequence (total length: 47793 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000007.1_Alcanivorax_jadensis_T9_contig7__whole_genome_shotgun_sequence (total length: 160483 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000020.1_Alcanivorax_jadensis_T9_contig20__whole_genome_shotgun_sequence (total length: 15622 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000004.1_Alcanivorax_jadensis_T9_contig4__whole_genome_shotgun_sequence (total length: 298895 bp, maximal covered length: 85 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000030.1_Alcanivorax_jadensis_T9_contig30__whole_genome_shotgun_sequence (total length: 857 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000001.1_Alcanivorax_jadensis_T9_contig1__whole_genome_shotgun_sequence (total length: 539039 bp, maximal covered length: 78 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000008.1_Alcanivorax_jadensis_T9_contig8__whole_genome_shotgun_sequence (total length: 151030 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000002.1_Alcanivorax_jadensis_T9_contig2__whole_genome_shotgun_sequence (total length: 478970 bp, maximal covered length: 87 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000019.1_Alcanivorax_jadensis_T9_contig19__whole_genome_shotgun_sequence (total length: 42518 bp, maximal covered length: 0 bp)
+	Alcanivorax_jadensis_T9_NZ_ARXU01000005.1_Alcanivorax_jadensis_T9_contig5__whole_genome_shotgun_sequence (total length: 244829 bp, maximal covered length: 0 bp)
+
+total genome size: 3629371
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Alcaniv | 0.00689%  | 4.12000     | 33        | -         | -         | -         | -         |

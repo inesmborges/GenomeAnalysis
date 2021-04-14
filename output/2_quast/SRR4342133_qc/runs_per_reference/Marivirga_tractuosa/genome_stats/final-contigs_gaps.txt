@@ -1,0 +1,6 @@
+Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence
+1 2010642
+2010718 3149749
+3149831 4511574
+Marivirga_tractuosa_NC_014750.1_Marivirga_tractuosa_DSM_4126_plasmid_pFTRAC01__complete_sequence
+1 4916

@@ -1,0 +1,6 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+162703 162776 | 512 438 | 74 75 | 98.67 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_367536_flag_1_multi_4.0000_len_517
+598810 598896 | 516 430 | 87 87 | 97.7 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_292384_flag_1_multi_2.0000_len_516
+165167 165260 | 94 1 | 94 94 | 100.0 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_73302_flag_1_multi_6.3724_len_1687
+162272 162344 | 629 701 | 73 73 | 98.63 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_215775_flag_1_multi_25.2577_len_701

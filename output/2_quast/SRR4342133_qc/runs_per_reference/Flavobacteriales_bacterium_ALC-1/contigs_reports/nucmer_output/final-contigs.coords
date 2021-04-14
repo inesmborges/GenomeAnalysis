@@ -1,0 +1,11 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  218246   218319  |     1578     1505  |       74       74  |   100.00  | Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence	k119_111391_flag_1_multi_7.0000_len_1795
+  438272   438648  |      310      686  |      377      377  |    96.02  | Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence	k119_230197_flag_0_multi_3.8095_len_686
+  103060   103436  |      310      686  |      377      377  |    96.02  | Flavobacteriales_bacterium_ALC-1_ABHI01000004.1_Flavobacteriales_bacterium_ALC-1_1103813602122__whole_genome_shotgun_sequence	k119_230197_flag_0_multi_3.8095_len_686
+  441276   441351  |      234      159  |       76       76  |   100.00  | Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence	k119_261553_flag_1_multi_5.5689_len_1128
+  106064   106139  |      234      159  |       76       76  |   100.00  | Flavobacteriales_bacterium_ALC-1_ABHI01000004.1_Flavobacteriales_bacterium_ALC-1_1103813602122__whole_genome_shotgun_sequence	k119_261553_flag_1_multi_5.5689_len_1128
+   86634    86710  |        3       79  |       77       77  |    97.40  | Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence	k119_304976_flag_1_multi_3.0000_len_688
+  549439   549514  |      486      561  |       76       76  |   100.00  | Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence	k119_30622_flag_1_multi_4.0000_len_1307
+ 1008765  1008840  |      843      918  |       76       76  |   100.00  | Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence	k119_360526_flag_1_multi_8.0000_len_6602
+ 1010681  1010754  |     4795     4868  |       74       74  |   100.00  | Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence	k119_360526_flag_1_multi_8.0000_len_6602

@@ -1,0 +1,72 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Sulfitobacter_sp._NAS-14.1.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Sulfitobacter_sp._NAS-14.1.fasta
+NUCMER
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_131442_flag_1_multi_5.0000_len_3188 3045708 3188
+575837 575923 643 729 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_182500_flag_1_multi_4.5801_len_5565 3045708 5565
+2691341 2691418 3162 3239 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_186614_flag_1_multi_7.0000_len_13783 207158 13783
+6230 6311 895 814 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_195746_flag_1_multi_8.0000_len_1415 3045708 1415
+2961135 2961219 1359 1275 1 1 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_228661_flag_1_multi_6.0000_len_3166 3045708 3166
+1951050 1951156 151 257 1 1 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_262934_flag_1_multi_4.1954_len_636 3045708 636
+1569542 1569621 532 453 2 2 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_26759_flag_1_multi_3.0000_len_524 3045708 524
+1118786 1118853 1 68 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318 207158 1318
+203171 203248 427 504 0 0 0
+0
+203815 203985 1149 1318 8 8 0
+12
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054 207158 1054
+2094 2170 456 380 0 0 0
+0
+2269 2348 646 567 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_290873_flag_1_multi_4.0000_len_884 3045708 884
+2960838 2960928 709 799 1 1 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_32051_flag_1_multi_5.0000_len_987 3045708 987
+2831813 2831891 845 923 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_322671_flag_1_multi_3.0000_len_700 3045708 700
+1573497 1573577 297 377 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_32586_flag_1_multi_4.0000_len_729 3045708 729
+1627221 1627298 353 430 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_330090_flag_1_multi_8.0000_len_8043 3045708 8043
+142615 142707 7992 7900 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_336088_flag_1_multi_2.7350_len_602 3045708 602
+1107595 1107673 474 552 0 0 0
+0
+1107772 1107848 355 431 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_351478_flag_1_multi_6.0000_len_2097 3045708 2097
+2054388 2054464 223 147 1 1 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_355446_flag_1_multi_4.0000_len_827 3045708 827
+237668 237748 440 360 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_362767_flag_1_multi_6.0000_len_4401 3045708 4401
+2691342 2691436 2895 2800 4 4 0
+-88
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588 207158 588
+202479 202764 588 303 13 13 0
+0
+202996 203072 157 81 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_80111_flag_1_multi_6.6646_len_5324 3045708 5324
+2228461 2228542 1663 1582 0 0 0
+0

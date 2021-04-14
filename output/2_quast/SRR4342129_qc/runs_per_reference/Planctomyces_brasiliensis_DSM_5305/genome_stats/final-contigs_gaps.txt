@@ -1,0 +1,4 @@
+Planctomyces_brasiliensis_DSM_5305_NC_015174.1_Rubinisphaera_brasiliensis_DSM_5305__complete_sequence
+1 490475
+490553 4730497
+4730574 6006602

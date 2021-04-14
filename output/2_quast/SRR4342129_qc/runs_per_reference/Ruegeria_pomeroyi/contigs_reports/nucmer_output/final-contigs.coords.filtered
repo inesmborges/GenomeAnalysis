@@ -1,0 +1,12 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+266644 267146 | 875 373 | 503 503 | 97.61 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_143681_flag_1_multi_5.7090_len_875
+2645394 2645472 | 596 518 | 79 79 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_174235_flag_1_multi_5.0000_len_654
+262074 262512 | 1675 2113 | 439 439 | 95.67 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_312326_flag_1_multi_3.8300_len_2113
+263300 263373 | 511 438 | 74 74 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_367536_flag_1_multi_4.0000_len_517
+2251312 2251390 | 532 453 | 79 80 | 98.75 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_93524_flag_1_multi_3.0000_len_688
+266865 267161 | 895 599 | 297 297 | 96.63 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_266949_flag_1_multi_7.0889_len_895
+2645396 2645472 | 1415 1339 | 77 77 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_102552_flag_1_multi_6.0000_len_1415
+2645394 2645472 | 152 74 | 79 79 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_75137_flag_1_multi_8.0000_len_6630
+263248 263374 | 1075 949 | 127 127 | 95.28 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_48182_flag_1_multi_4.1703_len_1076
+263728 263811 | 49 132 | 84 84 | 98.81 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_53548_flag_1_multi_3.7211_len_646

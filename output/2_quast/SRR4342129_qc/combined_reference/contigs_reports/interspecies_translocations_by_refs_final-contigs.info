@@ -1,0 +1,57 @@
+Number of interspecies translocations by references: 
+References                                    1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27
+Alcanivorax_jadensis_T9                       -  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Dehalogenimonas_lykanthroporepellens_BL-DC-9  0  -  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Flavobacterium_sp._SCGC_AAA160-P02            0  0  -  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Formosa_algae                                 0  0  0  -  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_fluminis                        0  0  0  0  -  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Janibacter_sp._HTCC2649                       0  0  0  0  0  -  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Lautropia_mirabilis_ATCC_51599                0  0  0  0  0  0  -  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Legionella_santicrucis                        0  0  0  0  0  0  0  -  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Luminiphilus_syltensis_NOR5-1B                0  0  0  0  0  0  0  0  -  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Marinimicrobium_agarilyticum_DSM_16975        0  0  0  0  0  0  0  0  0  -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Melissococcus_plutonius_DAT561                0  0  0  0  0  0  0  0  0  0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Methanococcoides_methylutens                  0  0  0  0  0  0  0  0  0  0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Microbulbifer_yueqingensis                    0  0  0  0  0  0  0  0  0  0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Oceanicola_granulosus_HTCC2516                0  0  0  0  0  0  0  0  0  0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Planctomyces_brasiliensis_DSM_5305            0  0  0  0  0  0  0  0  0  0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0 
+Planctomyces_maris_DSM_8797                   0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0 
+Rhodobacteraceae_bacterium_KLH11              0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0 
+Ruegeria_pomeroyi                             0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0 
+Serratia_symbiotica                           0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0 
+Sporosarcina_sp._EUR3_2.2.2                   0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0 
+Synechococcus_sp._WH_7803                     0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0 
+Syntrophus_aciditrophicus                     0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0 
+Thalassolituus_oleivorans_R6-15               0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0 
+Thalassospira_xiamenensis_M-5___DSM_17429     0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0 
+Thermoplasmatales_archaeon_A-plasma           0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0 
+gamma_proteobacterium_SCGC_AB-629-P17         0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0 
+marine_gamma_proteobacterium_HTCC2080         0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   - 
+References:
+1 - Alcanivorax_jadensis_T9
+2 - Dehalogenimonas_lykanthroporepellens_BL-DC-9
+3 - Flavobacterium_sp._SCGC_AAA160-P02
+4 - Formosa_algae
+5 - Ilumatobacter_fluminis
+6 - Janibacter_sp._HTCC2649
+7 - Lautropia_mirabilis_ATCC_51599
+8 - Legionella_santicrucis
+9 - Luminiphilus_syltensis_NOR5-1B
+10 - Marinimicrobium_agarilyticum_DSM_16975
+11 - Melissococcus_plutonius_DAT561
+12 - Methanococcoides_methylutens
+13 - Microbulbifer_yueqingensis
+14 - Oceanicola_granulosus_HTCC2516
+15 - Planctomyces_brasiliensis_DSM_5305
+16 - Planctomyces_maris_DSM_8797
+17 - Rhodobacteraceae_bacterium_KLH11
+18 - Ruegeria_pomeroyi
+19 - Serratia_symbiotica
+20 - Sporosarcina_sp._EUR3_2.2.2
+21 - Synechococcus_sp._WH_7803
+22 - Syntrophus_aciditrophicus
+23 - Thalassolituus_oleivorans_R6-15
+24 - Thalassospira_xiamenensis_M-5___DSM_17429
+25 - Thermoplasmatales_archaeon_A-plasma
+26 - gamma_proteobacterium_SCGC_AB-629-P17
+27 - marine_gamma_proteobacterium_HTCC2080

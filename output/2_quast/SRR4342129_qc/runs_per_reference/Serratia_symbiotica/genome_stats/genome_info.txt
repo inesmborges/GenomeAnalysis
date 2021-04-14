@@ -1,0 +1,15 @@
+reference chromosomes:
+	Serratia_symbiotica_NZ_LR025083.1_Serratia_symbiotica_strain_SeCistrobi_genome_assembly__chromosome__1 (total length: 2414146 bp, maximal covered length: 77 bp)
+	Serratia_symbiotica_NZ_LR025084.1_Serratia_symbiotica_strain_SeCistrobi_genome_assembly__plasmid__pSeCistrobi01 (total length: 22667 bp, maximal covered length: 0 bp)
+
+total genome size: 2436813
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Serrati | 0.00316%  | 1.00000     | 3         | -         | -         | -         | -         |

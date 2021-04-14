@@ -1,0 +1,8 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Marivirga_tractuosa.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Marivirga_tractuosa.fasta
+NUCMER
+>Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence k119_123184_flag_1_multi_3.0000_len_742 4511574 742
+3149750 3149830 138 58 1 1 0
+0
+>Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence k119_82884_flag_1_multi_3.7993_len_1001 4511574 1001
+2010643 2010717 615 689 0 0 0
+0

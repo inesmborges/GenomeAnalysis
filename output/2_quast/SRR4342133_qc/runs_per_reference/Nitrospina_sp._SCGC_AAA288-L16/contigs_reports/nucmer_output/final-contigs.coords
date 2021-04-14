@@ -1,0 +1,8 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+    3942     4024  |      386      468  |       83       83  |    97.59  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000002.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696062.2_C__whole_genome_shotgun_sequence	k119_159323_flag_0_multi_10.0000_len_533
+   42388    42473  |    10565    10480  |       86       86  |   100.00  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence	k119_175827_flag_1_multi_11.0000_len_10678
+   48656    48734  |     2238     2316  |       79       79  |   100.00  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000001.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695939.1_C__whole_genome_shotgun_sequence	k119_241811_flag_1_multi_12.9540_len_5333
+   44030    44107  |      764      687  |       78       78  |   100.00  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence	k119_305649_flag_1_multi_12.3539_len_3165
+   93917    94005  |     2428     2340  |       89       89  |   100.00  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000002.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696062.2_C__whole_genome_shotgun_sequence	k119_67447_flag_1_multi_5.0000_len_2553
+   42215    42307  |     9503     9411  |       93       93  |    98.92  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence	k119_87324_flag_1_multi_9.0000_len_13494

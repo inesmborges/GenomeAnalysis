@@ -1,0 +1,9 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+709802 709878 | 1076 1000 | 77 77 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_281400_flag_1_multi_4.0000_len_1105
+710118 710187 | 2017 1948 | 70 70 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_375340_flag_1_multi_5.9078_len_2017
+710111 710187 | 877 953 | 77 77 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_44979_flag_1_multi_5.0000_len_2013
+709802 709877 | 1289 1364 | 76 76 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_324854_flag_1_multi_7.0000_len_1392
+703 776 | 97 170 | 74 74 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000011.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_401989_flag_1_multi_1.9192_len_639
+203 312 | 552 661 | 110 110 | 99.09 | Microbulbifer_yueqingensis_NZ_FNFH01000014.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_80995_flag_1_multi_2.6790_len_661
+389 568 | 216 37 | 180 180 | 95.56 | Microbulbifer_yueqingensis_NZ_FNFH01000013.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_109950_flag_1_multi_4.5317_len_1272

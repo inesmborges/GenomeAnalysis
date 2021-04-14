@@ -1,0 +1,21 @@
+reference chromosomes:
+	Flavobacteriales_bacterium_ALC-1_ABHI01000004.1_Flavobacteriales_bacterium_ALC-1_1103813602122__whole_genome_shotgun_sequence (total length: 462108 bp, maximal covered length: 0 bp)
+	Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence (total length: 1029779 bp, maximal covered length: 229 bp)
+	Flavobacteriales_bacterium_ALC-1_ABHI01000005.1_Flavobacteriales_bacterium_ALC-1_1103813602121__whole_genome_shotgun_sequence (total length: 161788 bp, maximal covered length: 0 bp)
+	Flavobacteriales_bacterium_ALC-1_ABHI01000007.1_Flavobacteriales_bacterium_ALC-1_1103813602116__whole_genome_shotgun_sequence (total length: 92277 bp, maximal covered length: 0 bp)
+	Flavobacteriales_bacterium_ALC-1_ABHI01000003.1_Flavobacteriales_bacterium_ALC-1_1103813602120__whole_genome_shotgun_sequence (total length: 708642 bp, maximal covered length: 0 bp)
+	Flavobacteriales_bacterium_ALC-1_ABHI01000006.1_Flavobacteriales_bacterium_ALC-1_1103813602119__whole_genome_shotgun_sequence (total length: 104632 bp, maximal covered length: 0 bp)
+	Flavobacteriales_bacterium_ALC-1_ABHI01000008.1_Flavobacteriales_bacterium_ALC-1_1103813602118__whole_genome_shotgun_sequence (total length: 54455 bp, maximal covered length: 0 bp)
+	Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence (total length: 1212026 bp, maximal covered length: 527 bp)
+
+total genome size: 3825707
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Flavoba | 0.01976%  | 1.40873     | 14        | -         | -         | -         | -         |

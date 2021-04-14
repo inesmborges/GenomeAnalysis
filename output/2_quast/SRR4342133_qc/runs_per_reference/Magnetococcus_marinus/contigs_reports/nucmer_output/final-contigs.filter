@@ -1,0 +1,8 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Magnetococcus_marinus.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Magnetococcus_marinus.fasta
+NUCMER
+>Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence k119_249648_flag_0_multi_3.5937_len_813 4719581 813
+3620190 3620302 813 701 5 5 0
+0
+>Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence k119_249677_flag_0_multi_3.5486_len_757 4719581 757
+3370752 3370864 1 113 5 5 0
+0

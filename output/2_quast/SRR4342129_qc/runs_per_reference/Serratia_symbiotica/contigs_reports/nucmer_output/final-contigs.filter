@@ -1,0 +1,5 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Serratia_symbiotica.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Serratia_symbiotica.fasta
+NUCMER
+>Serratia_symbiotica_NZ_LR025083.1_Serratia_symbiotica_strain_SeCistrobi_genome_assembly__chromosome__1 k119_278877_flag_1_multi_6.0000_len_2054 2414146 2054
+719653 719729 1892 1968 1 1 0
+0

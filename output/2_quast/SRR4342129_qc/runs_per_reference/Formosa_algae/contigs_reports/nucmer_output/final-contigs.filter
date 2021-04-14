@@ -1,0 +1,31 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Formosa_algae.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Formosa_algae.fasta
+NUCMER
+>Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_121369_flag_0_multi_4.8020_len_523 415303 523
+254976 255070 501 408 1 1 0
+90
+0
+>Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_148917_flag_1_multi_2.1250_len_607 415303 607
+235319 235398 156 77 0 0 0
+0
+>Formosa_algae_NZ_JAGGJQ010000010.1_Formosa_algae_strain_DSM_15523_Ga0454090_10__whole_genome_shotgun_sequence k119_169208_flag_1_multi_5.8759_len_4187 201285 4187
+158790 158877 3488 3401 1 1 0
+0
+>Formosa_algae_NZ_JAGGJQ010000002.1_Formosa_algae_strain_DSM_15523_Ga0454090_02__whole_genome_shotgun_sequence k119_282670_flag_1_multi_3.0000_len_690 601739 690
+452705 452791 91 176 4 4 0
+76
+0
+>Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_304152_flag_1_multi_5.0000_len_1815 415303 1815
+65471 65546 622 547 0 0 0
+0
+>Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_347935_flag_1_multi_3.0000_len_1034 200747 1034
+33940 34015 81 156 1 1 0
+0
+>Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_369105_flag_0_multi_2.8662_len_657 200747 657
+34363 34437 448 522 1 1 0
+0
+>Formosa_algae_NZ_JAGGJQ010000001.1_Formosa_algae_strain_DSM_15523_Ga0454090_01__whole_genome_shotgun_sequence k119_393203_flag_0_multi_5.9120_len_1255 824498 1255
+243623 243695 1248 1176 0 0 0
+0
+>Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_7799_flag_1_multi_2.0000_len_746 415303 746
+253164 253248 585 669 2 2 0
+0

@@ -1,0 +1,213 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 4830181
+Analyzing contigs...
+CONTIG: k119_148028_flag_1_multi_11.0000_len_79341 (79341bp)
+Best alignment score: 90.0 (LEN: 93, IDY: 96.81)
+			The best set is below. Score: 90.0, number of alignments: 1, unaligned bases: 79248
+		This contig is partially unaligned. (Aligned 93 out of 79341 bases)
+		Alignment: 278853 278946 | 27674 27766 | 94 93 | 96.81 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_148028_flag_1_multi_11.0000_len_79341
+		Unaligned bases: 1 to 27673 (27673)
+		Unaligned bases: 27767 to 79341 (51575)
+
+CONTIG: k119_274187_flag_1_multi_10.0000_len_42713 (42713bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 42637
+		This contig is partially unaligned. (Aligned 76 out of 42713 bases)
+		Alignment: 4470415 4470490 | 42713 42638 | 76 76 | 100.0 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_274187_flag_1_multi_10.0000_len_42713
+		Unaligned bases: 1 to 42637 (42637)
+
+CONTIG: k119_30363_flag_1_multi_1.6606_len_502 (502bp)
+Best alignment score: 82.0 (LEN: 84, IDY: 97.65)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 418
+		Alignment: 4374328 4374412 | 502 419 | 85 84 | 97.65 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_30363_flag_1_multi_1.6606_len_502
+
+CONTIG: k119_253005_flag_1_multi_3.0000_len_2032 (2032bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 1957
+		This contig is partially unaligned. (Aligned 75 out of 2032 bases)
+		Alignment: 4374339 4374413 | 301 375 | 75 75 | 100.0 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_253005_flag_1_multi_3.0000_len_2032
+		Unaligned bases: 1 to 300 (300)
+		Unaligned bases: 376 to 2032 (1657)
+
+CONTIG: k119_179841_flag_1_multi_4.9845_len_5017 (5017bp)
+Best alignment score: 98.0 (LEN: 101, IDY: 97.03)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2927525 2927625 | 101 1 | 101 101 | 97.03 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_179841_flag_1_multi_4.9845_len_5017
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 98.0, number of alignments: 1, unaligned bases: 4916
+		This contig is partially unaligned. (Aligned 101 out of 5017 bases)
+		Alignment: 2316018 2316118 | 1 101 | 101 101 | 97.03 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_179841_flag_1_multi_4.9845_len_5017
+		Unaligned bases: 102 to 5017 (4916)
+
+CONTIG: k119_328650_flag_1_multi_5.0000_len_6609 (6609bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 6533
+		This contig is partially unaligned. (Aligned 76 out of 6609 bases)
+		Alignment: 4470415 4470490 | 2468 2543 | 76 76 | 100.0 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_328650_flag_1_multi_5.0000_len_6609
+		Unaligned bases: 1 to 2467 (2467)
+		Unaligned bases: 2544 to 6609 (4066)
+
+CONTIG: k119_282853_flag_1_multi_9.0000_len_13327 (13327bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 13253
+		This contig is partially unaligned. (Aligned 74 out of 13327 bases)
+		Alignment: 494547 494620 | 12555 12628 | 74 74 | 100.0 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_282853_flag_1_multi_9.0000_len_13327
+		Unaligned bases: 1 to 12554 (12554)
+		Unaligned bases: 12629 to 13327 (699)
+
+CONTIG: k119_136847_flag_1_multi_6.9199_len_7913 (7913bp)
+Best alignment score: 89.0 (LEN: 93, IDY: 95.74)
+			The best set is below. Score: 89.0, number of alignments: 1, unaligned bases: 7820
+		This contig is partially unaligned. (Aligned 93 out of 7913 bases)
+		Alignment: 4470400 4470492 | 697 605 | 93 93 | 95.74 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_136847_flag_1_multi_6.9199_len_7913
+		Unaligned bases: 1 to 604 (604)
+		Unaligned bases: 698 to 7913 (7216)
+
+CONTIG: k119_334304_flag_1_multi_8.9681_len_27989 (27989bp)
+Best alignment score: 80.0 (LEN: 81, IDY: 98.77)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 27908
+		This contig is partially unaligned. (Aligned 81 out of 27989 bases)
+		Alignment: 580508 580588 | 186 106 | 81 81 | 98.77 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_334304_flag_1_multi_8.9681_len_27989
+		Unaligned bases: 1 to 105 (105)
+		Unaligned bases: 187 to 27989 (27803)
+
+CONTIG: k119_91607_flag_1_multi_4.9970_len_6850 (6850bp)
+Best alignment score: 127.0 (LEN: 130, IDY: 97.69)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2927027 2927156 | 139 10 | 130 130 | 97.69 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_91607_flag_1_multi_4.9970_len_6850
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 127.0, number of alignments: 1, unaligned bases: 6720
+		This contig is partially unaligned. (Aligned 130 out of 6850 bases)
+		Alignment: 2316487 2316616 | 10 139 | 130 130 | 97.69 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_91607_flag_1_multi_4.9970_len_6850
+		Unaligned bases: 1 to 9 (9)
+		Unaligned bases: 140 to 6850 (6711)
+
+CONTIG: k119_242737_flag_1_multi_3.0000_len_560 (560bp)
+Best alignment score: 76.0 (LEN: 77, IDY: 98.70)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 483
+		Alignment: 1488606 1488682 | 316 240 | 77 77 | 98.7 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_242737_flag_1_multi_3.0000_len_560
+
+CONTIG: k119_291953_flag_1_multi_8.9878_len_40842 (40842bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 40764
+		This contig is partially unaligned. (Aligned 78 out of 40842 bases)
+		Alignment: 2658758 2658835 | 10217 10294 | 78 78 | 100.0 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_291953_flag_1_multi_8.9878_len_40842
+		Unaligned bases: 1 to 10216 (10216)
+		Unaligned bases: 10295 to 40842 (30548)
+
+CONTIG: k119_292837_flag_1_multi_3.0000_len_706 (706bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 627
+		This contig is partially unaligned. (Aligned 79 out of 706 bases)
+		Alignment: 2549197 2549275 | 176 98 | 79 79 | 100.0 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_292837_flag_1_multi_3.0000_len_706
+		Unaligned bases: 1 to 97 (97)
+		Unaligned bases: 177 to 706 (530)
+
+CONTIG: k119_366937_flag_1_multi_6.0000_len_3082 (3082bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 3007
+		This contig is partially unaligned. (Aligned 75 out of 3082 bases)
+		Alignment: 2658758 2658832 | 1915 1989 | 75 75 | 100.0 | Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_366937_flag_1_multi_6.0000_len_3082
+		Unaligned bases: 1 to 1914 (1914)
+		Unaligned bases: 1990 to 3082 (1093)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Ilumatobacter_coccineus_YM16-304/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence: 14 total alignments. 1 total regions.
+		Region: 1 to 4830181 (4830181 bp)
+			START in gap: 1 to 278853 (278852 bp)
+			Align 1: 278853 278946 k119_148028_flag_1_multi_11.0000_len_79341 27674 27766
+				Gap between this and next alignment: 278946 to 494547 (215600 bp)
+				Next Alignment: 494547 494620 k119_282853_flag_1_multi_9.0000_len_13327 12555 12628
+
+			Align 2: 494547 494620 k119_282853_flag_1_multi_9.0000_len_13327 12555 12628
+				Gap between this and next alignment: 494620 to 580508 (85887 bp)
+				Next Alignment: 580508 580588 k119_334304_flag_1_multi_8.9681_len_27989 186 106
+
+			Align 3: 580508 580588 k119_334304_flag_1_multi_8.9681_len_27989 186 106
+				Gap between this and next alignment: 580588 to 1488606 (908017 bp)
+				Next Alignment: 1488606 1488682 k119_242737_flag_1_multi_3.0000_len_560 316 240
+
+			Align 4: 1488606 1488682 k119_242737_flag_1_multi_3.0000_len_560 316 240
+				Gap between this and next alignment: 1488682 to 2316018 (827335 bp)
+				Next Alignment: 2316018 2316118 k119_179841_flag_1_multi_4.9845_len_5017 1 101
+
+			Align 5: 2316018 2316118 k119_179841_flag_1_multi_4.9845_len_5017 1 101
+				Gap between this and next alignment: 2316118 to 2316487 (368 bp)
+				Next Alignment: 2316487 2316616 k119_91607_flag_1_multi_4.9970_len_6850 10 139
+
+			Align 6: 2316487 2316616 k119_91607_flag_1_multi_4.9970_len_6850 10 139
+				Gap between this and next alignment: 2316616 to 2549197 (232580 bp)
+				Next Alignment: 2549197 2549275 k119_292837_flag_1_multi_3.0000_len_706 176 98
+
+			Align 7: 2549197 2549275 k119_292837_flag_1_multi_3.0000_len_706 176 98
+				Gap between this and next alignment: 2549275 to 2658758 (109482 bp)
+				Next Alignment: 2658758 2658835 k119_291953_flag_1_multi_8.9878_len_40842 10217 10294
+
+			Align 8: 2658758 2658835 k119_291953_flag_1_multi_8.9878_len_40842 10217 10294
+				The next alignment (2658758 2658832 k119_366937_flag_1_multi_6.0000_len_3082 1915 1989) is redundant. Skipping.
+				Gap between this and next alignment: 2658835 to 4374328 (1715492 bp)
+				Next Alignment: 4374328 4374412 k119_30363_flag_1_multi_1.6606_len_502 502 419
+
+			Align 10: 4374328 4374412 k119_30363_flag_1_multi_1.6606_len_502 502 419
+				Negative gap (overlap) between this and next alignment: 4374412 to 4374339 (-73 bp)
+				Next Alignment: 4374339 4374413 k119_253005_flag_1_multi_3.0000_len_2032 301 375
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 301 to 375.
+			Align 11: 4374413 4374413 k119_253005_flag_1_multi_3.0000_len_2032 375 375
+				Gap between this and next alignment: 4374413 to 4470400 (95986 bp)
+				Next Alignment: 4470400 4470492 k119_136847_flag_1_multi_6.9199_len_7913 697 605
+
+			Align 12: 4470400 4470492 k119_136847_flag_1_multi_6.9199_len_7913 697 605
+				The next alignment (4470415 4470490 k119_274187_flag_1_multi_10.0000_len_42713 42713 42638) is redundant. Skipping.
+				The next alignment (4470415 4470490 k119_328650_flag_1_multi_5.0000_len_6609 2468 2543) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Ilumatobacter_coccineus_YM16-304/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 12 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 235390
+
+Ambiguously Mapped Contigs: 2
+Total Bases in Ambiguously Mapped Contigs: 11867
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 893
+
+	SNPs: 13
+	Insertions: 1
+	Deletions: 3
+
+	Positive Gaps: 10
+		Internal Gaps: 0
+		External Gaps: 10
+		External Gap Total: 4469599
+		External Gap Average: 446960
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -73
+		External Overlaps Average: -73
+	Contigs with Redundant Alignments: 2 (227)

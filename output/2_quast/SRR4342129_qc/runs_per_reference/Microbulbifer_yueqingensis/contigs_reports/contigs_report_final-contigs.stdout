@@ -1,0 +1,164 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000001.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000002.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000004.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000005.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000006.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000007.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000008.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000009.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000010.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000011.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000012.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000013.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+	Loaded [Microbulbifer_yueqingensis_NZ_FNFH01000014.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 14
+	Total Region Length: 3664854
+Analyzing contigs...
+CONTIG: k119_281400_flag_1_multi_4.0000_len_1105 (1105bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 710111 710186 | 1076 1001 | 76 76 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_281400_flag_1_multi_4.0000_len_1105
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1028
+		This contig is partially unaligned. (Aligned 77 out of 1105 bases)
+		Alignment: 709802 709878 | 1076 1000 | 77 77 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_281400_flag_1_multi_4.0000_len_1105
+		Unaligned bases: 1 to 999 (999)
+		Unaligned bases: 1077 to 1105 (29)
+
+CONTIG: k119_375340_flag_1_multi_5.9078_len_2017 (2017bp)
+Best alignment score: 70.0 (LEN: 70, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 709809 709877 | 2017 1949 | 69 69 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_375340_flag_1_multi_5.9078_len_2017
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 1947
+		This contig is partially unaligned. (Aligned 70 out of 2017 bases)
+		Alignment: 710118 710187 | 2017 1948 | 70 70 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_375340_flag_1_multi_5.9078_len_2017
+		Unaligned bases: 1 to 1947 (1947)
+
+CONTIG: k119_44979_flag_1_multi_5.0000_len_2013 (2013bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 709802 709877 | 877 952 | 76 76 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_44979_flag_1_multi_5.0000_len_2013
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1936
+		This contig is partially unaligned. (Aligned 77 out of 2013 bases)
+		Alignment: 710111 710187 | 877 953 | 77 77 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_44979_flag_1_multi_5.0000_len_2013
+		Unaligned bases: 1 to 876 (876)
+		Unaligned bases: 954 to 2013 (1060)
+
+CONTIG: k119_324854_flag_1_multi_7.0000_len_1392 (1392bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 710111 710186 | 1289 1364 | 76 76 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_324854_flag_1_multi_7.0000_len_1392
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1316
+		This contig is partially unaligned. (Aligned 76 out of 1392 bases)
+		Alignment: 709802 709877 | 1289 1364 | 76 76 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_324854_flag_1_multi_7.0000_len_1392
+		Unaligned bases: 1 to 1288 (1288)
+		Unaligned bases: 1365 to 1392 (28)
+
+CONTIG: k119_401989_flag_1_multi_1.9192_len_639 (639bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 565
+		Alignment: 703 776 | 97 170 | 74 74 | 100.0 | Microbulbifer_yueqingensis_NZ_FNFH01000011.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_401989_flag_1_multi_1.9192_len_639
+
+CONTIG: k119_80995_flag_1_multi_2.6790_len_661 (661bp)
+Best alignment score: 109.0 (LEN: 110, IDY: 99.09)
+			The best set is below. Score: 109.0, number of alignments: 1, unaligned bases: 551
+		This contig is partially unaligned. (Aligned 110 out of 661 bases)
+		Alignment: 203 312 | 552 661 | 110 110 | 99.09 | Microbulbifer_yueqingensis_NZ_FNFH01000014.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_80995_flag_1_multi_2.6790_len_661
+		Unaligned bases: 1 to 551 (551)
+
+CONTIG: k119_109950_flag_1_multi_4.5317_len_1272 (1272bp)
+Best alignment score: 172.0 (LEN: 180, IDY: 95.56)
+			The best set is below. Score: 172.0, number of alignments: 1, unaligned bases: 1092
+		This contig is partially unaligned. (Aligned 180 out of 1272 bases)
+		Alignment: 389 568 | 216 37 | 180 180 | 95.56 | Microbulbifer_yueqingensis_NZ_FNFH01000013.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_109950_flag_1_multi_4.5317_len_1272
+		Unaligned bases: 1 to 36 (36)
+		Unaligned bases: 217 to 1272 (1056)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Microbulbifer_yueqingensis/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence: 4 total alignments. 1 total regions.
+		Region: 1 to 752090 (752090 bp)
+			START in gap: 1 to 709802 (709801 bp)
+			Align 1: 709802 709878 k119_281400_flag_1_multi_4.0000_len_1105 1076 1000
+				The next alignment (709802 709877 k119_324854_flag_1_multi_7.0000_len_1392 1289 1364) is redundant. Skipping.
+				Gap between this and next alignment: 709878 to 710111 (232 bp)
+				Next Alignment: 710111 710187 k119_44979_flag_1_multi_5.0000_len_2013 877 953
+
+			Align 3: 710111 710187 k119_44979_flag_1_multi_5.0000_len_2013 877 953
+				The next alignment (710118 710187 k119_375340_flag_1_multi_5.9078_len_2017 2017 1948) is redundant. Skipping.
+
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000008.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000010.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000002.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000006.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000007.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Microbulbifer_yueqingensis_NZ_FNFH01000011.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 11782 (11782 bp)
+			START in gap: 1 to 703 (702 bp)
+			Align 1: 703 776 k119_401989_flag_1_multi_1.9192_len_639 97 170
+			END in gap: 776 to 11782 (11006 bp).
+
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000004.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000005.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000009.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Microbulbifer_yueqingensis_NZ_FNFH01000013.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 2163 (2163 bp)
+			START in gap: 1 to 389 (388 bp)
+			Align 1: 389 568 k119_109950_flag_1_multi_4.5317_len_1272 216 37
+			END in gap: 568 to 2163 (1595 bp).
+
+	Reference Microbulbifer_yueqingensis_NZ_FNFH01000014.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 1772 (1772 bp)
+			START in gap: 1 to 203 (202 bp)
+			Align 1: 203 312 k119_80995_flag_1_multi_2.6790_len_661 552 661
+			END in gap: 312 to 1772 (1460 bp).
+
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000001.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Microbulbifer_yueqingensis_NZ_FNFH01000012.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Microbulbifer_yueqingensis/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 6 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 7870
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 1392
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 518
+
+	SNPs: 9
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 8
+		Internal Gaps: 0
+		External Gaps: 8
+		External Gap Total: 725386
+		External Gap Average: 90673
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 2 (146)

@@ -1,0 +1,8 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+1780667 1780743 | 414 338 | 77 77 | 97.4 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_198323_flag_1_multi_1.7233_len_549
+2507475 2507550 | 548 473 | 76 76 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_198323_flag_1_multi_1.7233_len_549
+3498753 3498829 | 94 170 | 77 77 | 97.4 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_401989_flag_1_multi_1.9192_len_639
+2507475 2507550 | 560 635 | 76 76 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_430447_flag_1_multi_1.8152_len_752
+1780667 1780743 | 237 161 | 77 77 | 97.4 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_157457_flag_1_multi_1.0000_len_622
+2507475 2507551 | 364 288 | 77 77 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_157457_flag_1_multi_1.0000_len_622

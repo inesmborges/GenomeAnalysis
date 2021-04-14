@@ -1,0 +1,15 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Thalassospira_xiamenensis_M-5___DSM_17429.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Thalassospira_xiamenensis_M-5___DSM_17429.fasta
+NUCMER
+>Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_215775_flag_1_multi_25.2577_len_701 4576570 701
+3166981 3167053 701 629 1 1 0
+0
+>Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_292384_flag_1_multi_2.0000_len_516 4576570 516
+598810 598896 516 430 2 2 0
+0
+>Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_367536_flag_1_multi_4.0000_len_517 4576570 517
+3166549 3166622 438 512 1 1 0
+-7
+0
+>Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_73302_flag_1_multi_6.3724_len_1687 4576570 1687
+3164065 3164158 1 94 0 0 0
+0

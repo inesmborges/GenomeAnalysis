@@ -1,0 +1,5 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Kitasatospora_mediocidica_KCTC_9733.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Kitasatospora_mediocidica_KCTC_9733.fasta
+NUCMER
+>Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000005.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_8_quiver.5_C__whole_genome_shotgun_sequence k119_160745_flag_1_multi_9.2909_len_2807 2728129 2807
+2726304 2726515 1678 1467 10 10 0
+0

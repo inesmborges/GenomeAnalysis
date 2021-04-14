@@ -1,0 +1,37 @@
+reference chromosomes:
+	Formosa_algae_NZ_JAGGJQ010000002.1_Formosa_algae_strain_DSM_15523_Ga0454090_02__whole_genome_shotgun_sequence (total length: 601739 bp, maximal covered length: 87 bp)
+	Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence (total length: 200747 bp, maximal covered length: 77 bp)
+	Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence (total length: 415303 bp, maximal covered length: 256 bp)
+	Formosa_algae_NZ_JAGGJQ010000007.1_Formosa_algae_strain_DSM_15523_Ga0454090_07__whole_genome_shotgun_sequence (total length: 280746 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000021.1_Formosa_algae_strain_DSM_15523_Ga0454090_21__whole_genome_shotgun_sequence (total length: 1696 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000012.1_Formosa_algae_strain_DSM_15523_Ga0454090_12__whole_genome_shotgun_sequence (total length: 144422 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000020.1_Formosa_algae_strain_DSM_15523_Ga0454090_20__whole_genome_shotgun_sequence (total length: 3390 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000022.1_Formosa_algae_strain_DSM_15523_Ga0454090_22__whole_genome_shotgun_sequence (total length: 1376 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000017.1_Formosa_algae_strain_DSM_15523_Ga0454090_17__whole_genome_shotgun_sequence (total length: 5845 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000010.1_Formosa_algae_strain_DSM_15523_Ga0454090_10__whole_genome_shotgun_sequence (total length: 201285 bp, maximal covered length: 88 bp)
+	Formosa_algae_NZ_JAGGJQ010000013.1_Formosa_algae_strain_DSM_15523_Ga0454090_13__whole_genome_shotgun_sequence (total length: 91384 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000004.1_Formosa_algae_strain_DSM_15523_Ga0454090_04__whole_genome_shotgun_sequence (total length: 352161 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000018.1_Formosa_algae_strain_DSM_15523_Ga0454090_18__whole_genome_shotgun_sequence (total length: 4556 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000023.1_Formosa_algae_strain_DSM_15523_Ga0454090_23__whole_genome_shotgun_sequence (total length: 1029 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000015.1_Formosa_algae_strain_DSM_15523_Ga0454090_15__whole_genome_shotgun_sequence (total length: 11617 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000008.1_Formosa_algae_strain_DSM_15523_Ga0454090_08__whole_genome_shotgun_sequence (total length: 268881 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000009.1_Formosa_algae_strain_DSM_15523_Ga0454090_09__whole_genome_shotgun_sequence (total length: 214330 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000019.1_Formosa_algae_strain_DSM_15523_Ga0454090_19__whole_genome_shotgun_sequence (total length: 3944 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000024.1_Formosa_algae_strain_DSM_15523_Ga0454090_24__whole_genome_shotgun_sequence (total length: 1018 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000005.1_Formosa_algae_strain_DSM_15523_Ga0454090_05__whole_genome_shotgun_sequence (total length: 323582 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000001.1_Formosa_algae_strain_DSM_15523_Ga0454090_01__whole_genome_shotgun_sequence (total length: 824498 bp, maximal covered length: 73 bp)
+	Formosa_algae_NZ_JAGGJQ010000014.1_Formosa_algae_strain_DSM_15523_Ga0454090_14__whole_genome_shotgun_sequence (total length: 31708 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000006.1_Formosa_algae_strain_DSM_15523_Ga0454090_06__whole_genome_shotgun_sequence (total length: 307641 bp, maximal covered length: 0 bp)
+	Formosa_algae_NZ_JAGGJQ010000016.1_Formosa_algae_strain_DSM_15523_Ga0454090_16__whole_genome_shotgun_sequence (total length: 7362 bp, maximal covered length: 0 bp)
+
+total genome size: 4300260
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Formosa | 0.01351%  | 5.24613     | 31        | -         | -         | -         | -         |

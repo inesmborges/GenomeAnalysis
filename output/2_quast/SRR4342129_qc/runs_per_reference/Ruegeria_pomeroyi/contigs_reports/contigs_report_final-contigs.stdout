@@ -1,0 +1,187 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence]
+	Loaded [Ruegeria_pomeroyi_NC_006569.1_Ruegeria_pomeroyi_DSS-3_megaplasmid__complete_sequence]
+Loading SNPs...
+	Total Regions: 2
+	Total Region Length: 4601048
+Analyzing contigs...
+CONTIG: k119_143681_flag_1_multi_5.7090_len_875 (875bp)
+Best alignment score: 491.0 (LEN: 503, IDY: 97.61)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3462392 3462894 | 373 875 | 503 503 | 97.61 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_143681_flag_1_multi_5.7090_len_875
+		Skipping redundant alignment 4010728 4011230 | 373 875 | 503 503 | 97.61 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_143681_flag_1_multi_5.7090_len_875
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 491.0, number of alignments: 1, unaligned bases: 372
+		Alignment: 266644 267146 | 875 373 | 503 503 | 97.61 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_143681_flag_1_multi_5.7090_len_875
+
+CONTIG: k119_174235_flag_1_multi_5.0000_len_654 (654bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 575
+		This contig is partially unaligned. (Aligned 79 out of 654 bases)
+		Alignment: 2645394 2645472 | 596 518 | 79 79 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_174235_flag_1_multi_5.0000_len_654
+		Unaligned bases: 1 to 517 (517)
+		Unaligned bases: 597 to 654 (58)
+
+CONTIG: k119_312326_flag_1_multi_3.8300_len_2113 (2113bp)
+Best alignment score: 420.0 (LEN: 439, IDY: 95.67)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3467026 3467464 | 2113 1675 | 439 439 | 95.67 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_312326_flag_1_multi_3.8300_len_2113
+		Skipping redundant alignment 4015362 4015800 | 2113 1675 | 439 439 | 95.67 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_312326_flag_1_multi_3.8300_len_2113
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 420.0, number of alignments: 1, unaligned bases: 1674
+		This contig is partially unaligned. (Aligned 439 out of 2113 bases)
+		Alignment: 262074 262512 | 1675 2113 | 439 439 | 95.67 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_312326_flag_1_multi_3.8300_len_2113
+		Unaligned bases: 1 to 1674 (1674)
+
+CONTIG: k119_367536_flag_1_multi_4.0000_len_517 (517bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3466165 3466238 | 438 511 | 74 74 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_367536_flag_1_multi_4.0000_len_517
+		Skipping redundant alignment 4014501 4014574 | 438 511 | 74 74 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_367536_flag_1_multi_4.0000_len_517
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 443
+		Alignment: 263300 263373 | 511 438 | 74 74 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_367536_flag_1_multi_4.0000_len_517
+
+CONTIG: k119_93524_flag_1_multi_3.0000_len_688 (688bp)
+Best alignment score: 79.0 (LEN: 80, IDY: 98.75)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2310674 2310748 | 532 458 | 75 75 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_93524_flag_1_multi_3.0000_len_688
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 608
+		Alignment: 2251312 2251390 | 532 453 | 79 80 | 98.75 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_93524_flag_1_multi_3.0000_len_688
+
+CONTIG: k119_266949_flag_1_multi_7.0889_len_895 (895bp)
+Best alignment score: 287.0 (LEN: 297, IDY: 96.63)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3462377 3462673 | 599 895 | 297 297 | 96.63 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_266949_flag_1_multi_7.0889_len_895
+		Skipping redundant alignment 4010713 4011009 | 599 895 | 297 297 | 96.63 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_266949_flag_1_multi_7.0889_len_895
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 287.0, number of alignments: 1, unaligned bases: 598
+		This contig is partially unaligned. (Aligned 297 out of 895 bases)
+		Alignment: 266865 267161 | 895 599 | 297 297 | 96.63 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_266949_flag_1_multi_7.0889_len_895
+		Unaligned bases: 1 to 598 (598)
+
+CONTIG: k119_102552_flag_1_multi_6.0000_len_1415 (1415bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1338
+		This contig is partially unaligned. (Aligned 77 out of 1415 bases)
+		Alignment: 2645396 2645472 | 1415 1339 | 77 77 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_102552_flag_1_multi_6.0000_len_1415
+		Unaligned bases: 1 to 1338 (1338)
+
+CONTIG: k119_75137_flag_1_multi_8.0000_len_6630 (6630bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 6551
+		This contig is partially unaligned. (Aligned 79 out of 6630 bases)
+		Alignment: 2645394 2645472 | 152 74 | 79 79 | 100.0 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_75137_flag_1_multi_8.0000_len_6630
+		Unaligned bases: 1 to 73 (73)
+		Unaligned bases: 153 to 6630 (6478)
+
+CONTIG: k119_48182_flag_1_multi_4.1703_len_1076 (1076bp)
+Best alignment score: 121.0 (LEN: 127, IDY: 95.28)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3466164 3466290 | 949 1075 | 127 127 | 95.28 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_48182_flag_1_multi_4.1703_len_1076
+		Skipping redundant alignment 4014500 4014626 | 949 1075 | 127 127 | 95.28 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_48182_flag_1_multi_4.1703_len_1076
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 121.0, number of alignments: 1, unaligned bases: 949
+		This contig is partially unaligned. (Aligned 127 out of 1076 bases)
+		Alignment: 263248 263374 | 1075 949 | 127 127 | 95.28 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_48182_flag_1_multi_4.1703_len_1076
+		Unaligned bases: 1 to 948 (948)
+		Unaligned bases: 1076 to 1076 (1)
+
+CONTIG: k119_53548_flag_1_multi_3.7211_len_646 (646bp)
+Best alignment score: 83.0 (LEN: 84, IDY: 98.81)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3465727 3465810 | 132 49 | 84 84 | 98.81 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_53548_flag_1_multi_3.7211_len_646
+		Skipping redundant alignment 4014063 4014146 | 132 49 | 84 84 | 98.81 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_53548_flag_1_multi_3.7211_len_646
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 562
+		This contig is partially unaligned. (Aligned 84 out of 646 bases)
+		Alignment: 263728 263811 | 49 132 | 84 84 | 98.81 | Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_53548_flag_1_multi_3.7211_len_646
+		Unaligned bases: 1 to 48 (48)
+		Unaligned bases: 133 to 646 (514)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Ruegeria_pomeroyi/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence: 10 total alignments. 1 total regions.
+		Region: 1 to 4109437 (4109437 bp)
+			START in gap: 1 to 262074 (262073 bp)
+			Align 1: 262074 262512 k119_312326_flag_1_multi_3.8300_len_2113 1675 2113
+				Gap between this and next alignment: 262512 to 263248 (735 bp)
+				Next Alignment: 263248 263374 k119_48182_flag_1_multi_4.1703_len_1076 1075 949
+
+			Align 2: 263248 263374 k119_48182_flag_1_multi_4.1703_len_1076 1075 949
+				The next alignment (263300 263373 k119_367536_flag_1_multi_4.0000_len_517 511 438) is redundant. Skipping.
+				Gap between this and next alignment: 263374 to 263728 (353 bp)
+				Next Alignment: 263728 263811 k119_53548_flag_1_multi_3.7211_len_646 49 132
+
+			Align 4: 263728 263811 k119_53548_flag_1_multi_3.7211_len_646 49 132
+				Gap between this and next alignment: 263811 to 266644 (2832 bp)
+				Next Alignment: 266644 267146 k119_143681_flag_1_multi_5.7090_len_875 875 373
+
+			Align 5: 266644 267146 k119_143681_flag_1_multi_5.7090_len_875 875 373
+				Negative gap (overlap) between this and next alignment: 267146 to 266865 (-281 bp)
+				Next Alignment: 266865 267161 k119_266949_flag_1_multi_7.0889_len_895 895 599
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 895 to 613.
+			Align 6: 267147 267161 k119_266949_flag_1_multi_7.0889_len_895 613 599
+				Gap between this and next alignment: 267161 to 2251312 (1984150 bp)
+				Next Alignment: 2251312 2251390 k119_93524_flag_1_multi_3.0000_len_688 532 453
+
+			Align 7: 2251312 2251390 k119_93524_flag_1_multi_3.0000_len_688 532 453
+				Gap between this and next alignment: 2251390 to 2645394 (394003 bp)
+				Next Alignment: 2645394 2645472 k119_174235_flag_1_multi_5.0000_len_654 596 518
+
+			Align 8: 2645394 2645472 k119_174235_flag_1_multi_5.0000_len_654 596 518
+				The next alignment (2645394 2645472 k119_75137_flag_1_multi_8.0000_len_6630 152 74) is redundant. Skipping.
+				The next alignment (2645396 2645472 k119_102552_flag_1_multi_6.0000_len_1415 1415 1339) is redundant. Skipping.
+
+WARNING: Reference Ruegeria_pomeroyi_NC_006569.1_Ruegeria_pomeroyi_DSS-3_megaplasmid__complete_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Ruegeria_pomeroyi/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 7 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 12247
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 6122
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1326
+
+	SNPs: 40
+	Insertions: 1
+	Deletions: 0
+
+	Positive Gaps: 6
+		Internal Gaps: 0
+		External Gaps: 6
+		External Gap Total: 2644146
+		External Gap Average: 440691
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -281
+		External Overlaps Average: -281
+	Contigs with Redundant Alignments: 2 (230)

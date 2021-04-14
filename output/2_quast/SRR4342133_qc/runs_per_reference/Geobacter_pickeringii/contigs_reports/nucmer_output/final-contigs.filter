@@ -1,0 +1,8 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Geobacter_pickeringii.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Geobacter_pickeringii.fasta
+NUCMER
+>Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k119_284642_flag_1_multi_5.7156_len_1318 3618700 1318
+2910626 2910693 264 197 0 0 0
+0
+>Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k119_34150_flag_0_multi_11.6875_len_9177 3618700 9177
+3581735 3581820 106 191 4 4 0
+0

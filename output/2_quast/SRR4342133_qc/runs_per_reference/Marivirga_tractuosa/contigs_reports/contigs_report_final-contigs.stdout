@@ -1,0 +1,83 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Marivirga_tractuosa_NC_014750.1_Marivirga_tractuosa_DSM_4126_plasmid_pFTRAC01__complete_sequence]
+	Loaded [Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence]
+Loading SNPs...
+	Total Regions: 2
+	Total Region Length: 4516490
+Analyzing contigs...
+CONTIG: k119_123184_flag_1_multi_3.0000_len_742 (742bp)
+Best alignment score: 80.0 (LEN: 81, IDY: 98.77)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 661
+		This contig is partially unaligned. (Aligned 81 out of 742 bases)
+		Alignment: 3149750 3149830 | 138 58 | 81 81 | 98.77 | Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence k119_123184_flag_1_multi_3.0000_len_742
+		Unaligned bases: 1 to 57 (57)
+		Unaligned bases: 139 to 742 (604)
+
+CONTIG: k119_82884_flag_1_multi_3.7993_len_1001 (1001bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4142700 4142774 | 689 615 | 75 75 | 100.0 | Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence k119_82884_flag_1_multi_3.7993_len_1001
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 926
+		This contig is partially unaligned. (Aligned 75 out of 1001 bases)
+		Alignment: 2010643 2010717 | 615 689 | 75 75 | 100.0 | Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence k119_82884_flag_1_multi_3.7993_len_1001
+		Unaligned bases: 1 to 614 (614)
+		Unaligned bases: 690 to 1001 (312)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Marivirga_tractuosa/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 4511574 (4511574 bp)
+			START in gap: 1 to 2010643 (2010642 bp)
+			Align 1: 2010643 2010717 k119_82884_flag_1_multi_3.7993_len_1001 615 689
+				Gap between this and next alignment: 2010717 to 3149750 (1139032 bp)
+				Next Alignment: 3149750 3149830 k119_123184_flag_1_multi_3.0000_len_742 138 58
+
+			Align 2: 3149750 3149830 k119_123184_flag_1_multi_3.0000_len_742 138 58
+			END in gap: 3149830 to 4511574 (1361744 bp).
+
+WARNING: Reference Marivirga_tractuosa_NC_014750.1_Marivirga_tractuosa_DSM_4126_plasmid_pFTRAC01__complete_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Marivirga_tractuosa/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 2 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 1587
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 1001
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 156
+
+	SNPs: 1
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 3
+		Internal Gaps: 0
+		External Gaps: 3
+		External Gap Total: 4511418
+		External Gap Average: 1503806
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

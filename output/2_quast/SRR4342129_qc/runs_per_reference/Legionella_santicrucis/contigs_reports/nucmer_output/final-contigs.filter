@@ -1,0 +1,16 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Legionella_santicrucis.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Legionella_santicrucis.fasta
+NUCMER
+>Legionella_santicrucis_NZ_LNYU01000012.1_Legionella_santicrucis_strain_SC-63-C7_Lsan_ctg012__whole_genome_shotgun_sequence k119_202408_flag_1_multi_1.8138_len_640 77015 640
+56497 56578 22 103 2 2 0
+0
+>Legionella_santicrucis_NZ_LNYU01000032.1_Legionella_santicrucis_strain_SC-63-C7_Lsan_ctg032__whole_genome_shotgun_sequence k119_215689_flag_1_multi_4.5428_len_2420 265161 2420
+156096 156172 199 275 0 0 0
+0
+>Legionella_santicrucis_NZ_LNYU01000009.1_Legionella_santicrucis_strain_SC-63-C7_Lsan_ctg009__whole_genome_shotgun_sequence k119_292932_flag_1_multi_3.0000_len_677 269708 677
+69490 69565 179 254 1 1 0
+0
+>Legionella_santicrucis_NZ_LNYU01000009.1_Legionella_santicrucis_strain_SC-63-C7_Lsan_ctg009__whole_genome_shotgun_sequence k119_334256_flag_1_multi_2.5732_len_672 269708 672
+68981 69230 648 401 11 11 0
+154
+5
+0

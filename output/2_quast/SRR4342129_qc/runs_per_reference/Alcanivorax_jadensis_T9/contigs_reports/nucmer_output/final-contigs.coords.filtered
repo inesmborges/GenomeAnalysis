@@ -1,0 +1,6 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+111659 111736 | 415 338 | 78 78 | 100.0 | Alcanivorax_jadensis_T9_NZ_ARXU01000005.1_Alcanivorax_jadensis_T9_contig5__whole_genome_shotgun_sequence k119_198323_flag_1_multi_1.7233_len_549
+111659 111736 | 238 161 | 78 78 | 100.0 | Alcanivorax_jadensis_T9_NZ_ARXU01000005.1_Alcanivorax_jadensis_T9_contig5__whole_genome_shotgun_sequence k119_157457_flag_1_multi_1.0000_len_622
+101870 101951 | 409 490 | 82 82 | 98.78 | Alcanivorax_jadensis_T9_NZ_ARXU01000008.1_Alcanivorax_jadensis_T9_contig8__whole_genome_shotgun_sequence k119_399055_flag_1_multi_3.0000_len_1805
+101885 101951 | 3050 2984 | 67 67 | 100.0 | Alcanivorax_jadensis_T9_NZ_ARXU01000008.1_Alcanivorax_jadensis_T9_contig8__whole_genome_shotgun_sequence k119_357640_flag_1_multi_5.9420_len_3050

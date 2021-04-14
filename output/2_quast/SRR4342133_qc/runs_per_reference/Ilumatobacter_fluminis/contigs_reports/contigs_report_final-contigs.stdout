@@ -1,0 +1,281 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 4775416
+Analyzing contigs...
+CONTIG: k119_124384_flag_0_multi_19.2781_len_6031 (6031bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 5957
+		This contig is partially unaligned. (Aligned 74 out of 6031 bases)
+		Alignment: 626053 626126 | 3644 3571 | 74 74 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_124384_flag_0_multi_19.2781_len_6031
+		Unaligned bases: 1 to 3570 (3570)
+		Unaligned bases: 3645 to 6031 (2387)
+
+CONTIG: k119_222652_flag_1_multi_4.0000_len_1787 (1787bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1708
+		This contig is partially unaligned. (Aligned 79 out of 1787 bases)
+		Alignment: 3038711 3038789 | 450 528 | 79 79 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_222652_flag_1_multi_4.0000_len_1787
+		Unaligned bases: 1 to 449 (449)
+		Unaligned bases: 529 to 1787 (1259)
+
+CONTIG: k119_247891_flag_0_multi_10.0821_len_3311 (3311bp)
+Best alignment score: 207.0 (LEN: 217, IDY: 95.39)
+			The best set is below. Score: 207.0, number of alignments: 1, unaligned bases: 3094
+		This contig is partially unaligned. (Aligned 217 out of 3311 bases)
+		Alignment: 2136529 2136745 | 3095 3311 | 217 217 | 95.39 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_247891_flag_0_multi_10.0821_len_3311
+		Unaligned bases: 1 to 3094 (3094)
+
+CONTIG: k119_273389_flag_1_multi_1.7663_len_992 (992bp)
+Best alignment score: 82.0 (LEN: 85, IDY: 96.47)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 907
+		This contig is partially unaligned. (Aligned 85 out of 992 bases)
+		Alignment: 2140185 2140269 | 85 1 | 85 85 | 96.47 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_273389_flag_1_multi_1.7663_len_992
+		Unaligned bases: 86 to 992 (907)
+
+CONTIG: k119_52435_flag_1_multi_5.0000_len_2018 (2018bp)
+Best alignment score: 114.0 (LEN: 120, IDY: 95.04)
+			The best set is below. Score: 114.0, number of alignments: 1, unaligned bases: 1898
+		This contig is partially unaligned. (Aligned 120 out of 2018 bases)
+		Alignment: 4330162 4330280 | 332 213 | 119 120 | 95.04 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_52435_flag_1_multi_5.0000_len_2018
+		Unaligned bases: 1 to 212 (212)
+		Unaligned bases: 333 to 2018 (1686)
+
+CONTIG: k119_153118_flag_1_multi_2.0000_len_1057 (1057bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 982
+		This contig is partially unaligned. (Aligned 75 out of 1057 bases)
+		Alignment: 626052 626126 | 588 514 | 75 75 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_153118_flag_1_multi_2.0000_len_1057
+		Unaligned bases: 1 to 513 (513)
+		Unaligned bases: 589 to 1057 (469)
+
+CONTIG: k119_80028_flag_1_multi_9.0000_len_24092 (24092bp)
+Best alignment score: 112.0 (LEN: 116, IDY: 96.55)
+			The best set is below. Score: 112.0, number of alignments: 1, unaligned bases: 23976
+		This contig is partially unaligned. (Aligned 116 out of 24092 bases)
+		Alignment: 4330166 4330280 | 298 413 | 115 116 | 96.55 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_80028_flag_1_multi_9.0000_len_24092
+		Unaligned bases: 1 to 297 (297)
+		Unaligned bases: 414 to 24092 (23679)
+
+CONTIG: k119_276822_flag_1_multi_2.0000_len_500 (500bp)
+Best alignment score: 81.0 (LEN: 81, IDY: 100.00)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 419
+		Alignment: 2687764 2687844 | 44 124 | 81 81 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_276822_flag_1_multi_2.0000_len_500
+
+CONTIG: k119_277357_flag_1_multi_6.2433_len_5930 (5930bp)
+Best alignment score: 66.0 (LEN: 66, IDY: 100.00)
+			The best set is below. Score: 66.0, number of alignments: 1, unaligned bases: 5864
+		This contig is partially unaligned. (Aligned 66 out of 5930 bases)
+		Alignment: 2136288 2136353 | 1125 1060 | 66 66 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_277357_flag_1_multi_6.2433_len_5930
+		Unaligned bases: 1 to 1059 (1059)
+		Unaligned bases: 1126 to 5930 (4805)
+
+CONTIG: k119_351597_flag_1_multi_3.9393_len_2934 (2934bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 2859
+		This contig is partially unaligned. (Aligned 75 out of 2934 bases)
+		Alignment: 626052 626126 | 965 891 | 75 75 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_351597_flag_1_multi_3.9393_len_2934
+		Unaligned bases: 1 to 890 (890)
+		Unaligned bases: 966 to 2934 (1969)
+
+CONTIG: k119_280569_flag_1_multi_4.0000_len_579 (579bp)
+Best alignment score: 85.0 (LEN: 89, IDY: 95.51)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 490
+		Alignment: 4569683 4569771 | 2 90 | 89 89 | 95.51 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_280569_flag_1_multi_4.0000_len_579
+
+CONTIG: k119_87556_flag_1_multi_4.3743_len_803 (803bp)
+Best alignment score: 105.0 (LEN: 106, IDY: 99.06)
+			The best set is below. Score: 105.0, number of alignments: 1, unaligned bases: 697
+		This contig is partially unaligned. (Aligned 106 out of 803 bases)
+		Alignment: 2138140 2138245 | 106 1 | 106 106 | 99.06 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_87556_flag_1_multi_4.3743_len_803
+		Unaligned bases: 107 to 803 (697)
+
+CONTIG: k119_360416_flag_0_multi_3.9274_len_946 (946bp)
+Best alignment score: 68.0 (LEN: 68, IDY: 100.00)
+			The best set is below. Score: 68.0, number of alignments: 1, unaligned bases: 878
+		This contig is partially unaligned. (Aligned 68 out of 946 bases)
+		Alignment: 4627357 4627424 | 946 879 | 68 68 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_360416_flag_0_multi_3.9274_len_946
+		Unaligned bases: 1 to 878 (878)
+
+CONTIG: k119_112570_flag_1_multi_9.0000_len_2663 (2663bp)
+Best alignment score: 83.0 (LEN: 86, IDY: 96.51)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 2577
+		This contig is partially unaligned. (Aligned 86 out of 2663 bases)
+		Alignment: 4569686 4569771 | 2230 2315 | 86 86 | 96.51 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_112570_flag_1_multi_9.0000_len_2663
+		Unaligned bases: 1 to 2229 (2229)
+		Unaligned bases: 2316 to 2663 (348)
+
+CONTIG: k119_15966_flag_1_multi_2.8681_len_1271 (1271bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 1195
+		This contig is partially unaligned. (Aligned 76 out of 1271 bases)
+		Alignment: 2136284 2136359 | 1175 1250 | 76 76 | 98.68 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_15966_flag_1_multi_2.8681_len_1271
+		Unaligned bases: 1 to 1174 (1174)
+		Unaligned bases: 1251 to 1271 (21)
+
+CONTIG: k119_42177_flag_1_multi_4.5529_len_1139 (1139bp)
+Best alignment score: 182.0 (LEN: 183, IDY: 99.46)
+			The best set is below. Score: 182.0, number of alignments: 1, unaligned bases: 956
+		This contig is partially unaligned. (Aligned 183 out of 1139 bases)
+		Alignment: 2137626 2137809 | 1139 957 | 184 183 | 99.46 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_42177_flag_1_multi_4.5529_len_1139
+		Unaligned bases: 1 to 956 (956)
+
+CONTIG: k119_18004_flag_1_multi_4.9246_len_4839 (4839bp)
+Best alignment score: 238.0 (LEN: 248, IDY: 95.98)
+			The best set is below. Score: 238.0, number of alignments: 1, unaligned bases: 4591
+		This contig is partially unaligned. (Aligned 248 out of 4839 bases)
+		Alignment: 2140955 2141203 | 4839 4592 | 249 248 | 95.98 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_18004_flag_1_multi_4.9246_len_4839
+		Unaligned bases: 1 to 4591 (4591)
+
+CONTIG: k119_266055_flag_0_multi_8.6608_len_2737 (2737bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 2662
+		This contig is partially unaligned. (Aligned 75 out of 2737 bases)
+		Alignment: 626052 626126 | 1726 1652 | 75 75 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_266055_flag_0_multi_8.6608_len_2737
+		Unaligned bases: 1 to 1651 (1651)
+		Unaligned bases: 1727 to 2737 (1011)
+
+CONTIG: k119_144541_flag_1_multi_2.0474_len_583 (583bp)
+Best alignment score: 85.0 (LEN: 89, IDY: 95.51)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 494
+		Alignment: 4569683 4569771 | 304 216 | 89 89 | 95.51 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_144541_flag_1_multi_2.0474_len_583
+
+CONTIG: k119_244622_flag_1_multi_4.0000_len_1362 (1362bp)
+Best alignment score: 75.0 (LEN: 77, IDY: 97.40)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 1285
+		This contig is partially unaligned. (Aligned 77 out of 1362 bases)
+		Alignment: 4569695 4569771 | 1 77 | 77 77 | 97.4 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_244622_flag_1_multi_4.0000_len_1362
+		Unaligned bases: 78 to 1362 (1285)
+
+CONTIG: k119_293680_flag_1_multi_5.0000_len_10027 (10027bp)
+Best alignment score: 104.0 (LEN: 107, IDY: 97.20)
+			The best set is below. Score: 104.0, number of alignments: 1, unaligned bases: 9920
+		This contig is partially unaligned. (Aligned 107 out of 10027 bases)
+		Alignment: 850365 850471 | 2308 2414 | 107 107 | 97.2 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_293680_flag_1_multi_5.0000_len_10027
+		Unaligned bases: 1 to 2307 (2307)
+		Unaligned bases: 2415 to 10027 (7613)
+
+CONTIG: k119_293852_flag_0_multi_10.8750_len_1719 (1719bp)
+Best alignment score: 68.0 (LEN: 68, IDY: 100.00)
+			The best set is below. Score: 68.0, number of alignments: 1, unaligned bases: 1651
+		This contig is partially unaligned. (Aligned 68 out of 1719 bases)
+		Alignment: 4627357 4627424 | 1 68 | 68 68 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_293852_flag_0_multi_10.8750_len_1719
+		Unaligned bases: 69 to 1719 (1651)
+
+CONTIG: k119_344443_flag_1_multi_9.0000_len_20075 (20075bp)
+Best alignment score: 94.0 (LEN: 94, IDY: 100.00)
+			The best set is below. Score: 94.0, number of alignments: 1, unaligned bases: 19981
+		This contig is partially unaligned. (Aligned 94 out of 20075 bases)
+		Alignment: 850365 850458 | 15801 15708 | 94 94 | 100.0 | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_344443_flag_1_multi_9.0000_len_20075
+		Unaligned bases: 1 to 15707 (15707)
+		Unaligned bases: 15802 to 20075 (4274)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Ilumatobacter_fluminis/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence: 23 total alignments. 1 total regions.
+		Region: 1 to 4775416 (4775416 bp)
+			START in gap: 1 to 626052 (626051 bp)
+			Align 1: 626052 626126 k119_153118_flag_1_multi_2.0000_len_1057 588 514
+				The next alignment (626052 626126 k119_351597_flag_1_multi_3.9393_len_2934 965 891) is redundant. Skipping.
+				The next alignment (626052 626126 k119_266055_flag_0_multi_8.6608_len_2737 1726 1652) is redundant. Skipping.
+				The next alignment (626053 626126 k119_124384_flag_0_multi_19.2781_len_6031 3644 3571) is redundant. Skipping.
+				Gap between this and next alignment: 626126 to 850365 (224238 bp)
+				Next Alignment: 850365 850471 k119_293680_flag_1_multi_5.0000_len_10027 2308 2414
+
+			Align 5: 850365 850471 k119_293680_flag_1_multi_5.0000_len_10027 2308 2414
+				The next alignment (850365 850458 k119_344443_flag_1_multi_9.0000_len_20075 15801 15708) is redundant. Skipping.
+				Gap between this and next alignment: 850471 to 2136284 (1285812 bp)
+				Next Alignment: 2136284 2136359 k119_15966_flag_1_multi_2.8681_len_1271 1175 1250
+
+			Align 7: 2136284 2136359 k119_15966_flag_1_multi_2.8681_len_1271 1175 1250
+				The next alignment (2136288 2136353 k119_277357_flag_1_multi_6.2433_len_5930 1125 1060) is redundant. Skipping.
+				Gap between this and next alignment: 2136359 to 2136529 (169 bp)
+				Next Alignment: 2136529 2136745 k119_247891_flag_0_multi_10.0821_len_3311 3095 3311
+
+			Align 9: 2136529 2136745 k119_247891_flag_0_multi_10.0821_len_3311 3095 3311
+				Gap between this and next alignment: 2136745 to 2137626 (880 bp)
+				Next Alignment: 2137626 2137809 k119_42177_flag_1_multi_4.5529_len_1139 1139 957
+
+			Align 10: 2137626 2137809 k119_42177_flag_1_multi_4.5529_len_1139 1139 957
+				Gap between this and next alignment: 2137809 to 2138140 (330 bp)
+				Next Alignment: 2138140 2138245 k119_87556_flag_1_multi_4.3743_len_803 106 1
+
+			Align 11: 2138140 2138245 k119_87556_flag_1_multi_4.3743_len_803 106 1
+				Gap between this and next alignment: 2138245 to 2140185 (1939 bp)
+				Next Alignment: 2140185 2140269 k119_273389_flag_1_multi_1.7663_len_992 85 1
+
+			Align 12: 2140185 2140269 k119_273389_flag_1_multi_1.7663_len_992 85 1
+				Gap between this and next alignment: 2140269 to 2140955 (685 bp)
+				Next Alignment: 2140955 2141203 k119_18004_flag_1_multi_4.9246_len_4839 4839 4592
+
+			Align 13: 2140955 2141203 k119_18004_flag_1_multi_4.9246_len_4839 4839 4592
+				Gap between this and next alignment: 2141203 to 2687764 (546560 bp)
+				Next Alignment: 2687764 2687844 k119_276822_flag_1_multi_2.0000_len_500 44 124
+
+			Align 14: 2687764 2687844 k119_276822_flag_1_multi_2.0000_len_500 44 124
+				Gap between this and next alignment: 2687844 to 3038711 (350866 bp)
+				Next Alignment: 3038711 3038789 k119_222652_flag_1_multi_4.0000_len_1787 450 528
+
+			Align 15: 3038711 3038789 k119_222652_flag_1_multi_4.0000_len_1787 450 528
+				Gap between this and next alignment: 3038789 to 4330162 (1291372 bp)
+				Next Alignment: 4330162 4330280 k119_52435_flag_1_multi_5.0000_len_2018 332 213
+
+			Align 16: 4330162 4330280 k119_52435_flag_1_multi_5.0000_len_2018 332 213
+				The next alignment (4330166 4330280 k119_80028_flag_1_multi_9.0000_len_24092 298 413) is redundant. Skipping.
+				Gap between this and next alignment: 4330280 to 4569683 (239402 bp)
+				Next Alignment: 4569683 4569771 k119_280569_flag_1_multi_4.0000_len_579 2 90
+
+			Align 18: 4569683 4569771 k119_280569_flag_1_multi_4.0000_len_579 2 90
+				The next alignment (4569683 4569771 k119_144541_flag_1_multi_2.0474_len_583 304 216) is redundant. Skipping.
+				The next alignment (4569686 4569771 k119_112570_flag_1_multi_9.0000_len_2663 2230 2315) is redundant. Skipping.
+				The next alignment (4569695 4569771 k119_244622_flag_1_multi_4.0000_len_1362 1 77) is redundant. Skipping.
+				Gap between this and next alignment: 4569771 to 4627357 (57585 bp)
+				Next Alignment: 4627357 4627424 k119_360416_flag_0_multi_3.9274_len_946 946 879
+
+			Align 22: 4627357 4627424 k119_360416_flag_0_multi_3.9274_len_946 946 879
+				The next alignment (4627357 4627424 k119_293852_flag_0_multi_10.8750_len_1719 1 68) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Ilumatobacter_fluminis/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 20 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 93638
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1535
+
+	SNPs: 34
+	Insertions: 2
+	Deletions: 3
+
+	Positive Gaps: 13
+		Internal Gaps: 0
+		External Gaps: 13
+		External Gap Total: 4625889
+		External Gap Average: 355838
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 6 (819)

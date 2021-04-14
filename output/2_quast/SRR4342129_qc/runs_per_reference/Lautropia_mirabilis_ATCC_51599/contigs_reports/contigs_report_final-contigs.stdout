@@ -1,0 +1,79 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Lautropia_mirabilis_ATCC_51599_NZ_GL636062.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD1__whole_genome_shotgun_sequence]
+	Loaded [Lautropia_mirabilis_ATCC_51599_NZ_GL636063.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD2__whole_genome_shotgun_sequence]
+	Loaded [Lautropia_mirabilis_ATCC_51599_NZ_GL636064.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD3__whole_genome_shotgun_sequence]
+	Loaded [Lautropia_mirabilis_ATCC_51599_NZ_GL636065.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD4__whole_genome_shotgun_sequence]
+	Loaded [Lautropia_mirabilis_ATCC_51599_NZ_GL636066.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD5__whole_genome_shotgun_sequence]
+	Loaded [Lautropia_mirabilis_ATCC_51599_NZ_GL636067.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD6__whole_genome_shotgun_sequence]
+	Loaded [Lautropia_mirabilis_ATCC_51599_NZ_GL636068.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD7__whole_genome_shotgun_sequence]
+	Loaded [Lautropia_mirabilis_ATCC_51599_NZ_GL636069.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD8__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 8
+	Total Region Length: 3151925
+Analyzing contigs...
+CONTIG: k119_139524_flag_1_multi_17.2286_len_1882 (1882bp)
+Best alignment score: 74.0 (LEN: 77, IDY: 96.10)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1805
+		This contig is partially unaligned. (Aligned 77 out of 1882 bases)
+		Alignment: 1264 1340 | 1245 1169 | 77 77 | 96.1 | Lautropia_mirabilis_ATCC_51599_NZ_GL636063.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD2__whole_genome_shotgun_sequence k119_139524_flag_1_multi_17.2286_len_1882
+		Unaligned bases: 1 to 1168 (1168)
+		Unaligned bases: 1246 to 1882 (637)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Lautropia_mirabilis_ATCC_51599/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Lautropia_mirabilis_ATCC_51599_NZ_GL636066.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD5__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Lautropia_mirabilis_ATCC_51599_NZ_GL636064.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD3__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Lautropia_mirabilis_ATCC_51599_NZ_GL636062.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD1__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Lautropia_mirabilis_ATCC_51599_NZ_GL636065.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD4__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Lautropia_mirabilis_ATCC_51599_NZ_GL636063.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD2__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 3392 (3392 bp)
+			START in gap: 1 to 1264 (1263 bp)
+			Align 1: 1264 1340 k119_139524_flag_1_multi_17.2286_len_1882 1245 1169
+			END in gap: 1340 to 3392 (2052 bp).
+
+WARNING: Reference Lautropia_mirabilis_ATCC_51599_NZ_GL636068.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD7__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Lautropia_mirabilis_ATCC_51599_NZ_GL636069.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD8__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Lautropia_mirabilis_ATCC_51599_NZ_GL636067.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD6__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Lautropia_mirabilis_ATCC_51599/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 1 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 1805
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 77
+
+	SNPs: 3
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 2
+		Internal Gaps: 0
+		External Gaps: 2
+		External Gap Total: 3315
+		External Gap Average: 1658
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

@@ -1,0 +1,27 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Ruegeria_pomeroyi.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Ruegeria_pomeroyi.fasta
+NUCMER
+>Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_143681_flag_1_multi_5.7090_len_875 4109437 875
+3462392 3462894 373 875 12 12 0
+0
+>Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_174235_flag_1_multi_5.0000_len_654 4109437 654
+2645394 2645472 596 518 0 0 0
+0
+>Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_266949_flag_1_multi_7.0889_len_895 4109437 895
+4010713 4011009 599 895 10 10 0
+0
+>Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_312326_flag_1_multi_3.8300_len_2113 4109437 2113
+4015362 4015800 2113 1675 19 19 0
+0
+>Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_367536_flag_1_multi_4.0000_len_517 4109437 517
+263300 263373 511 438 0 0 0
+0
+>Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_48182_flag_1_multi_4.1703_len_1076 4109437 1076
+3466164 3466290 949 1075 6 6 0
+0
+>Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_53548_flag_1_multi_3.7211_len_646 4109437 646
+4014063 4014146 132 49 1 1 0
+0
+>Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence k119_93524_flag_1_multi_3.0000_len_688 4109437 688
+2251312 2251390 532 453 1 1 0
+-76
+0

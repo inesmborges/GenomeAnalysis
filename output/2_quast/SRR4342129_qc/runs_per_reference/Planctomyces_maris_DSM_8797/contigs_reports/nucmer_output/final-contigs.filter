@@ -1,0 +1,8 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Planctomyces_maris_DSM_8797.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Planctomyces_maris_DSM_8797.fasta
+NUCMER
+>Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence k119_316662_flag_1_multi_5.8141_len_9891 116884 9891
+25043 25120 4139 4062 0 0 0
+0
+>Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence k119_408710_flag_1_multi_6.0000_len_13115 116884 13115
+104137 104213 12796 12720 1 1 0
+0

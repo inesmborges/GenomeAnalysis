@@ -1,0 +1,124 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 4074140
+Analyzing contigs...
+CONTIG: k119_322049_flag_1_multi_5.0000_len_575 (575bp)
+Best alignment score: 79.0 (LEN: 80, IDY: 98.77)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2353111 2353191 | 154 233 | 81 80 | 98.77 | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_322049_flag_1_multi_5.0000_len_575
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 495
+		Alignment: 1410790 1410870 | 233 154 | 81 80 | 98.77 | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_322049_flag_1_multi_5.0000_len_575
+
+CONTIG: k119_82782_flag_1_multi_9.0000_len_12828 (12828bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 12752
+		This contig is partially unaligned. (Aligned 76 out of 12828 bases)
+		Alignment: 3785029 3785104 | 12748 12823 | 76 76 | 100.0 | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_82782_flag_1_multi_9.0000_len_12828
+		Unaligned bases: 1 to 12747 (12747)
+		Unaligned bases: 12824 to 12828 (5)
+
+CONTIG: k119_355746_flag_1_multi_3.7554_len_2106 (2106bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 2027
+		This contig is partially unaligned. (Aligned 79 out of 2106 bases)
+		Alignment: 3785029 3785107 | 478 400 | 79 79 | 100.0 | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_355746_flag_1_multi_3.7554_len_2106
+		Unaligned bases: 1 to 399 (399)
+		Unaligned bases: 479 to 2106 (1628)
+
+CONTIG: k119_162632_flag_0_multi_25.9211_len_6455 (6455bp)
+Best alignment score: 81.0 (LEN: 84, IDY: 96.47)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 6371
+		This contig is partially unaligned. (Aligned 84 out of 6455 bases)
+		Alignment: 1130982 1131066 | 6263 6180 | 85 84 | 96.47 | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_162632_flag_0_multi_25.9211_len_6455
+		Unaligned bases: 1 to 6179 (6179)
+		Unaligned bases: 6264 to 6455 (192)
+
+CONTIG: k119_93367_flag_1_multi_8.0000_len_12029 (12029bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 11950
+		This contig is partially unaligned. (Aligned 79 out of 12029 bases)
+		Alignment: 2682663 2682741 | 8539 8617 | 79 79 | 100.0 | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_93367_flag_1_multi_8.0000_len_12029
+		Unaligned bases: 1 to 8538 (8538)
+		Unaligned bases: 8618 to 12029 (3412)
+
+CONTIG: k119_121669_flag_1_multi_8.0000_len_5895 (5895bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 5819
+		This contig is partially unaligned. (Aligned 76 out of 5895 bases)
+		Alignment: 3785029 3785104 | 21 96 | 76 76 | 100.0 | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_121669_flag_1_multi_8.0000_len_5895
+		Unaligned bases: 1 to 20 (20)
+		Unaligned bases: 97 to 5895 (5799)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/gamma_proteobacterium_BW-2/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome: 6 total alignments. 1 total regions.
+		Region: 1 to 4074140 (4074140 bp)
+			START in gap: 1 to 1130982 (1130981 bp)
+			Align 1: 1130982 1131066 k119_162632_flag_0_multi_25.9211_len_6455 6263 6180
+				Gap between this and next alignment: 1131066 to 1410790 (279723 bp)
+				Next Alignment: 1410790 1410870 k119_322049_flag_1_multi_5.0000_len_575 233 154
+
+			Align 2: 1410790 1410870 k119_322049_flag_1_multi_5.0000_len_575 233 154
+				Gap between this and next alignment: 1410870 to 2682663 (1271792 bp)
+				Next Alignment: 2682663 2682741 k119_93367_flag_1_multi_8.0000_len_12029 8539 8617
+
+			Align 3: 2682663 2682741 k119_93367_flag_1_multi_8.0000_len_12029 8539 8617
+				Gap between this and next alignment: 2682741 to 3785029 (1102287 bp)
+				Next Alignment: 3785029 3785104 k119_82782_flag_1_multi_9.0000_len_12828 12748 12823
+
+			Align 4: 3785029 3785104 k119_82782_flag_1_multi_9.0000_len_12828 12748 12823
+				Negative gap (overlap) between this and next alignment: 3785104 to 3785029 (-75 bp)
+				Next Alignment: 3785029 3785107 k119_355746_flag_1_multi_3.7554_len_2106 478 400
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 478 to 402.
+			Align 5: 3785105 3785107 k119_355746_flag_1_multi_3.7554_len_2106 402 400
+				The next alignment (3785029 3785104 k119_121669_flag_1_multi_8.0000_len_5895 21 96) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/gamma_proteobacterium_BW-2/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 5 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 38919
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 575
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 324
+
+	SNPs: 2
+	Insertions: 0
+	Deletions: 2
+
+	Positive Gaps: 4
+		Internal Gaps: 0
+		External Gaps: 4
+		External Gap Total: 3784783
+		External Gap Average: 946196
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -75
+		External Overlaps Average: -75
+	Contigs with Redundant Alignments: 1 (76)

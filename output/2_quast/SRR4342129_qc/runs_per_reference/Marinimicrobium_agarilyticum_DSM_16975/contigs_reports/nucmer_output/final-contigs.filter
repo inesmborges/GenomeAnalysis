@@ -1,0 +1,5 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Marinimicrobium_agarilyticum_DSM_16975.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Marinimicrobium_agarilyticum_DSM_16975.fasta
+NUCMER
+>Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000006.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00005.5_C__whole_genome_shotgun_sequence k119_410892_flag_1_multi_8.8292_len_3772 298838 3772
+66442 66518 3364 3440 0 0 0
+0

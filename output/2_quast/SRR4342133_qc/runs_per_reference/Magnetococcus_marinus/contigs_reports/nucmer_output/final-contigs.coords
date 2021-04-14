@@ -1,0 +1,8 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  278805   278917  |      701      813  |      113      113  |    95.58  | Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence	k119_249648_flag_0_multi_3.5937_len_813
+ 3370752  3370864  |      813      701  |      113      113  |    95.58  | Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence	k119_249648_flag_0_multi_3.5937_len_813
+ 3620190  3620302  |      813      701  |      113      113  |    95.58  | Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence	k119_249648_flag_0_multi_3.5937_len_813
+  278805   278917  |      113        1  |      113      113  |    95.58  | Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence	k119_249677_flag_0_multi_3.5486_len_757
+ 3370752  3370864  |        1      113  |      113      113  |    95.58  | Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence	k119_249677_flag_0_multi_3.5486_len_757
+ 3620190  3620302  |        1      113  |      113      113  |    95.58  | Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence	k119_249677_flag_0_multi_3.5486_len_757

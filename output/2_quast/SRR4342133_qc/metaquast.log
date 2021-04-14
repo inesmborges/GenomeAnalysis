@@ -1,0 +1,229 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/ins/GenomeAnalysis/output/2_megahit/SRR4342133_assembly/final.contigs.fa -o /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1160.21.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 16
+
+Started: 2021-04-14 15:42:06
+
+Logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/metaquast.log
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+Contigs:
+  Pre-processing...
+  /home/ins/GenomeAnalysis/output/2_megahit/SRR4342133_assembly/final.contigs.fa ==> final.contigs
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2021-04-14 15:42:09
+
+
+Running BlastN..
+  processing final.contigs
+/home/ins/.quast/blast/blastn -query /home/ins/GenomeAnalysis/output/2_megahit/SRR4342133_assembly/final.contigs.fa \
+-db /home/ins/.quast/silva/silva.123.db -outfmt 7 -num_threads 4 > /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/blast.res_final-contigs \
+2>> /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/blast.err
+  BLAST results for final.contigs are saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/blast.res_final-contigs...
+
+
+2021-04-14 15:52:25
+Trying to download found references from NCBI. Totally 42 organisms to try.
+marine metagenome has too fragmented reference genome! It will not be downloaded.
+  marine_metagenome                            | not found in the NCBI database
+  bacterium_Ellin5025                          | not found in the NCBI database
+  unidentified_marine_bacterioplankton         | not found in the NCBI database
+  Owenweeksia_hongkongensis_DSM_17368          | successfully downloaded (total 1, 38 more to go)
+  Luminiphilus_syltensis_NOR5-1B               | successfully downloaded (total 2, 37 more to go)
+  Acidithiomicrobium_sp._P1                    | not found in the NCBI database
+  Marivirga_tractuosa                          | successfully downloaded (total 3, 35 more to go)
+  Aquimarina_sp._22II-S11-z7                   | successfully downloaded (total 4, 34 more to go)
+  Synechococcus_sp._MH305                      | not found in the NCBI database
+  bacterium_WH3-1                              | not found in the NCBI database
+  bacterium_enrichment_culture_clone_136(2011) | not found in the NCBI database
+  Syntrophus_aciditrophicus                    | successfully downloaded (total 5, 30 more to go)
+  bacterium_enrichment_culture_clone_41(2013)  | not found in the NCBI database
+  Formosa_algae                                | successfully downloaded (total 6, 28 more to go)
+  Psychrobacter_sp._PRwf-1                     | successfully downloaded (total 7, 27 more to go)
+  Sulfitobacter_sp._NAS-14.1                   | successfully downloaded (total 8, 26 more to go)
+  Ilumatobacter_coccineus_YM16-304             | successfully downloaded (total 9, 25 more to go)
+  Acidithiobacillus_sp._lsh-01                 | not found in the NCBI database
+  Coxiella_cheraxi                             | not found in the NCBI database
+  gamma_proteobacterium_BW-2                   | successfully downloaded (total 10, 22 more to go)
+  Parcubacteria_bacterium_SCGC_AAA011-N16      | successfully downloaded (total 11, 21 more to go)
+  Magnetococcus_marinus                        | successfully downloaded (total 12, 20 more to go)
+  Shewanella_amazonensis_SB2B                  | successfully downloaded (total 13, 19 more to go)
+  Nitrospina_gracilis_3                        | not found in the NCBI database
+  bacterium_enrichment_culture_clone_136(2011) | not found in the NCBI database
+  bacterium_endosymbiont_of_Osedax_mucofloris  | not found in the NCBI database
+  Nitrospina_sp._SCGC_AAA288-L16               | successfully downloaded (total 14, 15 more to go)
+  Flavobacteriales_bacterium_ALC-1             | successfully downloaded (total 15, 14 more to go)
+  Ilumatobacter_fluminis                       | successfully downloaded (total 16, 13 more to go)
+  Puniceicoccus_vermicola                      | successfully downloaded (total 17, 12 more to go)
+  Alcanivorax_jadensis_T9                      | successfully downloaded (total 18, 11 more to go)
+  Pseudomonas_rhizosphaerae                    | successfully downloaded (total 19, 10 more to go)
+  Kitasatospora_mediocidica_KCTC_9733          | successfully downloaded (total 20, 9 more to go)
+  Bacteriovorax_sp._NZ7                        | not found in the NCBI database
+  Geobacter_pickeringii                        | successfully downloaded (total 21, 7 more to go)
+  alpha_proteobacterium_NH6-42                 | not found in the NCBI database
+  Solibacillus_silvestris_StLB046              | successfully downloaded (total 22, 5 more to go)
+  bacterium_WH5-6                              | not found in the NCBI database
+  Geopsychrobacter_electrodiphilus_DSM_16401   | successfully downloaded (total 23, 3 more to go)
+  Marinilabilia_sp._L21-Xan-D3                 | not found in the NCBI database
+  Idiomarina_indica                            | successfully downloaded (total 24, 1 more to go)
+  Sporosarcina_sp._EUR3_2.2.2                  | successfully downloaded (total 25, 0 more to go)
+
+Downloaded reference(s):
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Alcanivorax_jadensis_T9.fasta ==> Alcanivorax_jadensis_T9
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Aquimarina_sp._22II-S11-z7.fasta ==> Aquimarina_sp._22II-S11-z7
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Flavobacteriales_bacterium_ALC-1.fasta ==> Flavobacteriales_bacterium_ALC-1
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Formosa_algae.fasta ==> Formosa_algae
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Geobacter_pickeringii.fasta ==> Geobacter_pickeringii
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Geopsychrobacter_electrodiphilus_DSM_16401.fasta ==> Geopsychrobacter_electrodiphilus_DSM_16401
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Idiomarina_indica.fasta ==> Idiomarina_indica
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Ilumatobacter_coccineus_YM16-304.fasta ==> Ilumatobacter_coccineus_YM16-304
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Ilumatobacter_fluminis.fasta ==> Ilumatobacter_fluminis
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Kitasatospora_mediocidica_KCTC_9733.fasta ==> Kitasatospora_mediocidica_KCTC_9733
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Luminiphilus_syltensis_NOR5-1B.fasta ==> Luminiphilus_syltensis_NOR5-1B
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Magnetococcus_marinus.fasta ==> Magnetococcus_marinus
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Marivirga_tractuosa.fasta ==> Marivirga_tractuosa
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Nitrospina_sp._SCGC_AAA288-L16.fasta ==> Nitrospina_sp._SCGC_AAA288-L16
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Owenweeksia_hongkongensis_DSM_17368.fasta ==> Owenweeksia_hongkongensis_DSM_17368
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Parcubacteria_bacterium_SCGC_AAA011-N16.fasta ==> Parcubacteria_bacterium_SCGC_AAA011-N16
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Pseudomonas_rhizosphaerae.fasta ==> Pseudomonas_rhizosphaerae
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Psychrobacter_sp._PRwf-1.fasta ==> Psychrobacter_sp._PRwf-1
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Puniceicoccus_vermicola.fasta ==> Puniceicoccus_vermicola
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Shewanella_amazonensis_SB2B.fasta ==> Shewanella_amazonensis_SB2B
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Solibacillus_silvestris_StLB046.fasta ==> Solibacillus_silvestris_StLB046
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Sporosarcina_sp._EUR3_2.2.2.fasta ==> Sporosarcina_sp._EUR3_2.2.2
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Sulfitobacter_sp._NAS-14.1.fasta ==> Sulfitobacter_sp._NAS-14.1
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/Syntrophus_aciditrophicus.fasta ==> Syntrophus_aciditrophicus
+  /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_downloaded_references/gamma_proteobacterium_BW-2.fasta ==> gamma_proteobacterium_BW-2
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+(logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/combined_reference/quast.log)
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing final.contigs
+
+Run QUAST on different references in parallel..
+
+Starting quast.py for the contigs aligned to Alcanivorax_jadensis_T9... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Alcanivorax_jadensis_T9/quast.log)
+
+Starting quast.py for the contigs aligned to Aquimarina_sp._22II-S11-z7... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Aquimarina_sp._22II-S11-z7/quast.log)
+
+Starting quast.py for the contigs aligned to Formosa_algae... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Formosa_algae/quast.log)
+
+Starting quast.py for the contigs aligned to Flavobacteriales_bacterium_ALC-1... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Flavobacteriales_bacterium_ALC-1/quast.log)
+
+Starting quast.py for the contigs aligned to Geobacter_pickeringii... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Geobacter_pickeringii/quast.log)
+
+No contigs were aligned to the reference Geopsychrobacter_electrodiphilus_DSM_16401, skipping..
+
+Starting quast.py for the contigs aligned to Idiomarina_indica... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Idiomarina_indica/quast.log)
+
+Starting quast.py for the contigs aligned to Ilumatobacter_coccineus_YM16-304... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Ilumatobacter_coccineus_YM16-304/quast.log)
+
+Starting quast.py for the contigs aligned to Ilumatobacter_fluminis... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Ilumatobacter_fluminis/quast.log)
+
+Starting quast.py for the contigs aligned to Kitasatospora_mediocidica_KCTC_9733... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Kitasatospora_mediocidica_KCTC_9733/quast.log)
+
+Starting quast.py for the contigs aligned to Luminiphilus_syltensis_NOR5-1B... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/quast.log)
+
+Starting quast.py for the contigs aligned to Magnetococcus_marinus... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Magnetococcus_marinus/quast.log)
+
+Starting quast.py for the contigs aligned to Marivirga_tractuosa... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Marivirga_tractuosa/quast.log)
+
+Starting quast.py for the contigs aligned to Nitrospina_sp._SCGC_AAA288-L16... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Nitrospina_sp._SCGC_AAA288-L16/quast.log)
+
+Starting quast.py for the contigs aligned to Owenweeksia_hongkongensis_DSM_17368... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Owenweeksia_hongkongensis_DSM_17368/quast.log)
+
+No contigs were aligned to the reference Parcubacteria_bacterium_SCGC_AAA011-N16, skipping..
+
+No contigs were aligned to the reference Pseudomonas_rhizosphaerae, skipping..
+
+Starting quast.py for the contigs aligned to Psychrobacter_sp._PRwf-1... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Psychrobacter_sp._PRwf-1/quast.log)
+
+No contigs were aligned to the reference Puniceicoccus_vermicola, skipping..
+
+Starting quast.py for the contigs aligned to Shewanella_amazonensis_SB2B... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Shewanella_amazonensis_SB2B/quast.log)
+
+No contigs were aligned to the reference Solibacillus_silvestris_StLB046, skipping..
+
+No contigs were aligned to the reference Sporosarcina_sp._EUR3_2.2.2, skipping..
+
+Starting quast.py for the contigs aligned to Sulfitobacter_sp._NAS-14.1... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Sulfitobacter_sp._NAS-14.1/quast.log)
+
+Starting quast.py for the contigs aligned to Syntrophus_aciditrophicus... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Syntrophus_aciditrophicus/quast.log)
+
+Starting quast.py for the contigs aligned to gamma_proteobacterium_BW-2... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/gamma_proteobacterium_BW-2/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/not_aligned/quast.log)
+
+2021-04-14 16:18:59
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/#_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Total_length_(>=_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Total_length_(>=_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Total_length_(>=_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/#_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for final.contigs...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/final-contigs_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/#_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/#_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/#_N's_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Genome_fraction_(%).pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Duplication_ratio.pdf
+  Drawing Avg contig read support metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/Avg_contig_read_support.pdf
+  Drawing # genes metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/#_genes.pdf
+  Drawing # operons metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/#_operons.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/LGA50.pdf
+  Drawing # predicted genes (unique) metaQUAST summary plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/PDF/#_predicted_genes_(unique).pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/summary/
+  Icarus (contig browser) is saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for final.contigs is saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/krona_charts/final.contigs_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/report.html
+
+MetaQUAST finished.
+  Log saved to /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/metaquast.log
+
+Finished: 2021-04-14 16:19:11
+Elapsed time: 0:37:05.327944
+Total NOTICEs: 25; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

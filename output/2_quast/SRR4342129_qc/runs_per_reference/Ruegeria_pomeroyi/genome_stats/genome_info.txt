@@ -1,0 +1,15 @@
+reference chromosomes:
+	Ruegeria_pomeroyi_NC_006569.1_Ruegeria_pomeroyi_DSS-3_megaplasmid__complete_sequence (total length: 491611 bp, maximal covered length: 0 bp)
+	Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence (total length: 4109437 bp, maximal covered length: 1326 bp)
+
+total genome size: 4601048
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Ruegeri | 0.02882%  | 2.46003     | 8         | -         | -         | -         | -         |

@@ -1,0 +1,5 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+490476	490552	2656	2732	Planctomyces_brasiliensis_DSM_5305_NC_015174.1_Rubinisphaera_brasiliensis_DSM_5305__complete_sequence	k119_139057_flag_1_multi_6.0000_len_2922	100.0		True
+CONTIG	k119_139057_flag_1_multi_6.0000_len_2922	2922	correct_unaligned
+4730498	4730573	352	277	Planctomyces_brasiliensis_DSM_5305_NC_015174.1_Rubinisphaera_brasiliensis_DSM_5305__complete_sequence	k119_116890_flag_1_multi_3.0000_len_840	100.0		True
+CONTIG	k119_116890_flag_1_multi_3.0000_len_840	840	correct

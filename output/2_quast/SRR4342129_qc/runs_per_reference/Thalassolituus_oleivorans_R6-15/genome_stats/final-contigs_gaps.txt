@@ -1,0 +1,5 @@
+Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome
+1 1780666
+1780744 2507474
+2507552 3498752
+3498830 3764053

@@ -1,0 +1,24 @@
+reference chromosomes:
+	Sulfitobacter_sp._NAS-14.1_NZ_CH959317.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320472__whole_genome_shotgun_sequence (total length: 20214 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_CH959314.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320475__whole_genome_shotgun_sequence (total length: 104079 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000021.1_Sulfitobacter_sp._NAS-14.1_1099451320444__whole_genome_shotgun_sequence (total length: 11882 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000011.1_Sulfitobacter_sp._NAS-14.1_1099451320457__whole_genome_shotgun_sequence (total length: 98301 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence (total length: 207158 bp, maximal covered length: 331 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_CH959313.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320476__whole_genome_shotgun_sequence (total length: 116593 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000017.1_Sulfitobacter_sp._NAS-14.1_1099451320455__whole_genome_shotgun_sequence (total length: 23727 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_CH959316.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320473__whole_genome_shotgun_sequence (total length: 100112 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000007.1_Sulfitobacter_sp._NAS-14.1_1099451320460__whole_genome_shotgun_sequence (total length: 179991 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_CH959315.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320470__whole_genome_shotgun_sequence (total length: 102751 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence (total length: 3045708 bp, maximal covered length: 1557 bp)
+
+total genome size: 4010516
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Sulfito | 0.04708%  | 4.67161     | 30        | -         | -         | -         | -         |

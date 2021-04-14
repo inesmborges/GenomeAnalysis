@@ -1,0 +1,5 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Syntrophus_aciditrophicus.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Syntrophus_aciditrophicus.fasta
+NUCMER
+>Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k119_176646_flag_0_multi_9.9351_len_11770 3179300 11770
+742006 742099 1 94 0 0 0
+0

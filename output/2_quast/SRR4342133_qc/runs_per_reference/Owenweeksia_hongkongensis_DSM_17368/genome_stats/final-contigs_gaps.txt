@@ -1,0 +1,5 @@
+Owenweeksia_hongkongensis_DSM_17368_NC_016599.1_Owenweeksia_hongkongensis_DSM_17368__complete_sequence
+1 1353014
+1353091 1353281
+1353520 2670791
+2670869 4000057

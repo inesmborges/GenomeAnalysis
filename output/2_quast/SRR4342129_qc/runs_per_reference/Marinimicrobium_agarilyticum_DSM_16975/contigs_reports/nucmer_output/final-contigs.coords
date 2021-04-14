@@ -1,0 +1,4 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+   66442    66518  |     1030     1106  |       77       77  |   100.00  | Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000006.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00005.5_C__whole_genome_shotgun_sequence	k119_114386_flag_1_multi_5.0000_len_1960
+   66442    66518  |     3364     3440  |       77       77  |   100.00  | Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000006.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00005.5_C__whole_genome_shotgun_sequence	k119_410892_flag_1_multi_8.8292_len_3772

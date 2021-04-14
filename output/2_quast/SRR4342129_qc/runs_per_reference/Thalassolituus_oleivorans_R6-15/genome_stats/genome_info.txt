@@ -1,0 +1,14 @@
+reference chromosomes:
+	Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome (total length: 3764053 bp, maximal covered length: 231 bp)
+
+total genome size: 3764053
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Thalass | 0.00614%  | 8.16450     | 4         | -         | -         | -         | -         |

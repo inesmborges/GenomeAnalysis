@@ -1,0 +1,26 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Janibacter_sp._HTCC2649.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Janibacter_sp._HTCC2649.fasta
+NUCMER
+>Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_13121_flag_1_multi_4.0000_len_789 4221782 789
+2084397 2084471 382 456 0 0 0
+0
+>Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_211844_flag_1_multi_8.0000_len_2688 4221782 2688
+3269081 3269156 2473 2398 0 0 0
+0
+>Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_285170_flag_0_multi_7.1192_len_5235 4221782 5235
+3271864 3271941 736 659 0 0 0
+0
+>Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_334617_flag_0_multi_4.2736_len_1424 4221782 1424
+880438 880709 1148 1424 11 11 0
+-10
+-1
+-11
+-1
+-5
+0
+>Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_413965_flag_0_multi_13.0000_len_40848 4221782 40848
+1742635 1742709 36030 35956 0 0 0
+0
+>Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_85838_flag_1_multi_2.7330_len_516 4221782 516
+531393 531477 499 416 2 2 0
+8
+0

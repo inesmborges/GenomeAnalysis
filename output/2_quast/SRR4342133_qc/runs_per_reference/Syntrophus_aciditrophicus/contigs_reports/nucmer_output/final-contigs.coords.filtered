@@ -1,0 +1,5 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+739807 739881 | 211 285 | 75 75 | 100.0 | Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k119_178624_flag_1_multi_3.6631_len_1134
+742007 742113 | 1183 1077 | 107 107 | 95.33 | Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k119_61129_flag_0_multi_25.0000_len_1183
+739069 739140 | 587 658 | 72 72 | 100.0 | Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k119_191732_flag_0_multi_10.7619_len_665
