@@ -7,6 +7,7 @@ GenomeAnalysis
 |  |--1_fastqc_rna_trimmed
 |  |--1_fastqc_rna_untrimmed
 |  |--1_trimmomatic
+|  |--2_megahit
 |
 |--raw_data
    |--DNA_trimmed
