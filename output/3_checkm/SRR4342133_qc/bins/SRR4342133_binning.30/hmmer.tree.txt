@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/4420563/ab7b632e-1d63-411b-a5b8-6cfcc2beaf5f
+# Target file:     /home/ins/GenomeAnalysis/output/3_checkm/SRR4342133_qc/bins/SRR4342133_binning.30/genes.faa
+# Option settings: hmmsearch --domtblout /home/ins/GenomeAnalysis/output/3_checkm/SRR4342133_qc/bins/SRR4342133_binning.30/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /scratch/4420563/ab7b632e-1d63-411b-a5b8-6cfcc2beaf5f /home/ins/GenomeAnalysis/output/3_checkm/SRR4342133_qc/bins/SRR4342133_binning.30/genes.faa 
+# Current dir:     /domus/h1/ins/GenomeAnalysis/code
+# Date:            Wed Apr 14 16:18:16 2021
+# [ok]
