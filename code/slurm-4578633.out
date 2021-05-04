@@ -1,0 +1,124 @@
+[14:19:41] This is prokka 1.14.6
+[14:19:41] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:19:41] Homepage is https://github.com/tseemann/prokka
+[14:19:41] Local time is Thu Apr 29 14:19:41 2021
+[14:19:41] You are ins
+[14:19:41] Operating system is linux
+[14:19:41] You have BioPerl 1.007001
+[14:19:41] System has 16 cores.
+[14:19:41] Will use maximum of 8 cores.
+[14:19:41] Annotating as >>> Bacteria <<<
+[14:19:41] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/SRR4342133_binning/SRR4342133_binning.1.fa' contents.
+[14:19:41] Setting --locustag POBEKHIG from MD5 98be41208a9205b62d208d66d522f790
+[14:19:41] Creating new output folder: /home/ins/GenomeAnalysis/output/4_prokka/SRR4342133
+[14:19:41] Running: mkdir -p \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/SRR4342133
+[14:19:41] Using filename prefix: SRR4342133_binning.1.XXX
+[14:19:41] Setting HMMER_NCPU=1
+[14:19:41] Writing log to: /home/ins/GenomeAnalysis/output/4_prokka/SRR4342133/SRR4342133_binning.1.log
+[14:19:41] Command: /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka --outdir /home/ins/GenomeAnalysis/output/4_prokka/SRR4342133 --prefix SRR4342133_binning.1 /home/ins/GenomeAnalysis/output/3_metabat/SRR4342133_binning/SRR4342133_binning.1.fa
+[14:19:41] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux
+[14:19:41] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/../common
+[14:19:41] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin
+[14:19:41] Looking for 'aragorn' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/aragorn
+[14:19:41] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[14:19:41] Looking for 'barrnap' - found /sw/bioinfo/barrnap/0.8/snowy/bin/barrnap
+[14:19:41] Determined barrnap version is 000008 from 'barrnap 0.8'
+[14:19:41] Looking for 'blastp' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/blastp
+[14:19:42] Determined blastp version is 002011 from 'blastp: 2.11.0+'
+[14:19:44] Looking for 'cmpress' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmpress
+[14:19:44] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[14:19:44] Looking for 'cmscan' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmscan
+[14:19:44] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[14:19:44] Looking for 'egrep' - found /usr/bin/egrep
+[14:19:44] Looking for 'find' - found /usr/bin/find
+[14:19:44] Looking for 'grep' - found /usr/bin/grep
+[14:19:44] Looking for 'hmmpress' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmpress
+[14:19:44] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[14:19:44] Looking for 'hmmscan' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmscan
+[14:19:44] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[14:19:51] Looking for 'java' - found /usr/bin/java
+[14:19:51] Looking for 'makeblastdb' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/makeblastdb
+[14:19:52] Determined makeblastdb version is 002011 from 'makeblastdb: 2.11.0+'
+[14:19:52] Looking for 'minced' - found /sw/apps/bioinfo/minced/0.2.0/snowy/minced
+[14:21:23] Determined minced version is 002000 from 'minced 0.2.0'
+[14:21:24] Looking for 'parallel' - found /sw/parallel/gnuparallel/20170122/snowy/bin/parallel
+[14:21:24] Determined parallel version is 20170122 from 'GNU parallel 20170122'
+[14:21:24] Looking for 'prodigal' - found /sw/apps/bioinfo/prodigal/2.6.3/snowy/bin/prodigal
+[14:21:24] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[14:21:24] Looking for 'prokka-genbank_to_fasta_db' - found /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka-genbank_to_fasta_db
+[14:21:25] Looking for 'sed' - found /usr/bin/sed
+[14:21:25] Looking for 'signalp' - found /sw/bioinfo/SignalP/4.1f/snowy/signalp
+[14:21:25] Determined signalp version is 004001 from '4.1 4578633'
+[14:21:25] Looking for 'tbl2asn' - found /sw/bioinfo/tbl2asn/25.8/snowy/tbl2asn
+[14:21:25] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[14:21:25] Using genetic code table 11.
+[14:21:25] Loading and checking input file: /home/ins/GenomeAnalysis/output/3_metabat/SRR4342133_binning/SRR4342133_binning.1.fa
+[14:21:25] Wrote 68 contigs totalling 2647960 bp.
+[14:21:25] Predicting tRNAs and tmRNAs
+[14:21:25] Running: aragorn -l -gc11  -w \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/SRR4342133\/SRR4342133_binning\.1\.fna
+[14:21:27] 1 tRNA-Pro [5692,5767] 36 (tgg)
+[14:21:27] 1 tRNA-Met [37714,37788] 35 (cat)
+[14:21:27] 1 tRNA-Asn c[2719,2791] 33 (gtt)
+[14:21:27] 1 tmRNA c[2040,2397] 97,126 GESNYAMAA*
+[14:21:27] 1 tRNA-Arg c[43,119] 35 (tct)
+[14:21:27] 2 tRNA-Thr [28255,28328] 34 (cgt)
+[14:21:27] 1 tRNA-Ala c[9337,9410] 34 (ggc)
+[14:21:27] 2 tRNA-Ala [45291,45365] 35 (cgc)
+[14:21:27] 1 tRNA-Lys c[32021,32094] 34 (ttt)
+[14:21:27] 1 tRNA-Phe [3828,3901] 34 (gaa)
+[14:21:27] 1 tRNA-Arg c[3745,3819] 35 (cct)
+[14:21:27] 2 tRNA-Arg c[8774,8848] 35 (ccg)
+[14:21:27] 3 tRNA-Val c[18614,18688] 35 (gac)
+[14:21:27] 1 tRNA-Asp c[17995,18071] 37 (gtc)
+[14:21:27] 1 tRNA-Gly [15458,15529] 33 (ccc)
+[14:21:27] 2 tRNA-Leu [31765,31849] 35 (gag)
+[14:21:27] 1 tRNA-Trp [303,376] 34 (cca)
+[14:21:27] 1 tRNA-Phe c[11272,11345] 34 (gaa)
+[14:21:27] 1 tRNA-Met c[34457,34531] 35 (cat)
+[14:21:27] 2 tRNA-Glu c[67149,67221] 34 (ttc)
+[14:21:27] 3 tRNA-His c[67294,67367] 34 (gtg)
+[14:21:27] 1 tRNA-Thr c[47,120] 34 (ggt)
+[14:21:27] 2 tRNA-Gly c[185,256] 33 (tcc)
+[14:21:27] 3 tRNA-Tyr c[309,392] 35 (gta)
+[14:21:27] 4 tRNA-Thr c[406,479] 34 (tgt)
+[14:21:27] 1 tRNA-Gly [18263,18336] 34 (gcc)
+[14:21:27] 2 tRNA-Ser c[45198,45283] 35 (gga)
+[14:21:27] 1 tRNA-Lys [9086,9159] 34 (ctt)
+[14:21:27] 1 tRNA-Val c[139923,139997] 35 (cac)
+[14:21:27] 2 tRNA-Gln c[212294,212365] 33 (ttg)
+[14:21:27] 1 tRNA-Leu c[47877,47963] 35 (cag)
+[14:21:27] 1 tRNA-Ser c[17415,17503] 37 (cga)
+[14:21:27] 2 tRNA-SeC [33453,33545] 35 (tca)
+[14:21:27] 1 tRNA-Met c[9204,9278] 35 (cat)
+[14:21:27] 1 tRNA-Leu c[40041,40125] 35 (caa)
+[14:21:27] 2 tRNA-Pro [80186,80260] 35 (cgg)
+[14:21:27] 3 tRNA-Gln [84061,84132] 33 (ctg)
+[14:21:27] 1 tRNA-Val c[57,133] 36 (tac)
+[14:21:27] 2 tRNA-Leu c[48838,48921] 35 (tag)
+[14:21:27] 1 tRNA-Pro c[40114,40189] 36 (ggg)
+[14:21:27] 2 tRNA-Ser [65236,65323] 35 (gct)
+[14:21:27] 3 tRNA-Ser [65483,65566] 34 (tga)
+[14:21:27] 4 tRNA-Arg c[97164,97238] 35 (acg)
+[14:21:27] 5 tRNA-Glu c[97254,97327] 35 (ctc)
+[14:21:27] Found 44 tRNAs
+[14:21:27] Predicting Ribosomal RNAs
+[14:21:27] Running Barrnap with 8 threads
+[14:21:30] 1 k119_325545 417 5S ribosomal RNA
+[14:21:30] Found 1 rRNAs
+[14:21:30] Skipping ncRNA search, enable with --rfam if desired.
+[14:21:30] Total of 44 tRNA + rRNA features
+[14:21:30] Searching for CRISPR repeats
+[14:21:38] Found 0 CRISPRs
+[14:21:38] Predicting coding sequences
+[14:21:38] Contigs total 2647960 bp, so using single mode
+[14:21:38] Running: prodigal -i \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/SRR4342133\/SRR4342133_binning\.1\.fna -c -m -g 11 -p single -f sco -q
+[14:21:42] Excluding CDS which overlaps existing RNA (tRNA) at k119_293342:39949..40092 on + strand
+[14:21:42] Found 2297 CDS
+[14:21:42] Connecting features back to sequences
+[14:21:42] Not using genus-specific database. Try --usegenus to enable it.
+[14:21:42] Annotating CDS, please be patient.
+[14:21:42] Will use 8 CPUs for similarity searching.
+[14:21:43] There are still 2297 unannotated CDS left (started with 2297)
+[14:21:43] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS with 8 CPUs
+[14:21:43] Running: cat \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/SRR4342133\/SRR4342133_binning\.1\.IS\.tmp\.23724\.faa | parallel --gnu --plain -j 8 --block 50919 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/SRR4342133\/SRR4342133_binning\.1\.IS\.tmp\.23724\.blast 2> /dev/null
+slurmstepd: error: *** JOB 4578633 ON s80 CANCELLED AT 2021-04-29T14:21:51 ***

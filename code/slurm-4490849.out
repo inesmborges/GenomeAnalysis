@@ -1,0 +1,28 @@
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.10.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.11.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.12.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.13.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.14.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.15.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.16.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.17.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.18.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.19.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.1.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.20.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.21.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.22.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.23.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.24.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.25.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.26.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.2.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.3.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.4.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.5.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.6.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.7.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.8.fa
+/home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.9.fa
+/var/spool/slurmd/job4490849/slurm_script: line 26: syntax error near unexpected token `done'
+/var/spool/slurmd/job4490849/slurm_script: line 26: `    done'

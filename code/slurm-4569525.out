@@ -1,0 +1,30 @@
+2021-04-28 16:31:43 - MEGAHIT v1.2.9
+2021-04-28 16:31:43 - Using megahit_core with POPCNT support
+2021-04-28 16:31:43 - Convert reads to binary library
+2021-04-28 16:34:44 - INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 0 (/home/ins/GenomeAnalysis/raw_data/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz,/home/ins/GenomeAnalysis/raw_data/DNA_trimmed/SRR4342129_2.paired.trimmed.fastq.gz): pe, 48110692 reads, 101 max length
+2021-04-28 16:37:38 - INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 1 (/home/ins/GenomeAnalysis/raw_data/DNA_trimmed/SRR4342133_1.paired.trimmed.fastq.gz,/home/ins/GenomeAnalysis/raw_data/DNA_trimmed/SRR4342133_2.paired.trimmed.fastq.gz): pe, 59954188 reads, 101 max length
+2021-04-28 16:37:41 - INFO  utils/utils.h                 :  152 - Real: 358.6409	user: 116.1468	sys: 15.3856	maxrss: 273432
+2021-04-28 16:37:41 - Start assembly. Number of CPU threads 16 
+2021-04-28 16:37:41 - k list: 65,75,85,95,105 
+2021-04-28 16:37:41 - Memory used: 121485632716
+2021-04-28 16:37:41 - Extracting solid (k+1)-mers and building sdbg for k = 65
+2021-04-28 18:02:53 - Assemble contigs from SdBG for k = 65
+2021-04-28 18:54:10 - Local assembly for k = 65
+2021-04-28 19:48:32 - Extract iterative edges from k = 65 to 75 
+2021-04-28 19:56:19 - Build graph for k = 75 
+2021-04-28 20:01:35 - Assemble contigs from SdBG for k = 75
+2021-04-28 20:26:10 - Local assembly for k = 75
+2021-04-28 21:06:22 - Extract iterative edges from k = 75 to 85 
+2021-04-28 21:10:58 - Build graph for k = 85 
+2021-04-28 21:15:22 - Assemble contigs from SdBG for k = 85
+2021-04-28 21:37:30 - Local assembly for k = 85
+2021-04-28 22:08:20 - Extract iterative edges from k = 85 to 95 
+2021-04-28 22:10:46 - Build graph for k = 95 
+2021-04-28 22:14:48 - Assemble contigs from SdBG for k = 95
+2021-04-28 22:35:51 - Local assembly for k = 95
+2021-04-28 22:59:29 - Extract iterative edges from k = 95 to 105 
+2021-04-28 22:59:38 - Build graph for k = 105 
+2021-04-28 23:02:41 - Assemble contigs from SdBG for k = 105
+2021-04-28 23:19:23 - Merging to output final contigs 
+2021-04-28 23:19:27 - 346474 contigs, total 291644575 bp, min 200 bp, max 266140 bp, avg 841 bp, N50 980 bp
+2021-04-28 23:19:28 - ALL DONE. Time elapsed: 24465.463483 seconds 

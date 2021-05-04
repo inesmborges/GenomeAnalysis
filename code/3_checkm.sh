@@ -14,5 +14,5 @@ module load CheckM
 
 mkdir -p /home/ins/GenomeAnalysis/output/3_checkm
 
-checkm lineage_wf /home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning /home/ins/GenomeAnalysis/output/3_checkm/SRR4342129_qc -x fa
-checkm lineage_wf /home/ins/GenomeAnalysis/output/3_metabat/SRR4342133_binning /home/ins/GenomeAnalysis/output/3_checkm/SRR4342133_qc -x fa
+checkm lineage_wf -t 4 -x fa --reduced_tree /home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning /home/ins/GenomeAnalysis/output/3_checkm/SRR4342129_qc
+checkm lineage_wf -t 4 -x fa --reduced_tree /home/ins/GenomeAnalysis/output/3_metabat/SRR4342133_binning /home/ins/GenomeAnalysis/output/3_checkm/SRR4342133_qc

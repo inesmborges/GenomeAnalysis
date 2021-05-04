@@ -1,0 +1,18 @@
+Several complimentary python scripts are available with pplacer/1.1.alpha19. 'module help pplacer/1.1.alpha19' for more information
+
+*******************************************************************************
+ [CheckM - tree] Placing bins in reference genome tree.
+*******************************************************************************
+
+
+Unexpected error: <type 'exceptions.OSError'>
+Traceback (most recent call last):
+  File "/sw/bioinfo/CheckM/1.0.12/snowy/bin/checkm", line 711, in <module>
+    checkmParser.parseOptions(args)
+  File "/sw/bioinfo/CheckM/1.0.12/snowy/lib/python2.7/site-packages/checkm/main.py", line 1252, in parseOptions
+    self.tree(options)
+  File "/sw/bioinfo/CheckM/1.0.12/snowy/lib/python2.7/site-packages/checkm/main.py", line 110, in tree
+    binFiles = self.binFiles(options.bin_folder, options.extension)
+  File "/sw/bioinfo/CheckM/1.0.12/snowy/lib/python2.7/site-packages/checkm/main.py", line 87, in binFiles
+    all_files = os.listdir(binFolder)
+OSError: [Errno 2] No such file or directory: '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning'

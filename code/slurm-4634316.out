@@ -1,0 +1,270 @@
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.22 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.12 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/ins/GenomeAnalysis/output/3_metabat/SRR4342129_binning/SRR4342129_binning.14.fa
+[main] Real time: 0.419 sec; CPU: 0.375 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 203410 sequences (20000108 bp)...
+[M::process] read 204242 sequences (20000152 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 323, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (125, 157, 197)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 341)
+[M::mem_pestat] mean and std.dev: (166.76, 55.90)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 413)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 203410 reads in 11.461 CPU sec, 5.748 real sec
+[M::process] read 204626 sequences (20000175 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 336, 1, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 154, 194)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 334)
+[M::mem_pestat] mean and std.dev: (161.48, 50.56)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 404)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 204242 reads in 11.518 CPU sec, 5.784 real sec
+[M::process] read 203932 sequences (20000094 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 274, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (125, 155, 190)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 320)
+[M::mem_pestat] mean and std.dev: (161.45, 51.19)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 385)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 204626 reads in 11.496 CPU sec, 5.777 real sec
+[M::process] read 205742 sequences (20000136 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 327, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (120, 151, 197)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 351)
+[M::mem_pestat] mean and std.dev: (160.06, 54.68)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 428)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 203932 reads in 11.492 CPU sec, 5.771 real sec
+[M::process] read 206000 sequences (20000164 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 341, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (127, 158, 207)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 367)
+[M::mem_pestat] mean and std.dev: (168.91, 57.85)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 447)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 205742 reads in 11.568 CPU sec, 5.796 real sec
+[M::process] read 206574 sequences (20000111 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 323, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (127, 164, 207)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 367)
+[M::mem_pestat] mean and std.dev: (172.45, 57.12)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 447)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 206000 reads in 11.447 CPU sec, 5.734 real sec
+[M::process] read 205024 sequences (20000005 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 324, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (126, 158, 200)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 348)
+[M::mem_pestat] mean and std.dev: (168.06, 56.48)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 422)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 206574 reads in 11.524 CPU sec, 5.774 real sec
+[M::process] read 29066 sequences (2751011 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 316, 1, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (125, 160, 212)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 386)
+[M::mem_pestat] mean and std.dev: (173.50, 62.81)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 473)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 205024 reads in 11.061 CPU sec, 5.541 real sec
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 50, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 159, 209)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 381)
+[M::mem_pestat] mean and std.dev: (169.18, 64.57)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 467)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 29066 reads in 1.602 CPU sec, 0.804 real sec
+[fsync] Disk quota exceeded
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 203696 sequences (20000094 bp)...
+[M::process] read 204214 sequences (20000055 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 382, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (119, 151, 190)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 332)
+[M::mem_pestat] mean and std.dev: (157.94, 52.70)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 403)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 203696 reads in 11.467 CPU sec, 5.752 real sec
+[M::process] read 204308 sequences (20000007 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 368, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (120, 156, 197)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 351)
+[M::mem_pestat] mean and std.dev: (162.82, 59.04)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 428)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 204214 reads in 11.475 CPU sec, 5.751 real sec
+[M::process] read 205374 sequences (20000201 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 351, 1, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (122, 147, 186)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 314)
+[M::mem_pestat] mean and std.dev: (155.95, 49.66)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 378)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 204308 reads in 11.610 CPU sec, 5.816 real sec
+[M::process] read 205648 sequences (20000141 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 347, 1, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (125, 156, 194)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 332)
+[M::mem_pestat] mean and std.dev: (164.35, 53.55)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 401)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 205374 reads in 11.513 CPU sec, 5.775 real sec
+[M::process] read 206030 sequences (20000081 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 326, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (128, 158, 195)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 329)
+[M::mem_pestat] mean and std.dev: (161.74, 51.41)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 396)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 205648 reads in 11.548 CPU sec, 5.785 real sec
+[M::process] read 171518 sequences (16669578 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 359, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (129, 163, 201)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 345)
+[M::mem_pestat] mean and std.dev: (167.65, 55.90)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 417)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 206030 reads in 11.399 CPU sec, 5.737 real sec
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 285, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (121, 154, 196)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 346)
+[M::mem_pestat] mean and std.dev: (164.65, 56.76)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 421)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 171518 reads in 9.167 CPU sec, 4.591 real sec
+[fsync] Disk quota exceeded
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[bwa_index] Pack FASTA... [fsync] Disk quota exceeded
+[E::bwa_idx_load_from_disk] fail to locate the index files
+[E::bwa_idx_load_from_disk] fail to locate the index files

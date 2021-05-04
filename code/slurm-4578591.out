@@ -1,0 +1,609 @@
+[14:05:13] This is prokka 1.14.6
+[14:05:13] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:05:13] Homepage is https://github.com/tseemann/prokka
+[14:05:13] Local time is Thu Apr 29 14:05:13 2021
+[14:05:13] You are ins
+[14:05:13] Operating system is linux
+[14:05:13] You have BioPerl 1.007001
+[14:05:13] System has 16 cores.
+[14:05:13] Will use maximum of 8 cores.
+[14:05:13] Annotating as >>> Bacteria <<<
+[14:05:13] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.1.fa' contents.
+[14:05:13] Setting --locustag CIPGCLDP from MD5 c290c5d96a17ad3fdd2acb54d061761e
+[14:05:13] Creating new output folder: /home/ins/GenomeAnalysis/output/4_prokka/combined
+[14:05:13] Running: mkdir -p \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined
+[14:05:13] Using filename prefix: combined_binning.1.XXX
+[14:05:13] Setting HMMER_NCPU=1
+[14:05:13] Writing log to: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.log
+[14:05:13] Command: /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka --outdir /home/ins/GenomeAnalysis/output/4_prokka/combined --prefix combined_binning.1 /home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.1.fa
+[14:05:13] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux
+[14:05:13] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/../common
+[14:05:13] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin
+[14:05:13] Looking for 'aragorn' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/aragorn
+[14:05:13] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[14:05:13] Looking for 'barrnap' - found /sw/bioinfo/barrnap/0.8/snowy/bin/barrnap
+[14:05:13] Determined barrnap version is 000008 from 'barrnap 0.8'
+[14:05:13] Looking for 'blastp' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/blastp
+[14:05:15] Determined blastp version is 002011 from 'blastp: 2.11.0+'
+[14:05:15] Looking for 'cmpress' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmpress
+[14:05:15] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[14:05:15] Looking for 'cmscan' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmscan
+[14:05:15] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[14:05:15] Looking for 'egrep' - found /usr/bin/egrep
+[14:05:15] Looking for 'find' - found /usr/bin/find
+[14:05:15] Looking for 'grep' - found /usr/bin/grep
+[14:05:15] Looking for 'hmmpress' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmpress
+[14:05:15] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[14:05:15] Looking for 'hmmscan' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmscan
+[14:05:15] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[14:05:15] Looking for 'java' - found /usr/bin/java
+[14:05:15] Looking for 'makeblastdb' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/makeblastdb
+[14:05:16] Determined makeblastdb version is 002011 from 'makeblastdb: 2.11.0+'
+[14:05:16] Looking for 'minced' - found /sw/apps/bioinfo/minced/0.2.0/snowy/minced
+[14:05:16] Determined minced version is 002000 from 'minced 0.2.0'
+[14:05:16] Looking for 'parallel' - found /sw/parallel/gnuparallel/20170122/snowy/bin/parallel
+[14:05:16] Determined parallel version is 20170122 from 'GNU parallel 20170122'
+[14:05:16] Looking for 'prodigal' - found /sw/apps/bioinfo/prodigal/2.6.3/snowy/bin/prodigal
+[14:05:16] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[14:05:16] Looking for 'prokka-genbank_to_fasta_db' - found /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka-genbank_to_fasta_db
+[14:05:16] Looking for 'sed' - found /usr/bin/sed
+[14:05:16] Looking for 'signalp' - found /sw/bioinfo/SignalP/4.1f/snowy/signalp
+[14:05:17] Determined signalp version is 004001 from '4.1 4578591'
+[14:05:17] Looking for 'tbl2asn' - found /sw/bioinfo/tbl2asn/25.8/snowy/tbl2asn
+[14:05:17] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[14:05:17] Using genetic code table 11.
+[14:05:17] Loading and checking input file: /home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.1.fa
+[14:05:17] Wrote 52 contigs totalling 2549665 bp.
+[14:05:17] Predicting tRNAs and tmRNAs
+[14:05:17] Running: aragorn -l -gc11  -w \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.fna
+[14:05:19] 1 tRNA-Arg [39137,39213] 35 (ccg)
+[14:05:19] 1 tRNA-Gln c[172260,172350] 31 (ctg)
+[14:05:19] 1 tRNA-Ser [9144,9236] 35 (gct)
+[14:05:19] 2 tRNA-Arg [9311,9387] 35 (acg)
+[14:05:19] 1 tRNA-Pro c[798,874] 35 (ggg)
+[14:05:19] 2 tRNA-Val c[16112,16188] 35 (gac)
+[14:05:19] 3 tRNA-Asn [20250,20324] 33 (gtt)
+[14:05:19] 4 tRNA-Asp c[35328,35404] 35 (gtc)
+[14:05:19] 5 tRNA-Val c[35411,35486] 34 (tac)
+[14:05:19] 6 tRNA-Asp c[35596,35672] 35 (gtc)
+[14:05:19] 7 tRNA-Val c[35679,35754] 34 (tac)
+[14:05:19] 8 tRNA-Leu c[42446,42530] 35 (tag)
+[14:05:19] 1 tmRNA c[15767,16146] 93,128 ANDDNYALAA**
+[14:05:19] 2 tRNA-Ser [62463,62553] 35 (tga)
+[14:05:19] 3 tRNA-Gly [73826,73901] 34 (gcc)
+[14:05:19] 4 tRNA-Cys [73978,74051] 33 (gca)
+[14:05:19] 1 tRNA-Ser [43490,43580] 35 (gga)
+[14:05:19] 2 tRNA-Ser [43643,43732] 35 (cga)
+[14:05:19] 3 tRNA-Leu [64790,64876] 35 (caa)
+[14:05:19] 4 tRNA-Met c[135355,135431] 35 (cat)
+[14:05:19] 5 tRNA-Leu c[150076,150160] 35 (gag)
+[14:05:19] 6 tRNA-Leu [207972,208058] 35 (cag)
+[14:05:19] 1 tRNA-Tyr [7890,7974] 35 (gta)
+[14:05:19] 2 tRNA-Gly [8358,8431] 33 (tcc)
+[14:05:19] 3 tRNA-Thr [8472,8547] 34 (ggt)
+[14:05:19] 1 tRNA-Ala [28130,28205] 34 (ggc)
+[14:05:19] 2 tRNA-Glu [28227,28302] 35 (ttc)
+[14:05:19] 3 tRNA-Leu [33430,33517] 35 (taa)
+[14:05:19] 1 tRNA-Met [57349,57425] 35 (cat)
+[14:05:19] 1 tRNA-Met [4274,4350] 35 (cat)
+[14:05:19] 1 tRNA-His c[27578,27653] 34 (gtg)
+[14:05:19] 2 tRNA-Arg c[27683,27759] 35 (tct)
+[14:05:19] 3 tRNA-Pro c[27799,27875] 35 (tgg)
+[14:05:19] 4 tRNA-Arg [93240,93316] 35 (cct)
+[14:05:19] 5 tRNA-Thr [225171,225246] 34 (cgt)
+[14:05:19] 6 tRNA-Pro [248373,248449] 35 (cgg)
+[14:05:19] 1 tRNA-Lys c[2353,2428] 34 (ttt)
+[14:05:19] 1 tRNA-Gln c[1526,1600] 33 (ttg)
+[14:05:19] 2 tRNA-Phe c[142311,142386] 34 (gaa)
+[14:05:19] 3 tRNA-Gly c[144834,144907] 33 (ccc)
+[14:05:19] Found 40 tRNAs
+[14:05:19] Predicting Ribosomal RNAs
+[14:05:19] Running Barrnap with 8 threads
+[14:05:20] 1 k105_81836 1 16S ribosomal RNA (partial)
+[14:05:20] Found 1 rRNAs
+[14:05:20] Skipping ncRNA search, enable with --rfam if desired.
+[14:05:20] Total of 40 tRNA + rRNA features
+[14:05:20] Searching for CRISPR repeats
+[14:05:21] Found 0 CRISPRs
+[14:05:21] Predicting coding sequences
+[14:05:21] Contigs total 2549665 bp, so using single mode
+[14:05:21] Running: prodigal -i \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.fna -c -m -g 11 -p single -f sco -q
+[14:05:24] Excluding CDS which overlaps existing RNA (tRNA) at k105_158699:172045..172437 on + strand
+[14:05:24] Excluding CDS which overlaps existing RNA (tRNA) at k105_138559:73976..74278 on + strand
+[14:05:26] Found 2488 CDS
+[14:05:26] Connecting features back to sequences
+[14:05:26] Not using genus-specific database. Try --usegenus to enable it.
+[14:05:26] Annotating CDS, please be patient.
+[14:05:26] Will use 8 CPUs for similarity searching.
+[14:05:27] There are still 2488 unannotated CDS left (started with 2488)
+[14:05:27] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS with 8 CPUs
+[14:05:27] Running: cat \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.IS\.tmp\.49546\.faa | parallel --gnu --plain -j 8 --block 48464 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.IS\.tmp\.49546\.blast 2> /dev/null
+[14:06:00] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.IS.tmp.49546.faa
+[14:06:00] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.IS.tmp.49546.blast
+[14:06:01] There are still 2484 unannotated CDS left (started with 2488)
+[14:06:01] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/AMR with 8 CPUs
+[14:06:01] Running: cat \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.AMR\.tmp\.49546\.faa | parallel --gnu --plain -j 8 --block 48395 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.AMR\.tmp\.49546\.blast 2> /dev/null
+[14:06:28] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.AMR.tmp.49546.faa
+[14:06:28] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.AMR.tmp.49546.blast
+[14:06:29] There are still 2484 unannotated CDS left (started with 2488)
+[14:06:29] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/sprot with 8 CPUs
+[14:06:29] Running: cat \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.sprot\.tmp\.49546\.faa | parallel --gnu --plain -j 8 --block 48395 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.sprot\.tmp\.49546\.blast 2> /dev/null
+[14:08:47] Modify product: UPF0307 protein PSPTO_4464 => hypothetical protein
+[14:08:47] Modify product: Monocarboxylate 2-oxoacid-binding periplasmic protein all3028 => Monocarboxylate 2-oxoacid-binding periplasmic protein
+[14:08:47] Modify product: Universal stress protein A homolog 2 => Universal stress protein A 
+[14:08:48] Modify product: PKHD-type hydroxylase Sbal_3634 => PKHD-type hydroxylase
+[14:08:48] Modify product: Probable lipoprotein YiaD => putative lipoprotein YiaD
+[14:08:48] Modify product: Probable GTP-binding protein EngB => putative GTP-binding protein EngB
+[14:08:48] Modify product: UPF0125 protein HI_0395 => hypothetical protein
+[14:08:48] Modify product: Acetyltransferase SACOL1063 => Acetyltransferase
+[14:08:48] Modify product: UPF0434 protein CV_3345 => hypothetical protein
+[14:08:48] Modify product: Putative low molecular weight protein-tyrosine-phosphatase slr0328 => Putative low molecular weight protein-tyrosine-phosphatase
+[14:08:48] Modify product: Uncharacterized protein Rv2232 => putative protein
+[14:08:48] Modify product: Uncharacterized ABC transporter ATP-binding protein YadG => putative ABC transporter ATP-binding protein YadG
+[14:08:48] Modify product: Probable membrane transporter protein YfcA => putative membrane transporter protein YfcA
+[14:08:48] Modify product: Uncharacterized FAD-linked oxidoreductase Rv2280 => putative FAD-linked oxidoreductase
+[14:08:48] Modify product: Uncharacterized protein Rv2307c => putative protein
+[14:08:48] Modify product: Probable Ni/Fe-hydrogenase B-type cytochrome subunit => putative Ni/Fe-hydrogenase B-type cytochrome subunit
+[14:08:48] Modify product: UPF0053 inner membrane protein YfjD => hypothetical protein
+[14:08:48] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[14:08:48] Modify product: UPF0102 protein RPA0323 => hypothetical protein
+[14:08:48] Modify product: Uncharacterized FAD-linked oxidoreductase Rv2280 => putative FAD-linked oxidoreductase
+[14:08:48] Modify product: Universal stress protein A homolog 2 => Universal stress protein A 
+[14:08:48] Modify product: UPF0701 protein YicC => hypothetical protein
+[14:08:48] Modify product: Probable membrane transporter protein YfcA => putative membrane transporter protein YfcA
+[14:08:48] Modify product: UPF0758 protein YsxA => hypothetical protein
+[14:08:48] Modify product: UPF0301 protein AlgH => hypothetical protein
+[14:08:48] Modify product: Uncharacterized protein NMB1437 => putative protein
+[14:08:48] Modify product: Probable adenylyltransferase/sulfurtransferase MoeZ => putative adenylyltransferase/sulfurtransferase MoeZ
+[14:08:48] Modify product: UPF0701 protein HI_0467 => hypothetical protein
+[14:08:48] Modify product: Probable GTP-binding protein EngB => putative GTP-binding protein EngB
+[14:08:48] Modify product: Probable tautomerase HP_0924 => putative tautomerase
+[14:08:48] Modify product: Probable protein kinase UbiB => putative protein kinase UbiB
+[14:08:48] Modify product: Uncharacterized protein HI_0755 => putative protein
+[14:08:48] Modify product: Uncharacterized protein YibN => putative protein YibN
+[14:08:48] Modify product: Probable chromosome-partitioning protein ParB => putative chromosome-partitioning protein ParB
+[14:08:48] Modify product: Cyclic di-GMP phosphodiesterase PA4108 => Cyclic di-GMP phosphodiesterase
+[14:08:48] Modify product: Putative multidrug export ATP-binding/permease protein SAV1866 => Putative multidrug export ATP-binding/permease protein
+[14:08:48] Modify product: UPF0225 protein YchJ => hypothetical protein
+[14:08:48] Modify product: Probable copper-importing P-type ATPase A => putative copper-importing P-type ATPase A
+[14:08:48] Modify product: Putative formate dehydrogenase SA2102 => Putative formate dehydrogenase
+[14:08:48] Modify product: Uncharacterized ABC transporter ATP-binding protein YknY => putative ABC transporter ATP-binding protein YknY
+[14:08:48] Modify product: Uncharacterized protein M6_Spy0233 => putative protein
+[14:08:48] Modify product: Probable ketoamine kinase HMPREF0351_12196 => putative ketoamine kinase
+[14:08:49] Modify product: Uncharacterized ABC transporter ATP-binding protein YheS => putative ABC transporter ATP-binding protein YheS
+[14:08:49] Modify product: Uncharacterized protein YcbX => putative protein YcbX
+[14:08:49] Modify product: Uncharacterized protein YciO => putative protein YciO
+[14:08:49] Modify product: Probable DNA endonuclease SmrA => putative DNA endonuclease SmrA
+[14:08:49] Modify product: Uncharacterized metal-dependent hydrolase YjjV => putative metal-dependent hydrolase YjjV
+[14:08:49] Modify product: Uncharacterized protein Rv1276c => putative protein
+[14:08:49] Modify product: Probable copper-importing P-type ATPase A => putative copper-importing P-type ATPase A
+[14:08:49] Modify product: Uncharacterized zinc protease Rv2782c => putative zinc protease
+[14:08:49] Modify product: Uncharacterized signaling protein CC_0091 => putative signaling protein
+[14:08:49] Modify product: Uncharacterized ABC transporter ATP-binding protein Rv1281c => putative ABC transporter ATP-binding protein
+[14:08:49] Modify product: Sulfurtransferase Alvin_2599 => Sulfurtransferase
+[14:08:49] Modify product: Uncharacterized oxidoreductase YciK => putative oxidoreductase YciK
+[14:08:49] Modify product: UPF0382 membrane protein YwdK => hypothetical protein
+[14:08:49] Modify product: Probable glycine dehydrogenase (decarboxylating) subunit 2 => putative glycine dehydrogenase (decarboxylating) subunit 2
+[14:08:49] Modify product: Probable glycine dehydrogenase (decarboxylating) subunit 1 => putative glycine dehydrogenase (decarboxylating) subunit 1
+[14:08:49] Modify product: Probable binding protein component of ABC iron transporter PA5217 => putative binding protein component of ABC iron transporter
+[14:08:49] Modify product: Probable 3-phenylpropionic acid transporter => putative 3-phenylpropionic acid transporter
+[14:08:49] Modify product: Protein aq_1857 => Protein
+[14:08:49] Modify product: Probable glycerol-3-phosphate acyltransferase => putative glycerol-3-phosphate acyltransferase
+[14:08:49] Modify product: Probable sugar-binding periplasmic protein => putative sugar-binding periplasmic protein
+[14:08:49] Modify product: Uncharacterized protein YqeY => putative protein YqeY
+[14:08:49] Modify product: Uncharacterized ABC transporter ATP-binding protein Rv0986 => putative ABC transporter ATP-binding protein
+[14:08:49] Modify product: Nitrilase blr3397 => Nitrilase
+[14:08:49] Modify product: Uncharacterized protein PA3922 => putative protein
+[14:08:49] Modify product: Probable membrane transporter protein YfcA => putative membrane transporter protein YfcA
+[14:08:49] Modify product: Phosphate-specific transport system accessory protein PhoU homolog => Phosphate-specific transport system accessory protein PhoU 
+[14:08:49] Modify product: Uncharacterized protein YfgD => putative protein YfgD
+[14:08:49] Modify product: Putative transport protein Rv0205 => Putative transport protein
+[14:08:49] Modify product: Uncharacterized HTH-type transcriptional regulator YxaF => putative HTH-type transcriptional regulator YxaF
+[14:08:49] Modify product: UPF0178 protein YaiI => hypothetical protein
+[14:08:49] Modify product: Probable iron export permease protein FetB => putative iron export permease protein FetB
+[14:08:49] Modify product: GTP cyclohydrolase 1 type 2 homolog => GTP cyclohydrolase 1 type 2 
+[14:08:49] Modify product: Probable nicotinate-nucleotide adenylyltransferase => putative nicotinate-nucleotide adenylyltransferase
+[14:08:50] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[14:08:50] Modify product: Probable tautomerase HP_0924 => putative tautomerase
+[14:08:50] Modify product: Probable D-xylose utilization operon transcriptional repressor => putative D-xylose utilization operon transcriptional repressor
+[14:08:50] Modify product: Uncharacterized protein Rv2004c => putative protein
+[14:08:50] Modify product: Probable membrane transporter protein YfcA => putative membrane transporter protein YfcA
+[14:08:50] Modify product: Probable ATP-dependent DNA helicase YoaA => putative ATP-dependent DNA helicase YoaA
+[14:08:50] Modify product: Probable cation-transporting ATPase F => putative cation-transporting ATPase F
+[14:08:50] Modify product: Phosphate-specific transport system accessory protein PhoU homolog => Phosphate-specific transport system accessory protein PhoU 
+[14:08:50] Modify product: Probable cytochrome c oxidase subunit 3 => putative cytochrome c oxidase subunit 3
+[14:08:50] Modify product: Uncharacterized protease YhbU => putative protease YhbU
+[14:08:50] Modify product: Probable ABC transporter permease protein NosY => putative ABC transporter permease protein NosY
+[14:08:50] Modify product: Probable ABC transporter binding protein NosD => putative ABC transporter binding protein NosD
+[14:08:50] Modify product: Probable ABC transporter binding protein NosD => putative ABC transporter binding protein NosD
+[14:08:50] Modify product: Putative anti-sigma factor antagonist TM_1442 => Putative anti-sigma factor antagonist
+[14:08:50] Modify product: Probable Fe(2+)-trafficking protein => putative Fe(2+)-trafficking protein
+[14:08:50] Modify product: UPF0276 protein CCNA_03000 => hypothetical protein
+[14:08:50] Modify product: Probable siderophore transport system ATP-binding protein YusV => putative siderophore transport system ATP-binding protein YusV
+[14:08:50] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[14:08:50] Modify product: Uncharacterized protein NMB0928 => putative protein
+[14:08:50] Modify product: Probable lipid II flippase MurJ => putative lipid II flippase MurJ
+[14:08:50] Modify product: Probable GTP-binding protein EngB => putative GTP-binding protein EngB
+[14:08:50] Modify product: UPF0716 protein FxsA => hypothetical protein
+[14:08:50] Modify product: UPF0394 inner membrane protein YeeE => hypothetical protein
+[14:08:50] Modify product: Probable sulfoacetate transporter SauU => putative sulfoacetate transporter SauU
+[14:08:50] Modify product: Probable enoyl-CoA hydratase echA8 => putative enoyl-CoA hydratase echA8
+[14:08:50] Modify product: Uncharacterized ABC transporter ATP-binding protein YknY => putative ABC transporter ATP-binding protein YknY
+[14:08:50] Cleaned 101 /product names
+[14:08:50] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.sprot.tmp.49546.faa
+[14:08:50] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.sprot.tmp.49546.blast
+[14:08:51] There are still 1108 unannotated CDS left (started with 2488)
+[14:08:51] Will use hmmer3 to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm with 8 CPUs
+[14:08:51] Running: cat \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.HAMAP\.hmm\.tmp\.49546\.faa | parallel --gnu --plain -j 8 --block 19035 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm /dev/stdin > \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.HAMAP\.hmm\.tmp\.49546\.hmmer3 2> /dev/null
+[14:09:45] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.HAMAP.hmm.tmp.49546.faa
+[14:09:45] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.HAMAP.hmm.tmp.49546.hmmer3
+[14:09:45] Labelling remaining 955 proteins as 'hypothetical protein'
+[14:09:45] Possible /pseudo 'Twitching mobility protein' at k105_68372 position 48080
+[14:09:45] Possible /pseudo 'Regulator of RpoS' at k105_227916 position 25780
+[14:09:45] Possible /pseudo 'Carbon dioxide-concentrating mechanism protein CcmK' at k105_70979 position 215426
+[14:09:45] Possible /pseudo 'Macrolide export ATP-binding/permease protein MacB' at k105_268935 position 23008
+[14:09:45] Found 1275 unique /gene codes.
+[14:09:45] Fixed 2 duplicate /gene - btuB_1 btuB_2
+[14:09:45] Fixed 2 duplicate /gene - fnr_1 fnr_2
+[14:09:45] Fixed 3 duplicate /gene - engB_1 engB_2 engB_3
+[14:09:45] Fixed 2 duplicate /gene - hypD_1 hypD_2
+[14:09:45] Fixed 2 duplicate /gene - fieF_1 fieF_2
+[14:09:45] Fixed 2 duplicate /gene - lptB_1 lptB_2
+[14:09:45] Fixed 3 duplicate /gene - mdtC_1 mdtC_2 mdtC_3
+[14:09:45] Fixed 2 duplicate /gene - selD_1 selD_2
+[14:09:45] Fixed 3 duplicate /gene - asnB_1 asnB_2 asnB_3
+[14:09:45] Fixed 2 duplicate /gene - wbgU_1 wbgU_2
+[14:09:45] Fixed 2 duplicate /gene - rlpA_1 rlpA_2
+[14:09:45] Fixed 2 duplicate /gene - mdh_1 mdh_2
+[14:09:45] Fixed 2 duplicate /gene - fmt_1 fmt_2
+[14:09:45] Fixed 2 duplicate /gene - cysQ_1 cysQ_2
+[14:09:45] Fixed 2 duplicate /gene - ftsA_1 ftsA_2
+[14:09:45] Fixed 2 duplicate /gene - nosD_1 nosD_2
+[14:09:45] Fixed 2 duplicate /gene - fabG_1 fabG_2
+[14:09:45] Fixed 2 duplicate /gene - hypB_1 hypB_2
+[14:09:45] Fixed 2 duplicate /gene - exbD_1 exbD_2
+[14:09:45] Fixed 2 duplicate /gene - hoxK_1 hoxK_2
+[14:09:45] Fixed 4 duplicate /gene - yfcA_1 yfcA_2 yfcA_3 yfcA_4
+[14:09:45] Fixed 2 duplicate /gene - glnQ_1 glnQ_2
+[14:09:45] Fixed 3 duplicate /gene - glmM_1 glmM_2 glmM_3
+[14:09:45] Fixed 2 duplicate /gene - hypE_1 hypE_2
+[14:09:45] Fixed 2 duplicate /gene - atpA_1 atpA_2
+[14:09:45] Fixed 2 duplicate /gene - rhaR_1 rhaR_2
+[14:09:45] Fixed 2 duplicate /gene - hoxL_1 hoxL_2
+[14:09:45] Fixed 2 duplicate /gene - tam_1 tam_2
+[14:09:45] Fixed 2 duplicate /gene - pabB_1 pabB_2
+[14:09:45] Fixed 2 duplicate /gene - rnr_1 rnr_2
+[14:09:45] Fixed 2 duplicate /gene - ubiJ_1 ubiJ_2
+[14:09:45] Fixed 2 duplicate /gene - tolQ_1 tolQ_2
+[14:09:45] Fixed 2 duplicate /gene - acsA_1 acsA_2
+[14:09:45] Fixed 2 duplicate /gene - thrS_1 thrS_2
+[14:09:45] Fixed 2 duplicate /gene - mntB_1 mntB_2
+[14:09:45] Fixed 3 duplicate /gene - pcm_1 pcm_2 pcm_3
+[14:09:45] Fixed 2 duplicate /gene - nirQ_1 nirQ_2
+[14:09:45] Fixed 2 duplicate /gene - narL_1 narL_2
+[14:09:45] Fixed 2 duplicate /gene - thiE_1 thiE_2
+[14:09:45] Fixed 2 duplicate /gene - lpxL_1 lpxL_2
+[14:09:45] Fixed 5 duplicate /gene - mdtA_1 mdtA_2 mdtA_3 mdtA_4 mdtA_5
+[14:09:45] Fixed 2 duplicate /gene - livF_1 livF_2
+[14:09:45] Fixed 2 duplicate /gene - ahcY_1 ahcY_2
+[14:09:45] Fixed 2 duplicate /gene - recF_1 recF_2
+[14:09:45] Fixed 2 duplicate /gene - sphX_1 sphX_2
+[14:09:45] Fixed 2 duplicate /gene - soxA_1 soxA_2
+[14:09:45] Fixed 3 duplicate /gene - slyD_1 slyD_2 slyD_3
+[14:09:45] Fixed 2 duplicate /gene - macB_1 macB_2
+[14:09:45] Fixed 2 duplicate /gene - cntI_1 cntI_2
+[14:09:45] Fixed 4 duplicate /gene - tusE_1 tusE_2 tusE_3 tusE_4
+[14:09:45] Fixed 2 duplicate /gene - uspA2_1 uspA2_2
+[14:09:45] Fixed 2 duplicate /gene - htpX_1 htpX_2
+[14:09:45] Fixed 2 duplicate /gene - btuE_1 btuE_2
+[14:09:45] Fixed 2 duplicate /gene - wecA_1 wecA_2
+[14:09:45] Fixed 2 duplicate /gene - dmdC_1 dmdC_2
+[14:09:45] Fixed 2 duplicate /gene - trxA_1 trxA_2
+[14:09:45] Fixed 2 duplicate /gene - dksA_1 dksA_2
+[14:09:45] Fixed 2 duplicate /gene - cysC_1 cysC_2
+[14:09:45] Fixed 2 duplicate /gene - pgsA_1 pgsA_2
+[14:09:45] Fixed 3 duplicate /gene - rssB_1 rssB_2 rssB_3
+[14:09:45] Fixed 3 duplicate /gene - atoC_1 atoC_2 atoC_3
+[14:09:45] Fixed 3 duplicate /gene - gloB_1 gloB_2 gloB_3
+[14:09:45] Fixed 3 duplicate /gene - phoU_1 phoU_2 phoU_3
+[14:09:45] Fixed 2 duplicate /gene - mlaF_1 mlaF_2
+[14:09:45] Fixed 2 duplicate /gene - trpB_1 trpB_2
+[14:09:45] Fixed 5 duplicate /gene - resA_1 resA_2 resA_3 resA_4 resA_5
+[14:09:45] Fixed 3 duplicate /gene - tusA_1 tusA_2 tusA_3
+[14:09:45] Fixed 2 duplicate /gene - copA_1 copA_2
+[14:09:45] Fixed 2 duplicate /gene - napG_1 napG_2
+[14:09:45] Fixed 3 duplicate /gene - pilT_1 pilT_2 pilT_3
+[14:09:45] Fixed 2 duplicate /gene - ctaB_1 ctaB_2
+[14:09:45] Fixed 2 duplicate /gene - bcp_1 bcp_2
+[14:09:45] Fixed 2 duplicate /gene - mltF_1 mltF_2
+[14:09:45] Fixed 7 duplicate /gene - mshA_1 mshA_2 mshA_3 mshA_4 mshA_5 mshA_6 mshA_7
+[14:09:45] Fixed 2 duplicate /gene - lcfB_1 lcfB_2
+[14:09:45] Fixed 2 duplicate /gene - ccoN1_1 ccoN1_2
+[14:09:45] Fixed 2 duplicate /gene - fbp_1 fbp_2
+[14:09:45] Fixed 4 duplicate /gene - pal_1 pal_2 pal_3 pal_4
+[14:09:45] Fixed 2 duplicate /gene - hybF_1 hybF_2
+[14:09:45] Fixed 3 duplicate /gene - lon_1 lon_2 lon_3
+[14:09:45] Fixed 3 duplicate /gene - polA_1 polA_2 polA_3
+[14:09:45] Fixed 2 duplicate /gene - napH_1 napH_2
+[14:09:45] Fixed 2 duplicate /gene - queE_1 queE_2
+[14:09:45] Fixed 2 duplicate /gene - maeB_1 maeB_2
+[14:09:45] Fixed 2 duplicate /gene - cca_1 cca_2
+[14:09:45] Fixed 2 duplicate /gene - yknY_1 yknY_2
+[14:09:45] Fixed 2 duplicate /gene - fccB_1 fccB_2
+[14:09:45] Fixed 2 duplicate /gene - ppsR_1 ppsR_2
+[14:09:45] Fixed 2 duplicate /gene - fccA_1 fccA_2
+[14:09:45] Fixed 2 duplicate /gene - atpE_1 atpE_2
+[14:09:45] Fixed 2 duplicate /gene - trpD_1 trpD_2
+[14:09:45] Fixed 2 duplicate /gene - glpE_1 glpE_2
+[14:09:45] Fixed 6 duplicate /gene - rcsC_1 rcsC_2 rcsC_3 rcsC_4 rcsC_5 rcsC_6
+[14:09:45] Fixed 2 duplicate /gene - ctaE_1 ctaE_2
+[14:09:45] Fixed 2 duplicate /gene - pgi_1 pgi_2
+[14:09:45] Fixed 2 duplicate /gene - ppsA_1 ppsA_2
+[14:09:45] Fixed 4 duplicate /gene - cc4_1 cc4_2 cc4_3 cc4_4
+[14:09:45] Fixed 2 duplicate /gene - livH_1 livH_2
+[14:09:45] Fixed 3 duplicate /gene - kefC_1 kefC_2 kefC_3
+[14:09:45] Fixed 2 duplicate /gene - nirS_1 nirS_2
+[14:09:45] Fixed 2 duplicate /gene - cnoX_1 cnoX_2
+[14:09:45] Fixed 2 duplicate /gene - ccmK_1 ccmK_2
+[14:09:45] Fixed 2 duplicate /gene - folK_1 folK_2
+[14:09:45] Fixed 2 duplicate /gene - menA_1 menA_2
+[14:09:45] Fixed 2 duplicate /gene - purC_1 purC_2
+[14:09:45] Fixed 2 duplicate /gene - fdhD_1 fdhD_2
+[14:09:45] Fixed 2 duplicate /gene - cheB_1 cheB_2
+[14:09:45] Fixed 2 duplicate /gene - smc_1 smc_2
+[14:09:45] Fixed 5 duplicate /gene - btuD_1 btuD_2 btuD_3 btuD_4 btuD_5
+[14:09:45] Fixed 2 duplicate /gene - atpC_1 atpC_2
+[14:09:45] Fixed 9 duplicate /gene - sasA_1 sasA_2 sasA_3 sasA_4 sasA_5 sasA_6 sasA_7 sasA_8 sasA_9
+[14:09:45] Fixed 2 duplicate /gene - mdtB_1 mdtB_2
+[14:09:45] Fixed 2 duplicate /gene - lutA_1 lutA_2
+[14:09:45] Fixed 3 duplicate /gene - bepA_1 bepA_2 bepA_3
+[14:09:45] Fixed 4 duplicate /gene - cmpR_1 cmpR_2 cmpR_3 cmpR_4
+[14:09:45] Fixed 2 duplicate /gene - ascD_1 ascD_2
+[14:09:45] Fixed 2 duplicate /gene - glpC_1 glpC_2
+[14:09:45] Fixed 4 duplicate /gene - dctM_1 dctM_2 dctM_3 dctM_4
+[14:09:45] Fixed 3 duplicate /gene - esiB_1 esiB_2 esiB_3
+[14:09:45] Fixed 2 duplicate /gene - amtB_1 amtB_2
+[14:09:45] Fixed 2 duplicate /gene - folP_1 folP_2
+[14:09:45] Fixed 2 duplicate /gene - alaS_1 alaS_2
+[14:09:45] Fixed 122 colliding /gene names.
+[14:09:45] Adding /locus_tag identifiers
+[14:09:45] Assigned 2529 locus_tags to CDS and RNA features.
+[14:09:45] Writing outputs to /home/ins/GenomeAnalysis/output/4_prokka/combined/
+[14:09:47] Generating annotation statistics file
+[14:09:47] Generating Genbank and Sequin files
+[14:09:47] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.err -i \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.fsa 2> /dev/null
+[14:09:51] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/errorsummary.val
+[14:09:51] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.dr
+[14:09:51] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.fixedproducts
+[14:09:51] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.ecn
+[14:09:51] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.val
+[14:09:51] Repairing broken .GBK output that tbl2asn produces...
+[14:09:51] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.gbf > \/home\/ins\/GenomeAnalysis\/output\/4_prokka\/combined\/combined_binning\.1\.gbk
+[14:09:51] Deleting unwanted file: /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.gbf
+[14:09:51] Output files:
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.log
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.fna
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.gff
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.faa
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.ffn
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.tbl
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.fsa
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.tsv
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.txt
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.gbk
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.sqn
+[14:09:52] /home/ins/GenomeAnalysis/output/4_prokka/combined/combined_binning.1.err
+[14:09:52] Annotation finished successfully.
+[14:09:52] Walltime used: 4.65 minutes
+[14:09:52] If you use this result please cite the Prokka paper:
+[14:09:52] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[14:09:52] Type 'prokka --citation' for more details.
+[14:09:52] Share and enjoy!
+[14:09:52] This is prokka 1.14.6
+[14:09:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:52] Homepage is https://github.com/tseemann/prokka
+[14:09:52] Local time is Thu Apr 29 14:09:52 2021
+[14:09:52] You are ins
+[14:09:52] Operating system is linux
+[14:09:52] You have BioPerl 1.007001
+[14:09:52] System has 16 cores.
+[14:09:52] Will use maximum of 8 cores.
+[14:09:52] Annotating as >>> Bacteria <<<
+[14:09:52] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.2.fa' contents.
+[14:09:52] Setting --locustag HJMBCDAN from MD5 136bcda70d1d5e881007022da264eb78
+[14:09:52] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:52] This is prokka 1.14.6
+[14:09:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:52] Homepage is https://github.com/tseemann/prokka
+[14:09:52] Local time is Thu Apr 29 14:09:52 2021
+[14:09:52] You are ins
+[14:09:52] Operating system is linux
+[14:09:52] You have BioPerl 1.007001
+[14:09:52] System has 16 cores.
+[14:09:52] Will use maximum of 8 cores.
+[14:09:52] Annotating as >>> Bacteria <<<
+[14:09:52] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.3.fa' contents.
+[14:09:52] Setting --locustag BMPPJGND from MD5 b699307d191c8cd350a43765f3eb7445
+[14:09:52] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:52] This is prokka 1.14.6
+[14:09:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:52] Homepage is https://github.com/tseemann/prokka
+[14:09:52] Local time is Thu Apr 29 14:09:52 2021
+[14:09:52] You are ins
+[14:09:52] Operating system is linux
+[14:09:52] You have BioPerl 1.007001
+[14:09:52] System has 16 cores.
+[14:09:52] Will use maximum of 8 cores.
+[14:09:52] Annotating as >>> Bacteria <<<
+[14:09:52] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.5.fa' contents.
+[14:09:52] Setting --locustag OHJDILGI from MD5 813d2502bf2cb629a10da9bf204e421c
+[14:09:52] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:53] This is prokka 1.14.6
+[14:09:53] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:53] Homepage is https://github.com/tseemann/prokka
+[14:09:53] Local time is Thu Apr 29 14:09:53 2021
+[14:09:53] You are ins
+[14:09:53] Operating system is linux
+[14:09:53] You have BioPerl 1.007001
+[14:09:53] System has 16 cores.
+[14:09:53] Will use maximum of 8 cores.
+[14:09:53] Annotating as >>> Bacteria <<<
+[14:09:53] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.6.fa' contents.
+[14:09:53] Setting --locustag DAGLGCBG from MD5 da050cb03c634f60000e495c2c6d8d72
+[14:09:53] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:53] This is prokka 1.14.6
+[14:09:53] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:53] Homepage is https://github.com/tseemann/prokka
+[14:09:53] Local time is Thu Apr 29 14:09:53 2021
+[14:09:53] You are ins
+[14:09:53] Operating system is linux
+[14:09:53] You have BioPerl 1.007001
+[14:09:53] System has 16 cores.
+[14:09:53] Will use maximum of 8 cores.
+[14:09:53] Annotating as >>> Bacteria <<<
+[14:09:53] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.7.fa' contents.
+[14:09:53] Setting --locustag NABFOIII from MD5 7abf8222380f36988b9a3acfc955c42e
+[14:09:53] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:53] This is prokka 1.14.6
+[14:09:53] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:53] Homepage is https://github.com/tseemann/prokka
+[14:09:53] Local time is Thu Apr 29 14:09:53 2021
+[14:09:53] You are ins
+[14:09:53] Operating system is linux
+[14:09:53] You have BioPerl 1.007001
+[14:09:53] System has 16 cores.
+[14:09:53] Will use maximum of 8 cores.
+[14:09:53] Annotating as >>> Archaea <<<
+[14:09:53] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.8.fa' contents.
+[14:09:53] Setting --locustag KBDDBDBH from MD5 4bddbdb13d2c16ef3057224c00793553
+[14:09:53] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:53] This is prokka 1.14.6
+[14:09:53] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:53] Homepage is https://github.com/tseemann/prokka
+[14:09:53] Local time is Thu Apr 29 14:09:53 2021
+[14:09:53] You are ins
+[14:09:53] Operating system is linux
+[14:09:53] You have BioPerl 1.007001
+[14:09:53] System has 16 cores.
+[14:09:53] Will use maximum of 8 cores.
+[14:09:53] Annotating as >>> Bacteria <<<
+[14:09:53] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.9.fa' contents.
+[14:09:53] Setting --locustag ALNDMHOH from MD5 a57d61813670ce005c75b1e517455088
+[14:09:53] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:54] This is prokka 1.14.6
+[14:09:54] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:54] Homepage is https://github.com/tseemann/prokka
+[14:09:54] Local time is Thu Apr 29 14:09:53 2021
+[14:09:54] You are ins
+[14:09:54] Operating system is linux
+[14:09:54] You have BioPerl 1.007001
+[14:09:54] System has 16 cores.
+[14:09:54] Will use maximum of 8 cores.
+[14:09:54] Annotating as >>> Bacteria <<<
+[14:09:54] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.11.fa' contents.
+[14:09:54] Setting --locustag GDKHJFGC from MD5 0d413f0c834a0f164fd7ea0f556ae958
+[14:09:54] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:54] This is prokka 1.14.6
+[14:09:54] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:54] Homepage is https://github.com/tseemann/prokka
+[14:09:54] Local time is Thu Apr 29 14:09:54 2021
+[14:09:54] You are ins
+[14:09:54] Operating system is linux
+[14:09:54] You have BioPerl 1.007001
+[14:09:54] System has 16 cores.
+[14:09:54] Will use maximum of 8 cores.
+[14:09:54] Annotating as >>> Archaea <<<
+[14:09:54] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.12.fa' contents.
+[14:09:54] Setting --locustag GFKLGDEK from MD5 0f450de475b593fc3f465316ab9d495c
+[14:09:54] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:54] This is prokka 1.14.6
+[14:09:54] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:54] Homepage is https://github.com/tseemann/prokka
+[14:09:54] Local time is Thu Apr 29 14:09:54 2021
+[14:09:54] You are ins
+[14:09:54] Operating system is linux
+[14:09:54] You have BioPerl 1.007001
+[14:09:54] System has 16 cores.
+[14:09:54] Will use maximum of 8 cores.
+[14:09:54] Annotating as >>> Bacteria <<<
+[14:09:54] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.16.fa' contents.
+[14:09:54] Setting --locustag FLAKPMOP from MD5 f5a49689478bf8c9e073407dbfce1c81
+[14:09:54] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:54] This is prokka 1.14.6
+[14:09:54] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:54] Homepage is https://github.com/tseemann/prokka
+[14:09:54] Local time is Thu Apr 29 14:09:54 2021
+[14:09:54] You are ins
+[14:09:54] Operating system is linux
+[14:09:54] You have BioPerl 1.007001
+[14:09:54] System has 16 cores.
+[14:09:54] Will use maximum of 8 cores.
+[14:09:54] Annotating as >>> Bacteria <<<
+[14:09:54] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.18.fa' contents.
+[14:09:54] Setting --locustag HJMBHOKO from MD5 136b18480e21761f51d11c9e9e1c79a4
+[14:09:54] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:54] This is prokka 1.14.6
+[14:09:54] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:54] Homepage is https://github.com/tseemann/prokka
+[14:09:54] Local time is Thu Apr 29 14:09:54 2021
+[14:09:54] You are ins
+[14:09:54] Operating system is linux
+[14:09:54] You have BioPerl 1.007001
+[14:09:54] System has 16 cores.
+[14:09:54] Will use maximum of 8 cores.
+[14:09:54] Annotating as >>> Bacteria <<<
+[14:09:54] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.19.fa' contents.
+[14:09:54] Setting --locustag GCKCKCGM from MD5 0c4c4c062e78d08d54dcb50c4dce4da9
+[14:09:54] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:55] This is prokka 1.14.6
+[14:09:55] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:55] Homepage is https://github.com/tseemann/prokka
+[14:09:55] Local time is Thu Apr 29 14:09:55 2021
+[14:09:55] You are ins
+[14:09:55] Operating system is linux
+[14:09:55] You have BioPerl 1.007001
+[14:09:55] System has 16 cores.
+[14:09:55] Will use maximum of 8 cores.
+[14:09:55] Annotating as >>> Bacteria <<<
+[14:09:55] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.20.fa' contents.
+[14:09:55] Setting --locustag GIBHKDMB from MD5 02b14d6bda8fad2fa4fcbc99e7f9a107
+[14:09:55] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:55] This is prokka 1.14.6
+[14:09:55] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:55] Homepage is https://github.com/tseemann/prokka
+[14:09:55] Local time is Thu Apr 29 14:09:55 2021
+[14:09:55] You are ins
+[14:09:55] Operating system is linux
+[14:09:55] You have BioPerl 1.007001
+[14:09:55] System has 16 cores.
+[14:09:55] Will use maximum of 8 cores.
+[14:09:55] Annotating as >>> Bacteria <<<
+[14:09:55] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.22.fa' contents.
+[14:09:55] Setting --locustag JIEDJLCJ from MD5 32ed35c3bce11541dbd099c4b4c1aec0
+[14:09:55] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:55] This is prokka 1.14.6
+[14:09:55] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:55] Homepage is https://github.com/tseemann/prokka
+[14:09:55] Local time is Thu Apr 29 14:09:55 2021
+[14:09:55] You are ins
+[14:09:55] Operating system is linux
+[14:09:55] You have BioPerl 1.007001
+[14:09:55] System has 16 cores.
+[14:09:55] Will use maximum of 8 cores.
+[14:09:55] Annotating as >>> Bacteria <<<
+[14:09:55] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.23.fa' contents.
+[14:09:55] Setting --locustag BJGCDPDJ from MD5 b30cd9d3ce06f679dcc75843cda17940
+[14:09:55] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
+[14:09:55] This is prokka 1.14.6
+[14:09:55] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:09:55] Homepage is https://github.com/tseemann/prokka
+[14:09:55] Local time is Thu Apr 29 14:09:55 2021
+[14:09:55] You are ins
+[14:09:55] Operating system is linux
+[14:09:55] You have BioPerl 1.007001
+[14:09:55] System has 16 cores.
+[14:09:55] Will use maximum of 8 cores.
+[14:09:55] Annotating as >>> Bacteria <<<
+[14:09:55] Generating locus_tag from '/home/ins/GenomeAnalysis/output/3_metabat/combined_binning/combined_binning.24.fa' contents.
+[14:09:55] Setting --locustag NHLEBKCK from MD5 715eb4c4de491a3bdf876f0f2b0012a5
+[14:09:55] Folder '/home/ins/GenomeAnalysis/output/4_prokka/combined' already exists! Please change --outdir or use --force
