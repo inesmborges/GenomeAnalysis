@@ -1,4 +1,0 @@
-ERROR! File not found (contigs): /home/ins/GenomeAnalysis/output/2_megahit/combined_assembly/final.contigs.fa
-
-In case you have troubles running QUAST, you can write to quast.support@bioinf.spbau.ru
-Please provide us with quast.log file from the output directory.
