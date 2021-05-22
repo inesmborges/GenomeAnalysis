@@ -1,0 +1,5 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+ 3149750  3149830  |      138       58  |       81       81  |    98.77  | Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence	k119_123184_flag_1_multi_3.0000_len_742
+ 2010643  2010717  |      615      689  |       75       75  |   100.00  | Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence	k119_82884_flag_1_multi_3.7993_len_1001
+ 4142700  4142774  |      689      615  |       75       75  |   100.00  | Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence	k119_82884_flag_1_multi_3.7993_len_1001

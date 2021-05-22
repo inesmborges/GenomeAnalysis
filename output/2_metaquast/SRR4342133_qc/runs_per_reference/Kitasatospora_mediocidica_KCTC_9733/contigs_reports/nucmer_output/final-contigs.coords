@@ -1,0 +1,4 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+ 1017466  1017677  |     1467     1678  |      212      212  |    95.28  | Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000001.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_3_quiver.1_C__whole_genome_shotgun_sequence	k119_160745_flag_1_multi_9.2909_len_2807
+ 2726304  2726515  |     1678     1467  |      212      212  |    95.28  | Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000005.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_8_quiver.5_C__whole_genome_shotgun_sequence	k119_160745_flag_1_multi_9.2909_len_2807

@@ -1,0 +1,3 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1264	1340	1245	1169	Lautropia_mirabilis_ATCC_51599_NZ_GL636063.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD2__whole_genome_shotgun_sequence	k119_139524_flag_1_multi_17.2286_len_1882	96.1		True
+CONTIG	k119_139524_flag_1_multi_17.2286_len_1882	1882	correct_unaligned

@@ -1,0 +1,1694 @@
+/home/ins/GenomeAnalysis/output/2_quast/combined_qc/quast_corrected_input/Synechococcus_sp._WH_7805.fasta__1 /home/ins/GenomeAnalysis/output/2_quast/combined_qc/quast_corrected_input/final-contigs_to_Synechococcus_sp._WH_7805.fasta
+NUCMER
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_101056_flag_1_multi_2.0000_len_528 2621166 528
+2311407 2311930 528 1 23 23 0
+-485
+-1
+-1
+-1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_101223_flag_1_multi_1.8067_len_762 2621166 762
+1743405 1744166 1 762 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_101355_flag_1_multi_1.7792_len_508 2621166 508
+1215610 1216117 508 1 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_101438_flag_1_multi_2.0000_len_864 2621166 864
+502594 503457 1 864 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_101724_flag_1_multi_1.8381_len_599 2621166 599
+1873327 1873925 1 599 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_102037_flag_1_multi_2.0000_len_552 2621166 552
+1263583 1264134 552 1 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_102250_flag_1_multi_2.0000_len_984 2621166 984
+1119500 1120483 1 984 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_103330_flag_1_multi_1.8078_len_516 2621166 516
+1313284 1313799 1 516 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_103597_flag_1_multi_1.8550_len_712 2621166 712
+1858626 1859336 712 1 35 35 0
+-85
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_10387_flag_1_multi_1.7412_len_646 2621166 646
+371150 371792 1 643 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_104295_flag_1_multi_2.0000_len_558 2621166 558
+674069 674622 1 554 27 27 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_105002_flag_1_multi_2.0000_len_567 2621166 567
+46451 47017 567 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_105118_flag_1_multi_2.0000_len_553 2621166 553
+319505 320057 1 553 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_105609_flag_1_multi_1.8419_len_573 2621166 573
+1979794 1980366 573 1 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_105907_flag_1_multi_1.8967_len_628 2621166 628
+903589 904204 1 628 29 29 0
+-192
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_106186_flag_1_multi_2.0000_len_804 2621166 804
+816560 817360 1 804 36 36 0
+-86
+-1
+-1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_106258_flag_1_multi_1.7870_len_828 2621166 828
+2025451 2026278 828 1 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_107810_flag_1_multi_1.8842_len_649 2621166 649
+1000952 1001600 649 1 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_108769_flag_1_multi_2.0000_len_596 2621166 596
+334660 335253 1 594 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_108903_flag_1_multi_3.0000_len_3791 2621166 3791
+763083 763164 1248 1329 0 0 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_109543_flag_1_multi_3.0000_len_1042 2621166 1042
+1806820 1807861 1042 1 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_109796_flag_1_multi_2.0000_len_545 2621166 545
+2615573 2616117 1 545 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_11175_flag_1_multi_1.7470_len_682 2621166 682
+1212768 1213449 1 682 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_112377_flag_1_multi_2.0000_len_659 2621166 659
+686979 687637 659 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_113774_flag_0_multi_2.8191_len_923 2621166 923
+1101243 1101347 923 819 0 0 0
+0
+1102096 1102316 221 1 4 4 0
+98
+-3
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_113887_flag_1_multi_2.0000_len_581 2621166 581
+2040029 2040609 581 1 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_115298_flag_1_multi_3.0000_len_692 2621166 692
+696285 696975 692 2 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_116370_flag_1_multi_2.0000_len_548 2621166 548
+2229952 2230499 1 548 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_116492_flag_1_multi_1.0000_len_560 2621166 560
+842368 842927 1 560 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_11719_flag_1_multi_3.0000_len_552 2621166 552
+2166234 2166785 1 552 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_117205_flag_1_multi_2.0000_len_875 2621166 875
+1793878 1794752 1 875 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_117478_flag_1_multi_3.0000_len_831 2621166 831
+894521 895351 831 1 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_118232_flag_1_multi_2.0000_len_895 2621166 895
+733981 734875 1 895 36 36 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_118741_flag_1_multi_1.9467_len_1249 2621166 1249
+1798393 1799240 848 1 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_118979_flag_1_multi_2.0000_len_776 2621166 776
+750396 751171 776 1 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_119407_flag_1_multi_3.0000_len_630 2621166 630
+2071477 2072106 630 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_119670_flag_1_multi_2.0000_len_692 2621166 692
+2021809 2022500 1 692 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_120434_flag_1_multi_2.0000_len_782 2621166 782
+1973849 1974376 782 255 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_12116_flag_1_multi_2.5124_len_548 2621166 548
+737419 737966 1 548 27 27 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_121211_flag_1_multi_1.7316_len_500 2621166 500
+1788868 1789297 500 71 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_121605_flag_1_multi_1.0000_len_553 2621166 553
+1672812 1673359 1 548 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_121661_flag_1_multi_1.0000_len_679 2621166 679
+169494 169767 1 274 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_123280_flag_1_multi_2.0000_len_630 2621166 630
+1872482 1873111 630 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_123828_flag_1_multi_2.0000_len_608 2621166 608
+113223 113830 1 608 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_124607_flag_1_multi_1.6803_len_718 2621166 718
+1368583 1369300 718 1 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_124624_flag_1_multi_2.0000_len_572 2621166 572
+305025 305593 4 572 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_124650_flag_1_multi_1.7832_len_557 2621166 557
+2249968 2250524 557 1 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_125266_flag_1_multi_2.7946_len_621 2621166 621
+1513359 1513979 621 1 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_127160_flag_1_multi_2.0000_len_574 2621166 574
+1234615 1235188 1 574 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_128037_flag_1_multi_1.8177_len_626 2621166 626
+2004775 2005400 626 1 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_129708_flag_1_multi_4.0000_len_665 2621166 665
+1133561 1134225 665 1 9 9 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_130868_flag_1_multi_1.0000_len_630 2621166 630
+1751659 1752288 630 1 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_131472_flag_1_multi_1.8828_len_1214 2621166 1214
+594964 596175 3 1214 48 48 0
+-1200
+6
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_131604_flag_1_multi_2.0000_len_508 2621166 508
+958960 959467 508 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_132091_flag_1_multi_3.0000_len_9290 2621166 9290
+283122 283221 447 348 3 3 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_132154_flag_1_multi_2.0000_len_606 2621166 606
+42322 42927 1 606 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_13239_flag_1_multi_1.6435_len_523 2621166 523
+2540241 2540763 523 1 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_133084_flag_1_multi_1.7822_len_858 2621166 858
+1782239 1783096 1 858 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_133297_flag_1_multi_2.0000_len_555 2621166 555
+539172 539726 1 555 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_133303_flag_1_multi_1.7593_len_778 2621166 778
+2110052 2110829 778 1 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_134240_flag_1_multi_2.0000_len_566 2621166 566
+61431 61857 1 427 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_134656_flag_1_multi_2.0000_len_547 2621166 547
+309811 310357 1 547 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_134753_flag_1_multi_1.9277_len_672 2621166 672
+1884529 1885198 3 672 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_134831_flag_1_multi_2.0000_len_594 2621166 594
+1638282 1638875 594 1 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_134928_flag_1_multi_2.0000_len_609 2621166 609
+88540 89166 609 1 23 23 0
+352
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+5
+1
+1
+2
+2
+1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_135534_flag_1_multi_1.8452_len_654 2621166 654
+1399573 1400226 654 1 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_136438_flag_1_multi_2.0000_len_782 2621166 782
+1238646 1239426 782 1 20 20 0
+-492
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_137133_flag_1_multi_1.8700_len_528 2621166 528
+1127463 1127990 1 528 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_137206_flag_1_multi_2.0000_len_616 2621166 616
+937577 938192 616 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_137372_flag_1_multi_2.0000_len_832 2621166 832
+2353807 2354632 826 1 37 37 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_137400_flag_1_multi_2.0000_len_547 2621166 547
+2026296 2026842 1 547 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_137462_flag_1_multi_3.0000_len_534 2621166 534
+1335321 1335853 1 533 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_140333_flag_1_multi_1.9087_len_576 2621166 576
+2091890 2092459 570 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_140672_flag_1_multi_2.0000_len_531 2621166 531
+2162931 2163461 1 531 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_140805_flag_1_multi_2.0000_len_521 2621166 521
+2287452 2287972 1 521 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_142292_flag_1_multi_2.0000_len_525 2621166 525
+2031318 2031841 525 2 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_142317_flag_1_multi_2.0000_len_748 2621166 748
+1068704 1069451 1 748 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_143388_flag_1_multi_2.0000_len_1064 2621166 1064
+589499 590558 1 1061 47 47 0
+-939
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_143863_flag_1_multi_1.8505_len_620 2621166 620
+2126664 2127283 1 620 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_144095_flag_1_multi_1.8103_len_532 2621166 532
+1051892 1052343 452 1 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_144501_flag_1_multi_1.8655_len_514 2621166 514
+185200 185711 1 512 9 9 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_144539_flag_1_multi_1.8271_len_724 2621166 724
+852522 853245 1 724 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_145003_flag_1_multi_2.0000_len_646 2621166 646
+36823 37468 646 1 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_145608_flag_1_multi_1.8128_len_714 2621166 714
+815383 816096 1 714 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_14620_flag_1_multi_2.0000_len_557 2621166 557
+2572363 2572914 557 6 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_146652_flag_1_multi_1.9784_len_937 2621166 937
+1900669 1901605 937 1 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_147260_flag_1_multi_1.9033_len_1129 2621166 1129
+1819970 1821098 1 1129 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_147282_flag_1_multi_2.0000_len_856 2621166 856
+807765 808620 856 1 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_147521_flag_1_multi_1.8982_len_901 2621166 901
+1604233 1605126 894 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_148175_flag_1_multi_3.0000_len_4521 2621166 4521
+1134698 1139215 1 4519 54 54 0
+-1154
+-2125
+1141
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_148319_flag_1_multi_1.8900_len_814 2621166 814
+756905 757637 82 814 9 9 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_148826_flag_1_multi_1.7906_len_554 2621166 554
+800354 800907 1 554 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_149742_flag_1_multi_2.0000_len_549 2621166 549
+305816 306364 1 549 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_150456_flag_1_multi_1.8607_len_672 2621166 672
+1179711 1180382 1 672 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_150470_flag_1_multi_1.0000_len_572 2621166 572
+1167915 1168486 572 1 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_150556_flag_1_multi_2.0000_len_597 2621166 597
+616183 616779 597 1 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_151355_flag_1_multi_1.8897_len_631 2621166 631
+1499576 1500206 631 1 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_151443_flag_1_multi_2.0000_len_810 2621166 810
+2313329 2314138 1 810 40 40 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_151610_flag_1_multi_2.0000_len_568 2621166 568
+2325863 2326429 2 568 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_151706_flag_1_multi_1.0000_len_560 2621166 560
+1612751 1613311 1 560 18 18 0
+445
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_152069_flag_1_multi_2.0000_len_500 2621166 500
+596622 597119 500 3 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_154229_flag_0_multi_13.8991_len_660 2621166 660
+2102246 2102341 14 109 2 2 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_154720_flag_1_multi_3.0000_len_535 2621166 535
+2600077 2600611 1 535 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_155192_flag_1_multi_2.0000_len_516 2621166 516
+1488716 1489229 516 3 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_155583_flag_1_multi_2.0000_len_616 2621166 616
+360921 361536 1 616 27 27 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_156554_flag_1_multi_2.0000_len_988 2621166 988
+729706 730693 1 988 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_157110_flag_1_multi_2.7033_len_705 2621166 705
+629685 630389 1 705 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_158355_flag_1_multi_1.7311_len_555 2621166 555
+2258663 2259217 1 555 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_159136_flag_1_multi_2.0000_len_656 2621166 656
+1373815 1374466 1 652 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_159307_flag_1_multi_1.8713_len_812 2621166 812
+412187 412998 1 812 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_159776_flag_1_multi_1.9363_len_1015 2621166 1015
+1190739 1191751 1 1013 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_160346_flag_1_multi_2.0000_len_510 2621166 510
+137773 138283 510 1 18 18 0
+155
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_161042_flag_1_multi_2.0000_len_938 2621166 938
+738685 739622 1 938 40 40 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_161414_flag_1_multi_1.0000_len_540 2621166 540
+2578271 2578805 535 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_162199_flag_1_multi_2.0265_len_1123 2621166 1123
+2523358 2524476 1120 1 23 23 0
+-1012
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_163297_flag_1_multi_1.0000_len_517 2621166 517
+2590935 2591448 514 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_165661_flag_1_multi_1.8545_len_703 2621166 703
+1878885 1879587 1 703 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_166373_flag_1_multi_1.0000_len_618 2621166 618
+1382445 1383061 618 2 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_166495_flag_1_multi_2.0000_len_626 2621166 626
+2423774 2424399 626 1 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_167553_flag_1_multi_2.0000_len_681 2621166 681
+1874543 1875223 681 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_168357_flag_1_multi_2.0000_len_600 2621166 600
+1381153 1381752 1 600 9 9 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_169259_flag_1_multi_2.0000_len_535 2621166 535
+1519824 1520358 1 535 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_169269_flag_1_multi_1.0000_len_579 2621166 579
+2274356 2274934 579 1 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_169762_flag_1_multi_2.0000_len_557 2621166 557
+150358 150914 1 557 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_169992_flag_1_multi_3.0000_len_947 2621166 947
+1247575 1248521 1 947 32 32 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_172514_flag_1_multi_1.0000_len_627 2621166 627
+2459037 2459662 626 1 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_172703_flag_1_multi_2.0000_len_610 2621166 610
+730645 731254 1 610 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_172743_flag_1_multi_2.0000_len_956 2621166 956
+2295434 2296389 956 1 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_172993_flag_1_multi_2.0000_len_665 2621166 665
+1964914 1965578 665 1 9 9 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_174027_flag_1_multi_2.0000_len_656 2621166 656
+2321434 2322089 1 656 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_174114_flag_1_multi_1.7787_len_593 2621166 593
+342195 342787 593 1 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_176314_flag_1_multi_2.0000_len_750 2621166 750
+1246107 1246854 1 750 18 18 0
+-432
+-20
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_176560_flag_1_multi_2.0000_len_685 2621166 685
+2205638 2206320 3 685 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_176758_flag_1_multi_1.7700_len_505 2621166 505
+1742428 1742932 505 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_178149_flag_1_multi_2.0000_len_818 2621166 818
+2567820 2568637 818 1 37 37 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_178378_flag_1_multi_2.0000_len_557 2621166 557
+558243 558799 1 557 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_178798_flag_1_multi_1.8761_len_573 2621166 573
+2281536 2282108 1 573 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_179410_flag_1_multi_3.0000_len_583 2621166 583
+1685288 1685870 583 1 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_179785_flag_1_multi_2.0000_len_508 2621166 508
+562739 563246 1 508 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_180149_flag_1_multi_1.8028_len_531 2621166 531
+1755374 1755904 531 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_181656_flag_1_multi_2.0000_len_817 2621166 817
+2553443 2554259 1 815 33 33 0
+382
+7
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_181791_flag_1_multi_2.6169_len_627 2621166 627
+2600862 2601488 1 627 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_182040_flag_1_multi_2.0000_len_611 2621166 611
+830494 831104 1 611 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_182256_flag_1_multi_2.0000_len_564 2621166 564
+1379540 1380103 564 1 4 4 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_182409_flag_1_multi_2.0000_len_685 2621166 685
+1607376 1608060 685 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_182513_flag_1_multi_2.0000_len_627 2621166 627
+823907 824533 627 1 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_182531_flag_1_multi_3.0000_len_548 2621166 548
+2096689 2097234 548 3 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_18333_flag_1_multi_2.6373_len_673 2621166 673
+496363 497033 1 671 32 32 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_183851_flag_1_multi_1.9624_len_929 2621166 929
+1833566 1834494 1 929 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_183885_flag_1_multi_2.0000_len_540 2621166 540
+423515 424054 1 540 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_184267_flag_1_multi_2.5890_len_577 2621166 577
+2494826 2495402 1 577 9 9 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_184355_flag_1_multi_2.0000_len_523 2621166 523
+1646534 1647056 523 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_184537_flag_1_multi_2.0000_len_1302 2621166 1302
+1759768 1761069 1302 1 57 57 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_185204_flag_1_multi_1.8539_len_502 2621166 502
+1315823 1316325 502 1 25 25 0
+151
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_185366_flag_1_multi_1.6815_len_849 2621166 849
+22438 23286 1 849 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_185749_flag_1_multi_2.0000_len_815 2621166 815
+746869 747683 815 1 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_186536_flag_1_multi_1.8598_len_797 2621166 797
+1712954 1713750 1 797 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_187269_flag_1_multi_2.6990_len_1155 2621166 1155
+2045512 2046666 1155 1 35 35 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_189572_flag_1_multi_2.0000_len_933 2621166 933
+1 670 670 1 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_189774_flag_1_multi_1.9291_len_641 2621166 641
+2165072 2165713 1 641 15 15 0
+377
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_189918_flag_1_multi_2.0000_len_651 2621166 651
+1083486 1084136 651 1 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_190710_flag_1_multi_2.0000_len_726 2621166 726
+899058 899783 1 726 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_190815_flag_1_multi_2.0000_len_545 2621166 545
+829657 830201 545 1 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_191100_flag_1_multi_1.7870_len_551 2621166 551
+881016 881566 551 1 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_191270_flag_1_multi_1.0000_len_693 2621166 693
+1255540 1256230 693 3 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_191929_flag_1_multi_2.0000_len_512 2621166 512
+2001162 2001673 1 512 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_192133_flag_1_multi_1.0000_len_641 2621166 641
+412936 413576 1 641 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_193247_flag_1_multi_2.0000_len_771 2621166 771
+2529249 2530018 771 1 38 38 0
+-369
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_193259_flag_1_multi_1.0000_len_579 2621166 579
+2612792 2613370 579 1 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_193797_flag_1_multi_2.0000_len_705 2621166 705
+1131019 1131723 705 1 32 32 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_194900_flag_1_multi_2.0000_len_933 2621166 933
+84796 85673 933 56 24 24 0
+-123
+4
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_195567_flag_1_multi_2.0000_len_630 2621166 630
+2109549 2110178 1 630 5 5 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_196364_flag_1_multi_2.0000_len_723 2621166 723
+1189158 1189880 1 723 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_196754_flag_1_multi_1.0000_len_560 2621166 560
+2474414 2474973 560 1 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_1986_flag_1_multi_1.8386_len_1301 2621166 1301
+1809856 1811156 1 1301 34 34 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_199400_flag_1_multi_2.0000_len_633 2621166 633
+1675521 1676153 633 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_200193_flag_1_multi_1.9044_len_722 2621166 722
+1267199 1267920 1 722 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_20027_flag_1_multi_1.8348_len_692 2621166 692
+1568438 1569129 1 692 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_200936_flag_1_multi_1.0000_len_585 2621166 585
+2164556 2165132 585 9 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_201771_flag_1_multi_3.0000_len_568 2621166 568
+204157 204724 1 568 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_201967_flag_1_multi_1.8885_len_670 2621166 670
+1358186 1358855 670 1 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_20204_flag_1_multi_2.0000_len_758 2621166 758
+2114522 2115279 1 758 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_204222_flag_1_multi_2.0000_len_1013 2621166 1013
+1128103 1129115 1 1013 50 50 0
+369
+-3
+-339
+7
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_205337_flag_1_multi_1.8314_len_526 2621166 526
+731150 731675 1 526 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_205883_flag_1_multi_2.0000_len_785 2621166 785
+1374915 1375699 785 1 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_206018_flag_1_multi_1.0000_len_519 2621166 519
+614855 615369 5 519 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_206536_flag_1_multi_2.9004_len_577 2621166 577
+915942 916518 1 577 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_206548_flag_1_multi_2.5968_len_601 2621166 601
+1261860 1262457 1 598 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_206800_flag_1_multi_2.0000_len_551 2621166 551
+2120527 2121077 1 551 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_207128_flag_1_multi_1.8080_len_605 2621166 605
+2368963 2369565 603 1 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_207624_flag_1_multi_1.8870_len_636 2621166 636
+315696 316331 1 636 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_209013_flag_1_multi_2.0000_len_688 2621166 688
+258051 258738 1 688 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_209948_flag_1_multi_1.9070_len_804 2621166 804
+2134654 2135457 1 804 40 40 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_210931_flag_1_multi_2.0000_len_783 2621166 783
+1406154 1406934 783 3 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_211654_flag_1_multi_1.0000_len_532 2621166 532
+1966568 1967099 1 532 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_211989_flag_1_multi_2.0000_len_643 2621166 643
+919050 919692 1 643 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_212014_flag_1_multi_2.0000_len_519 2621166 519
+561488 562006 519 1 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_212538_flag_1_multi_2.0000_len_877 2621166 877
+1123458 1124334 1 877 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_212973_flag_1_multi_1.7829_len_584 2621166 584
+1176279 1176854 9 584 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_213188_flag_1_multi_2.0000_len_705 2621166 705
+620491 621195 1 705 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_214796_flag_1_multi_2.0000_len_712 2621166 712
+1791104 1791814 2 712 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_215882_flag_1_multi_2.8602_len_1936 2621166 1936
+2585032 2586967 1936 1 37 37 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_216143_flag_1_multi_2.0000_len_813 2621166 813
+2036048 2036858 811 1 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_216784_flag_1_multi_1.8387_len_601 2621166 601
+2217007 2217607 1 601 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_216934_flag_1_multi_2.7449_len_748 2621166 748
+2276473 2277214 7 748 3 3 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_216981_flag_1_multi_1.8309_len_939 2621166 939
+1516283 1517220 939 1 34 34 0
+34
+-7
+-1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_21789_flag_1_multi_2.0000_len_811 2621166 811
+1857893 1858702 2 811 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_218104_flag_1_multi_3.0000_len_857 2621166 857
+459120 459976 1 857 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_218158_flag_1_multi_1.7534_len_543 2621166 543
+828211 828753 543 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_218186_flag_1_multi_2.0000_len_565 2621166 565
+1195538 1196101 564 1 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_218371_flag_1_multi_1.7435_len_717 2621166 717
+2051641 2051872 717 486 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_21846_flag_1_multi_2.0000_len_904 2621166 904
+1187301 1188204 1 904 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_218545_flag_1_multi_2.6192_len_583 2621166 583
+19470 20052 583 1 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_218718_flag_1_multi_2.5659_len_598 2621166 598
+2089258 2089855 598 1 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_219249_flag_1_multi_2.0000_len_1219 2621166 1219
+1827500 1828718 1219 1 44 44 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_219603_flag_1_multi_1.0000_len_621 2621166 621
+1214318 1214938 621 1 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_219696_flag_1_multi_2.0000_len_806 2621166 806
+2312170 2312975 1 806 32 32 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_219698_flag_1_multi_1.8929_len_1067 2621166 1067
+602799 603576 290 1067 32 32 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_219839_flag_1_multi_1.9205_len_1904 2621166 1904
+1310914 1310988 1601 1675 0 0 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_220114_flag_1_multi_2.0000_len_522 2621166 522
+786994 787515 522 1 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_22019_flag_1_multi_2.0000_len_704 2621166 704
+1120856 1121559 1 704 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_221827_flag_1_multi_2.0000_len_531 2621166 531
+2460959 2461489 531 1 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_222756_flag_1_multi_3.0000_len_656 2621166 656
+2424807 2425460 1 654 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_223670_flag_1_multi_1.0000_len_613 2621166 613
+1816516 1817128 1 613 2 2 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_223896_flag_1_multi_2.0000_len_1240 2621166 1240
+1761853 1763092 1240 1 33 33 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_224173_flag_1_multi_2.0000_len_569 2621166 569
+272912 273480 569 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_225164_flag_1_multi_2.0000_len_596 2621166 596
+101834 102118 1 285 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_225557_flag_1_multi_1.8422_len_897 2621166 897
+1103493 1104389 1 897 24 24 0
+-664
+5
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_226978_flag_1_multi_2.0000_len_571 2621166 571
+2486332 2486899 1 568 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_227098_flag_1_multi_2.0000_len_566 2621166 566
+2121198 2121763 566 1 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_227119_flag_1_multi_1.9310_len_1003 2621166 1003
+1259613 1260615 1 1003 3 3 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_227272_flag_1_multi_1.8803_len_673 2621166 673
+17259 17929 3 673 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_228117_flag_1_multi_2.0000_len_870 2621166 870
+1325030 1325899 1 870 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_22811_flag_1_multi_1.7423_len_590 2621166 590
+2425561 2426150 590 1 9 9 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_22845_flag_1_multi_2.0000_len_783 2621166 783
+500788 501567 1 780 34 34 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_228530_flag_1_multi_1.8020_len_792 2621166 792
+149723 150513 792 1 15 15 0
+-213
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_228760_flag_1_multi_3.0000_len_566 2621166 566
+1198792 1199355 566 3 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_229104_flag_1_multi_1.8866_len_678 2621166 678
+2074370 2075047 678 1 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_229516_flag_1_multi_3.0000_len_896 2621166 896
+17947 18842 1 896 41 41 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_229899_flag_1_multi_2.5960_len_605 2621166 605
+2500699 2501299 602 1 24 24 0
+-397
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_230523_flag_1_multi_2.0000_len_561 2621166 561
+2358534 2359094 1 561 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_231643_flag_1_multi_2.0000_len_551 2621166 551
+2037124 2037674 1 551 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_23179_flag_1_multi_2.0000_len_521 2621166 521
+2260981 2261501 521 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_231893_flag_1_multi_1.0000_len_784 2621166 784
+1664842 1665625 1 784 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_232191_flag_1_multi_1.7565_len_528 2621166 528
+1109047 1109574 528 1 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_233003_flag_1_multi_1.8972_len_864 2621166 864
+2086431 2087293 1 863 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_233126_flag_1_multi_2.0000_len_797 2621166 797
+1174161 1174957 797 1 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_233190_flag_1_multi_2.0000_len_775 2621166 775
+1569034 1569808 1 775 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_234192_flag_1_multi_1.0000_len_570 2621166 570
+1814177 1814746 570 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_234287_flag_1_multi_1.8432_len_526 2621166 526
+1998692 1999214 523 1 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_234529_flag_1_multi_1.0000_len_711 2621166 711
+1369836 1370546 711 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_234846_flag_1_multi_2.0000_len_849 2621166 849
+2342398 2343245 1 848 33 33 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_235238_flag_1_multi_2.0000_len_734 2621166 734
+297429 298162 1 734 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_236357_flag_1_multi_1.9348_len_1608 2621166 1608
+1202752 1202847 103 198 1 1 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_236714_flag_1_multi_1.8026_len_652 2621166 652
+2467791 2468442 1 652 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_237592_flag_1_multi_1.0000_len_571 2621166 571
+2090302 2090872 571 1 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_237780_flag_1_multi_1.0000_len_598 2621166 598
+2513657 2514254 1 598 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_237781_flag_1_multi_1.6998_len_548 2621166 548
+2561919 2562466 1 548 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_239311_flag_1_multi_2.0000_len_561 2621166 561
+1239306 1239865 2 561 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_240359_flag_1_multi_2.0000_len_603 2621166 603
+1680655 1681248 603 10 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_241300_flag_1_multi_2.8876_len_1262 2621166 1262
+843544 844802 1 1259 35 35 0
+1185
+-4
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_2413_flag_1_multi_2.0000_len_549 2621166 549
+1507556 1508104 549 1 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_242375_flag_1_multi_3.0000_len_616 2621166 616
+292360 292975 1 616 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_243396_flag_1_multi_1.0000_len_574 2621166 574
+1871486 1872059 574 1 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_243573_flag_1_multi_1.9061_len_584 2621166 584
+1561470 1562053 1 584 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_243727_flag_1_multi_1.7931_len_540 2621166 540
+210569 211108 540 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_244280_flag_1_multi_1.0000_len_543 2621166 543
+2015580 2016122 1 543 4 4 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_244474_flag_1_multi_1.8194_len_714 2621166 714
+1027989 1028673 714 30 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_245653_flag_1_multi_3.0000_len_572 2621166 572
+2583280 2583851 572 1 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_247455_flag_1_multi_2.0000_len_626 2621166 626
+2512615 2513240 1 626 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_248060_flag_1_multi_1.8973_len_592 2621166 592
+1292975 1293566 1 592 4 4 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_249051_flag_1_multi_1.8499_len_1111 2621166 1111
+1880274 1881383 1 1111 27 27 0
+-466
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_250637_flag_1_multi_1.8605_len_693 2621166 693
+1422328 1423020 693 1 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_251384_flag_1_multi_1.8258_len_616 2621166 616
+374388 375003 1 616 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_253082_flag_1_multi_2.0000_len_991 2621166 991
+2347383 2348373 1 991 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_253284_flag_1_multi_1.0000_len_598 2621166 598
+2524838 2525435 598 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_255110_flag_1_multi_1.0000_len_666 2621166 666
+2448328 2448993 666 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_255204_flag_1_multi_1.0000_len_569 2621166 569
+828669 829236 569 2 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_255294_flag_1_multi_2.0000_len_547 2621166 547
+1155915 1156460 2 547 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_25545_flag_1_multi_2.0000_len_547 2621166 547
+2479825 2480371 1 547 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_255597_flag_1_multi_1.7670_len_517 2621166 517
+604288 604575 1 288 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_25601_flag_1_multi_2.0000_len_536 2621166 536
+808998 809533 536 1 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_257292_flag_0_multi_2.9501_len_666 2621166 666
+2103038 2103705 1 666 25 25 0
+509
+1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_25740_flag_1_multi_3.9680_len_7979 2621166 7979
+1180426 1180685 1 260 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_257468_flag_1_multi_1.8535_len_658 2621166 658
+831382 831989 658 51 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_257620_flag_1_multi_1.8307_len_731 2621166 731
+1589769 1590495 731 5 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_257875_flag_1_multi_1.0000_len_583 2621166 583
+1072516 1073098 583 1 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_257983_flag_1_multi_3.0000_len_522 2621166 522
+584103 584624 522 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_258361_flag_1_multi_3.0000_len_1050 2621166 1050
+2491017 2491105 268 358 3 3 0
+-82
+-1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_258992_flag_1_multi_2.0000_len_803 2621166 803
+28992 29794 803 1 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_259657_flag_1_multi_1.8613_len_761 2621166 761
+1185531 1186291 1 761 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_26140_flag_1_multi_3.0000_len_919 2621166 919
+1808173 1809091 1 919 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_262360_flag_1_multi_3.0000_len_578 2621166 578
+2343637 2344214 578 1 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_264527_flag_1_multi_2.0000_len_708 2621166 708
+1765958 1766665 1 708 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_265043_flag_1_multi_2.0000_len_571 2621166 571
+1251073 1251646 1 571 18 18 0
+34
+1
+1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_266375_flag_1_multi_1.0000_len_544 2621166 544
+599269 599813 1 544 22 22 0
+135
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_266791_flag_1_multi_3.0000_len_583 2621166 583
+2502498 2503080 583 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_267627_flag_1_multi_3.0000_len_667 2621166 667
+1155339 1156003 665 1 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_267814_flag_1_multi_1.0000_len_594 2621166 594
+1574677 1575270 594 1 16 16 0
+-48
+4
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_267830_flag_1_multi_2.0000_len_616 2621166 616
+2357966 2358581 616 1 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_268429_flag_1_multi_3.0000_len_625 2621166 625
+2602053 2602677 1 625 27 27 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_270498_flag_1_multi_2.0000_len_550 2621166 550
+942194 942742 549 1 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_270715_flag_1_multi_1.9533_len_1860 2621166 1860
+896633 898492 1 1860 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_271780_flag_1_multi_1.8886_len_545 2621166 545
+2250686 2251230 545 1 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_272099_flag_1_multi_3.0000_len_527 2621166 527
+550690 551216 1 527 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_272318_flag_1_multi_2.0000_len_569 2621166 569
+917887 918455 1 569 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_272662_flag_1_multi_3.0000_len_810 2621166 810
+548414 549223 1 810 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_27288_flag_1_multi_2.0000_len_542 2621166 542
+1993116 1993656 541 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_273204_flag_1_multi_2.0000_len_717 2621166 717
+660883 661599 717 1 5 5 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_275055_flag_0_multi_10.4924_len_2071 2621166 2071
+1098868 1100938 1 2071 47 47 0
+-372
+4
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_276595_flag_1_multi_2.0000_len_596 2621166 596
+2003230 2003825 1 596 26 26 0
+-562
+3
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_276697_flag_1_multi_1.8666_len_817 2621166 817
+1231966 1232782 817 1 39 39 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_276709_flag_0_multi_3.0000_len_689 2621166 689
+958271 958347 1 77 0 0 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_276894_flag_1_multi_1.7983_len_571 2621166 571
+1197066 1197636 571 1 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_277074_flag_1_multi_2.0000_len_674 2621166 674
+1803489 1804162 674 1 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_277736_flag_1_multi_1.8840_len_967 2621166 967
+2314563 2315214 316 967 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_279037_flag_1_multi_2.0000_len_570 2621166 570
+2604380 2604949 570 1 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_279171_flag_1_multi_3.0000_len_1104 2621166 1104
+1166521 1167624 1104 1 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_279645_flag_1_multi_2.0000_len_1060 2621166 1060
+685696 686755 1 1060 46 46 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_281433_flag_1_multi_3.0000_len_692 2621166 692
+331506 332197 1 692 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_282868_flag_1_multi_2.0000_len_814 2621166 814
+2428147 2428960 814 1 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_283122_flag_1_multi_2.0000_len_1263 2621166 1263
+2575979 2577239 1 1262 59 59 0
+-1083
+4
+-40
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_284193_flag_1_multi_2.0000_len_758 2621166 758
+1585902 1586659 758 1 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_284257_flag_1_multi_1.9310_len_1771 2621166 1771
+1128960 1130452 279 1771 49 49 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_28599_flag_1_multi_3.0000_len_1096 2621166 1096
+1125056 1125134 278 356 1 1 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_286978_flag_1_multi_2.0000_len_590 2621166 590
+2021279 2021852 574 1 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_287702_flag_1_multi_1.0000_len_617 2621166 617
+1591328 1591939 3 617 18 18 0
+-454
+-1
+-36
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_288863_flag_1_multi_2.0000_len_662 2621166 662
+1501148 1501809 1 662 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_28953_flag_1_multi_1.8099_len_789 2621166 789
+1317742 1318530 1 789 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_289631_flag_1_multi_1.7787_len_602 2621166 602
+543635 544236 602 1 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_289751_flag_1_multi_2.0000_len_508 2621166 508
+2323150 2323646 12 508 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_29105_flag_1_multi_1.0000_len_738 2621166 738
+1567672 1568410 1 738 8 8 0
+279
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_291753_flag_1_multi_2.0000_len_572 2621166 572
+689459 690030 1 572 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_291922_flag_1_multi_3.0000_len_572 2621166 572
+401325 401896 1 572 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_293383_flag_1_multi_2.0000_len_500 2621166 500
+2017411 2017910 500 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_293834_flag_1_multi_3.0000_len_866 2621166 866
+2167931 2168795 1 865 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_294855_flag_1_multi_2.0000_len_567 2621166 567
+2532815 2533381 567 1 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_294935_flag_1_multi_2.0000_len_892 2621166 892
+2041551 2042442 1 892 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_295313_flag_1_multi_2.4645_len_796 2621166 796
+2346154 2346948 795 1 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_295879_flag_1_multi_2.0000_len_810 2621166 810
+2082963 2083772 1 810 34 34 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_296442_flag_1_multi_1.8712_len_804 2621166 804
+563626 564429 804 1 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_297409_flag_1_multi_2.0000_len_546 2621166 546
+1433360 1433905 546 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_298005_flag_1_multi_2.0000_len_855 2621166 855
+704112 704966 1 855 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_298218_flag_1_multi_1.8804_len_657 2621166 657
+2331300 2331956 1 657 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_298796_flag_1_multi_1.8649_len_734 2621166 734
+2556519 2557252 1 734 34 34 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_299430_flag_1_multi_2.0000_len_720 2621166 720
+1213157 1213876 1 720 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_299676_flag_1_multi_1.0000_len_628 2621166 628
+1821538 1822165 1 628 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_299721_flag_1_multi_1.8387_len_725 2621166 725
+1555885 1556609 725 1 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_300816_flag_1_multi_1.9020_len_850 2621166 850
+1968984 1969833 850 1 27 27 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_301136_flag_1_multi_2.0000_len_902 2621166 902
+2514358 2515259 1 902 36 36 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_301199_flag_1_multi_1.8790_len_758 2621166 758
+2440190 2440947 758 1 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_301839_flag_1_multi_2.0000_len_519 2621166 519
+752657 753175 1 519 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_302029_flag_1_multi_2.0000_len_559 2621166 559
+793144 793702 559 1 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_302044_flag_1_multi_2.0000_len_543 2621166 543
+1725335 1725877 1 543 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_302272_flag_1_multi_1.7540_len_544 2621166 544
+1054909 1055452 1 544 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_302357_flag_1_multi_2.0000_len_947 2621166 947
+609534 610480 947 1 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_302380_flag_1_multi_2.0000_len_964 2621166 964
+1661909 1662872 1 964 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_302760_flag_1_multi_2.0000_len_758 2621166 758
+1716278 1717035 758 1 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_303297_flag_1_multi_1.8613_len_797 2621166 797
+1717651 1718447 1 797 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_304277_flag_1_multi_1.0000_len_575 2621166 575
+284925 285497 573 1 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_304351_flag_1_multi_2.0000_len_816 2621166 816
+2204818 2205627 816 7 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_305850_flag_1_multi_1.8883_len_830 2621166 830
+1375690 1376519 1 830 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_306452_flag_1_multi_1.8297_len_839 2621166 839
+727315 728075 79 839 35 35 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_308986_flag_1_multi_2.0000_len_515 2621166 515
+2235145 2235653 1 512 21 21 0
+-180
+-1
+-1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_30956_flag_0_multi_1.9206_len_924 2621166 924
+1132692 1133615 924 1 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_310224_flag_1_multi_2.0000_len_661 2621166 661
+248368 249028 661 1 9 9 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_311004_flag_1_multi_1.8059_len_986 2621166 986
+1916526 1917086 986 426 9 9 0
+0
+1962684 1963110 427 1 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_311054_flag_1_multi_3.0000_len_511 2621166 511
+2579068 2579578 1 511 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_311992_flag_1_multi_1.8571_len_777 2621166 777
+803201 803977 777 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_313259_flag_1_multi_2.0000_len_570 2621166 570
+591686 592255 1 570 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_313552_flag_1_multi_3.0000_len_586 2621166 586
+2579976 2580561 1 586 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_31405_flag_1_multi_2.0000_len_505 2621166 505
+2110967 2111471 505 1 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_31412_flag_1_multi_1.9978_len_557 2621166 557
+2470160 2470716 557 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_314885_flag_1_multi_1.7883_len_516 2621166 516
+911831 912346 516 1 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_31538_flag_1_multi_3.0000_len_891 2621166 891
+618083 618165 94 176 1 1 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_31625_flag_1_multi_2.0000_len_724 2621166 724
+446918 447637 724 5 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_316308_flag_1_multi_1.8409_len_658 2621166 658
+1776117 1776774 658 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_316400_flag_1_multi_2.0000_len_518 2621166 518
+2481450 2481967 518 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_31680_flag_1_multi_1.7996_len_599 2621166 599
+461049 461647 1 599 9 9 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_316823_flag_1_multi_1.8283_len_670 2621166 670
+219450 220119 670 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_318994_flag_1_multi_1.7969_len_622 2621166 622
+2040786 2041407 622 1 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_319206_flag_1_multi_2.0000_len_943 2621166 943
+2272718 2273660 943 1 34 34 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_319778_flag_1_multi_1.0000_len_525 2621166 525
+2211077 2211601 1 525 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_319932_flag_1_multi_2.5193_len_858 2621166 858
+1080786 1080978 276 84 4 4 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_320362_flag_1_multi_2.0000_len_1105 2621166 1105
+742275 743378 1105 2 36 36 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_320987_flag_1_multi_2.0000_len_739 2621166 739
+2349286 2350024 739 1 29 29 0
+-227
+3
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_321583_flag_1_multi_3.0000_len_663 2621166 663
+2130251 2130912 662 1 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_322511_flag_1_multi_2.0000_len_862 2621166 862
+1787787 1788647 861 1 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_322633_flag_0_multi_1.7979_len_664 2621166 664
+1132095 1132758 664 1 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_323596_flag_1_multi_2.0000_len_552 2621166 552
+740332 740883 1 552 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_323801_flag_1_multi_2.0000_len_535 2621166 535
+2528570 2529104 1 535 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_324341_flag_1_multi_2.0000_len_1007 2621166 1007
+623644 624650 1007 1 48 48 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_325918_flag_1_multi_2.0000_len_570 2621166 570
+1671299 1671868 1 570 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_326908_flag_1_multi_2.0000_len_534 2621166 534
+1501931 1502464 534 1 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_328456_flag_1_multi_3.0000_len_697 2621166 697
+594233 594926 1 694 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_328817_flag_1_multi_2.0000_len_633 2621166 633
+271079 271711 1 633 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_329556_flag_1_multi_3.0000_len_672 2621166 672
+2471572 2472243 672 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_33061_flag_1_multi_1.8365_len_576 2621166 576
+552499 553074 576 1 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_331444_flag_1_multi_1.7966_len_513 2621166 513
+2109000 2109512 513 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_33247_flag_1_multi_1.0000_len_596 2621166 596
+705970 706565 1 596 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_332655_flag_1_multi_2.0000_len_665 2621166 665
+1721794 1722458 1 665 29 29 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_335824_flag_1_multi_3.0000_len_500 2621166 500
+2506101 2506600 1 500 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_336321_flag_0_multi_8.8182_len_1711 2621166 1711
+2098097 2099526 282 1711 17 17 0
+25
+-3
+-7
+3
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_336513_flag_1_multi_2.0000_len_592 2621166 592
+1557311 1557900 590 1 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_336998_flag_1_multi_1.8969_len_648 2621166 648
+1337084 1337731 1 648 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_33718_flag_1_multi_2.0000_len_658 2621166 658
+1504122 1504780 1 658 26 26 0
+29
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_337572_flag_1_multi_2.0000_len_524 2621166 524
+1330836 1331245 524 115 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_337917_flag_1_multi_2.0000_len_514 2621166 514
+446176 446689 1 514 18 18 0
+-49
+4
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_339436_flag_1_multi_2.0000_len_697 2621166 697
+747525 747806 697 416 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_34008_flag_1_multi_3.0000_len_520 2621166 520
+1690233 1690752 1 520 5 5 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_340683_flag_1_multi_2.0000_len_808 2621166 808
+1645782 1646589 1 808 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_341308_flag_1_multi_1.8861_len_588 2621166 588
+1171428 1172015 588 1 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_343524_flag_1_multi_1.8396_len_504 2621166 504
+2196732 2197236 504 1 8 8 0
+467
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_343571_flag_1_multi_3.0000_len_1356 2621166 1356
+246952 247933 114 1095 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_345066_flag_1_multi_1.8723_len_708 2621166 708
+504815 505520 708 3 34 34 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_34525_flag_1_multi_2.0000_len_613 2621166 613
+1294558 1295170 1 613 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_345641_flag_0_multi_5.8973_len_592 2621166 592
+51980 52367 592 205 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_3458_flag_1_multi_2.0000_len_617 2621166 617
+1677707 1678323 617 1 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_345993_flag_1_multi_1.7659_len_609 2621166 609
+205888 206496 609 1 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_34632_flag_1_multi_2.0000_len_563 2621166 563
+778256 778818 1 563 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_347549_flag_1_multi_2.0000_len_532 2621166 532
+1811469 1812000 532 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_348559_flag_1_multi_2.0000_len_524 2621166 524
+2486886 2487406 524 4 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_348820_flag_1_multi_1.8472_len_1761 2621166 1761
+1125623 1127383 1 1761 33 33 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_349256_flag_1_multi_1.7924_len_659 2621166 659
+2574975 2575637 1 659 27 27 0
+354
+1
+1
+1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_35028_flag_1_multi_1.8255_len_638 2621166 638
+2174641 2175015 149 522 18 18 0
+43
+4
+-297
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_351431_flag_1_multi_2.0000_len_525 2621166 525
+276064 276588 1 525 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_35155_flag_1_multi_1.7991_len_573 2621166 573
+1208275 1208846 2 573 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_352617_flag_1_multi_1.7657_len_536 2621166 536
+1181615 1182150 536 1 8 8 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_352920_flag_1_multi_2.0000_len_553 2621166 553
+462235 462787 553 1 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_356078_flag_1_multi_1.8660_len_814 2621166 814
+906379 907192 1 814 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_36885_flag_1_multi_1.8066_len_653 2621166 653
+2212798 2213448 651 1 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_37777_flag_1_multi_2.1935_len_844 2621166 844
+2260073 2260916 844 1 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_38990_flag_1_multi_2.0000_len_517 2621166 517
+252895 253411 517 1 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_39575_flag_1_multi_2.0000_len_675 2621166 675
+954123 954797 675 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_39754_flag_1_multi_1.8991_len_779 2621166 779
+28169 28945 779 3 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_40197_flag_1_multi_2.0000_len_515 2621166 515
+967 1481 515 1 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_4094_flag_1_multi_3.0000_len_701 2621166 701
+2307983 2308682 2 701 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_40953_flag_1_multi_1.7422_len_648 2621166 648
+2551426 2552073 1 648 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_42715_flag_1_multi_2.9960_len_607 2621166 607
+1175183 1175789 1 607 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_43203_flag_1_multi_3.0000_len_597 2621166 597
+915027 915623 1 597 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_43709_flag_1_multi_2.0000_len_608 2621166 608
+796489 797096 1 608 15 15 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_43893_flag_1_multi_2.0000_len_512 2621166 512
+1571104 1571615 1 512 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_44778_flag_1_multi_1.8182_len_787 2621166 787
+1091862 1092648 1 787 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_45180_flag_1_multi_2.0000_len_530 2621166 530
+2024874 2025364 41 530 10 10 0
+5
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_45226_flag_1_multi_2.0000_len_670 2621166 670
+727177 727313 519 655 1 1 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_45487_flag_1_multi_1.9732_len_515 2621166 515
+1500223 1500737 1 515 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_4555_flag_1_multi_1.8886_len_536 2621166 536
+2232756 2233291 1 536 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_46180_flag_1_multi_2.0000_len_586 2621166 586
+2548745 2549329 585 1 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_48976_flag_1_multi_1.9383_len_737 2621166 737
+339019 339755 737 1 29 29 0
+-467
+3
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_49054_flag_1_multi_2.7197_len_683 2621166 683
+516853 517535 1 683 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_49423_flag_1_multi_2.0000_len_564 2621166 564
+1064524 1065087 1 564 4 4 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_49545_flag_1_multi_1.0000_len_746 2621166 746
+712812 713555 743 1 19 19 0
+35
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_50547_flag_1_multi_1.6576_len_508 2621166 508
+1025213 1025720 508 1 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_50608_flag_1_multi_3.0000_len_538 2621166 538
+893674 894211 1 538 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_5080_flag_1_multi_2.0000_len_637 2621166 637
+1676314 1676950 637 1 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_50831_flag_1_multi_1.8467_len_705 2621166 705
+2511687 2512391 1 705 27 27 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_51012_flag_1_multi_2.0000_len_531 2621166 531
+58609 59138 531 1 24 24 0
+-195
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_52162_flag_1_multi_2.0000_len_559 2621166 559
+73432 73990 559 1 19 19 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_52234_flag_1_multi_2.0000_len_524 2621166 524
+415276 415799 1 524 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_53480_flag_1_multi_1.9618_len_865 2621166 865
+1708421 1709285 1 865 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_53782_flag_1_multi_1.0000_len_702 2621166 702
+1603289 1603989 701 1 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_55666_flag_1_multi_1.8705_len_638 2621166 638
+1773698 1774332 638 4 30 30 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_56344_flag_1_multi_2.0000_len_610 2621166 610
+1200019 1200628 1 610 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_5759_flag_1_multi_2.0000_len_664 2621166 664
+50457 51120 664 1 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_57835_flag_1_multi_1.0000_len_500 2621166 500
+1637582 1638081 500 1 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_58012_flag_1_multi_1.8094_len_766 2621166 766
+2256078 2256840 763 1 25 25 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_58519_flag_1_multi_2.0000_len_643 2621166 643
+721669 722311 1 643 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_58639_flag_1_multi_2.0000_len_714 2621166 714
+2288958 2289662 1 708 17 17 0
+-638
+-1
+-1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_60375_flag_1_multi_2.0000_len_551 2621166 551
+1402661 1403211 1 551 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_60594_flag_1_multi_2.0000_len_567 2621166 567
+1180940 1181506 567 1 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_62046_flag_1_multi_1.7970_len_918 2621166 918
+519027 519941 4 918 40 40 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_62424_flag_1_multi_2.0000_len_596 2621166 596
+2122356 2122951 596 1 12 12 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_62932_flag_1_multi_2.0000_len_563 2621166 563
+1161843 1162405 1 563 20 20 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_63509_flag_1_multi_2.0000_len_575 2621166 575
+2485752 2486326 575 1 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_64668_flag_1_multi_2.0000_len_930 2621166 930
+1490177 1491106 930 1 27 27 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_65243_flag_1_multi_1.7339_len_541 2621166 541
+2573574 2574114 541 1 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_65814_flag_1_multi_2.0000_len_1284 2621166 1284
+819379 820662 1284 1 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_66185_flag_1_multi_1.0000_len_540 2621166 540
+1286827 1287366 1 540 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_6655_flag_1_multi_1.8775_len_897 2621166 897
+2038614 2039510 1 897 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_68053_flag_1_multi_1.7876_len_637 2621166 637
+1252603 1253239 1 637 5 5 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_68098_flag_1_multi_2.0000_len_789 2621166 789
+2482631 2483418 1 789 17 17 0
+-136
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_69177_flag_1_multi_1.9416_len_704 2621166 704
+2421551 2422254 704 1 24 24 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_69601_flag_1_multi_2.0000_len_589 2621166 589
+2014592 2015180 1 589 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_70730_flag_1_multi_2.0000_len_538 2621166 538
+843268 843802 1 535 16 16 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_70807_flag_1_multi_2.0000_len_505 2621166 505
+1989715 1990219 505 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_71196_flag_1_multi_1.5782_len_527 2621166 527
+2596372 2596901 1 527 25 25 0
+498
+1
+1
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_7168_flag_1_multi_1.7927_len_568 2621166 568
+1817618 1818185 568 1 5 5 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_73042_flag_1_multi_2.0000_len_1741 2621166 1741
+111021 112760 1741 1 70 70 0
+-187
+581
+-6
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_73078_flag_1_multi_2.0000_len_538 2621166 538
+2518331 2518868 1 538 7 7 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_76147_flag_1_multi_1.8959_len_643 2621166 643
+509450 510090 1 641 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_79675_flag_1_multi_2.0000_len_546 2621166 546
+1622513 1622904 396 5 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_79958_flag_1_multi_1.8504_len_807 2621166 807
+2153387 2153964 578 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_79999_flag_1_multi_2.9492_len_3096 2621166 3096
+429785 429871 2880 2794 0 0 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_80781_flag_1_multi_2.0000_len_519 2621166 519
+1092592 1093110 519 1 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_81751_flag_1_multi_2.0000_len_522 2621166 522
+1066723 1067244 522 1 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_81812_flag_1_multi_1.7694_len_556 2621166 556
+2443397 2443950 1 554 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_82409_flag_1_multi_2.0000_len_629 2621166 629
+2554991 2555619 629 1 21 21 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_82413_flag_1_multi_4.0000_len_668 2621166 668
+2616247 2616914 1 668 13 13 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_83307_flag_1_multi_2.0000_len_670 2621166 670
+2431354 2432023 1 670 24 24 0
+71
+-4
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_85220_flag_1_multi_1.0000_len_532 2621166 532
+1289337 1289868 532 1 10 10 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_85640_flag_1_multi_2.0000_len_572 2621166 572
+2602911 2603482 572 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_85646_flag_1_multi_2.0000_len_603 2621166 603
+768247 768849 603 1 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_87991_flag_0_multi_4.0883_len_1102 2621166 1102
+2220908 2222009 1102 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_88118_flag_0_multi_4.9695_len_1416 2621166 1416
+2100350 2101257 908 1 34 34 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_88230_flag_1_multi_1.8329_len_512 2621166 512
+2214497 2214944 4 451 22 22 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_89005_flag_1_multi_2.0000_len_633 2621166 633
+2047086 2047717 632 1 23 23 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_90325_flag_1_multi_2.0000_len_547 2621166 547
+2262865 2263411 547 1 14 14 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_91244_flag_1_multi_1.9128_len_850 2621166 850
+2345292 2346141 850 1 26 26 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_91513_flag_1_multi_1.0000_len_516 2621166 516
+23104 23619 1 516 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_91528_flag_1_multi_1.8869_len_724 2621166 724
+832283 833006 724 1 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_91683_flag_1_multi_2.0000_len_799 2621166 799
+1134034 1134830 797 1 1 1 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_918_flag_1_multi_2.0000_len_534 2621166 534
+904403 904936 1 534 2 2 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_92111_flag_1_multi_2.0000_len_598 2621166 598
+1156721 1157318 598 1 28 28 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_94964_flag_1_multi_2.0000_len_528 2621166 528
+316886 317413 528 1 6 6 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_97484_flag_1_multi_1.0000_len_838 2621166 838
+1192066 1192903 838 1 17 17 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_97525_flag_1_multi_1.8509_len_970 2621166 970
+1784151 1785120 970 1 31 31 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_98826_flag_1_multi_2.0000_len_607 2621166 607
+2344588 2345194 607 1 18 18 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_9942_flag_1_multi_2.0000_len_557 2621166 557
+1856321 1856877 1 557 11 11 0
+0
+>Synechococcus_sp._WH_7805_NZ_CH724168.1_Synechococcus_sp._WH_7805_scf_1099646010156__whole_genome_shotgun_sequence k105_99457_flag_1_multi_1.8567_len_740 2621166 740
+1724485 1725222 3 740 19 19 0
+0

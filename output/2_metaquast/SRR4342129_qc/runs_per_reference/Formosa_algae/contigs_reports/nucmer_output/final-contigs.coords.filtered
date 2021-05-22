@@ -1,0 +1,21 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+33940 34013 | 764 837 | 74 74 | 98.65 | Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_195124_flag_1_multi_5.9510_len_2672
+33939 34013 | 448 522 | 75 75 | 98.67 | Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_369105_flag_0_multi_2.8662_len_657
+33940 34013 | 210 137 | 74 74 | 98.65 | Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_95464_flag_0_multi_7.8347_len_1892
+33939 34013 | 234 160 | 75 75 | 98.67 | Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_178958_flag_1_multi_5.0000_len_2679
+33940 34015 | 81 156 | 76 76 | 98.68 | Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_347935_flag_1_multi_3.0000_len_1034
+158790 158877 | 3488 3401 | 88 88 | 98.86 | Formosa_algae_NZ_JAGGJQ010000010.1_Formosa_algae_strain_DSM_15523_Ga0454090_10__whole_genome_shotgun_sequence k119_169208_flag_1_multi_5.8759_len_4187
+243623 243695 | 112 40 | 73 73 | 100.0 | Formosa_algae_NZ_JAGGJQ010000001.1_Formosa_algae_strain_DSM_15523_Ga0454090_01__whole_genome_shotgun_sequence k119_255043_flag_0_multi_6.0000_len_3891
+243623 243695 | 1248 1176 | 73 73 | 100.0 | Formosa_algae_NZ_JAGGJQ010000001.1_Formosa_algae_strain_DSM_15523_Ga0454090_01__whole_genome_shotgun_sequence k119_393203_flag_0_multi_5.9120_len_1255
+243623 243695 | 8 80 | 73 73 | 100.0 | Formosa_algae_NZ_JAGGJQ010000001.1_Formosa_algae_strain_DSM_15523_Ga0454090_01__whole_genome_shotgun_sequence k119_393236_flag_0_multi_4.9375_len_1399
+452705 452791 | 91 176 | 87 86 | 95.4 | Formosa_algae_NZ_JAGGJQ010000002.1_Formosa_algae_strain_DSM_15523_Ga0454090_02__whole_genome_shotgun_sequence k119_282670_flag_1_multi_3.0000_len_690
+65471 65546 | 622 547 | 76 76 | 100.0 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_304152_flag_1_multi_5.0000_len_1815
+253164 253248 | 585 669 | 85 85 | 97.65 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_7799_flag_1_multi_2.0000_len_746
+253165 253244 | 153 74 | 80 80 | 100.0 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_148917_flag_1_multi_2.1250_len_607
+254976 255070 | 1672 1579 | 95 94 | 98.95 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_121330_flag_0_multi_3.9619_len_1694
+254976 255070 | 501 408 | 95 94 | 98.95 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_121369_flag_0_multi_4.8020_len_523
+253165 253241 | 844 920 | 77 77 | 100.0 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_39634_flag_1_multi_5.8695_len_3560
+253167 253242 | 279 204 | 76 76 | 100.0 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_262430_flag_1_multi_5.9656_len_5212
+65471 65544 | 1157 1230 | 74 74 | 100.0 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_351478_flag_1_multi_4.9214_len_3630
+254977 255063 | 630 544 | 87 87 | 100.0 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_137502_flag_1_multi_4.0000_len_635

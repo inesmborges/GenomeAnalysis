@@ -1,0 +1,33 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Aquimarina_sp._22II-S11-z7.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Aquimarina_sp._22II-S11-z7.fasta
+NUCMER
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000007.1_Aquimarina_atlantica_strain_22II-S11-z7_contig7__whole_genome_shotgun_sequence k119_111391_flag_1_multi_7.0000_len_1795 430888 1795
+238566 238639 1505 1578 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_116015_flag_1_multi_3.0000_len_797 507037 797
+490266 490343 18 95 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k119_16105_flag_1_multi_3.8451_len_1707 38564 1707
+35152 35226 112 186 1 1 0
+0
+35407 35481 208 282 1 1 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k119_230197_flag_0_multi_3.8095_len_686 38564 686
+38146 38522 686 310 17 17 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k119_292500_flag_1_multi_4.9805_len_530 38564 530
+34746 34988 7 249 9 9 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000004.1_Aquimarina_atlantica_strain_22II-S11-z7_contig4__whole_genome_shotgun_sequence k119_328219_flag_1_multi_6.8614_len_3886 520297 3886
+61783 61860 2599 2676 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_328219_flag_1_multi_6.8614_len_3886 507037 3886
+490265 490342 2677 2600 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_360526_flag_1_multi_8.0000_len_6602 507037 6602
+147003 147078 843 918 0 0 0
+0
+149068 149143 4795 4870 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_87841_flag_1_multi_4.0000_len_1864 507037 1864
+190977 191053 1399 1323 0 0 0
+0

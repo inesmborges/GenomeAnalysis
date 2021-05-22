@@ -1,0 +1,53 @@
+Number of interspecies translocations by references: 
+References                                  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25
+Alcanivorax_jadensis_T9                     -  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Aquimarina_sp._22II-S11-z7                  0  -  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Flavobacteriales_bacterium_ALC-1            0  0  -  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Formosa_algae                               0  0  0  -  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Geobacter_pickeringii                       0  0  0  0  -  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Geopsychrobacter_electrodiphilus_DSM_16401  0  0  0  0  0  -  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Idiomarina_indica                           0  0  0  0  0  0  -  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_coccineus_YM16-304            0  0  0  0  0  0  0  -  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_fluminis                      0  0  0  0  0  0  0  0  -  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Kitasatospora_mediocidica_KCTC_9733         0  0  0  0  0  0  0  0  0  -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Luminiphilus_syltensis_NOR5-1B              0  0  0  0  0  0  0  0  0  0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Magnetococcus_marinus                       0  0  0  0  0  0  0  0  0  0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Marivirga_tractuosa                         0  0  0  0  0  0  0  0  0  0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0 
+Nitrospina_sp._SCGC_AAA288-L16              0  0  0  0  0  0  0  0  0  0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0 
+Owenweeksia_hongkongensis_DSM_17368         0  0  0  0  0  0  0  0  0  0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0 
+Parcubacteria_bacterium_SCGC_AAA011-N16     0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0 
+Pseudomonas_rhizosphaerae                   0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0 
+Psychrobacter_sp._PRwf-1                    0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0 
+Puniceicoccus_vermicola                     0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0 
+Shewanella_amazonensis_SB2B                 0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0 
+Solibacillus_silvestris_StLB046             0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0 
+Sporosarcina_sp._EUR3_2.2.2                 0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0 
+Sulfitobacter_sp._NAS-14.1                  0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0 
+Syntrophus_aciditrophicus                   0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0 
+gamma_proteobacterium_BW-2                  0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   - 
+References:
+1 - Alcanivorax_jadensis_T9
+2 - Aquimarina_sp._22II-S11-z7
+3 - Flavobacteriales_bacterium_ALC-1
+4 - Formosa_algae
+5 - Geobacter_pickeringii
+6 - Geopsychrobacter_electrodiphilus_DSM_16401
+7 - Idiomarina_indica
+8 - Ilumatobacter_coccineus_YM16-304
+9 - Ilumatobacter_fluminis
+10 - Kitasatospora_mediocidica_KCTC_9733
+11 - Luminiphilus_syltensis_NOR5-1B
+12 - Magnetococcus_marinus
+13 - Marivirga_tractuosa
+14 - Nitrospina_sp._SCGC_AAA288-L16
+15 - Owenweeksia_hongkongensis_DSM_17368
+16 - Parcubacteria_bacterium_SCGC_AAA011-N16
+17 - Pseudomonas_rhizosphaerae
+18 - Psychrobacter_sp._PRwf-1
+19 - Puniceicoccus_vermicola
+20 - Shewanella_amazonensis_SB2B
+21 - Solibacillus_silvestris_StLB046
+22 - Sporosarcina_sp._EUR3_2.2.2
+23 - Sulfitobacter_sp._NAS-14.1
+24 - Syntrophus_aciditrophicus
+25 - gamma_proteobacterium_BW-2

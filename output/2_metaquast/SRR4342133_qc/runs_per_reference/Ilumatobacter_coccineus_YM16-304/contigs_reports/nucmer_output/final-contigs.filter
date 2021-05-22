@@ -1,0 +1,39 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Ilumatobacter_coccineus_YM16-304.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Ilumatobacter_coccineus_YM16-304.fasta
+NUCMER
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_136847_flag_1_multi_6.9199_len_7913 4830181 7913
+4470400 4470492 697 605 4 4 0
+-10
+6
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_148028_flag_1_multi_11.0000_len_79341 4830181 79341
+278853 278946 27674 27766 3 3 0
+5
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_179841_flag_1_multi_4.9845_len_5017 4830181 5017
+2927525 2927625 101 1 3 3 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_242737_flag_1_multi_3.0000_len_560 4830181 560
+1488606 1488682 316 240 1 1 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_253005_flag_1_multi_3.0000_len_2032 4830181 2032
+4374339 4374413 301 375 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_282853_flag_1_multi_9.0000_len_13327 4830181 13327
+494547 494620 12555 12628 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_291953_flag_1_multi_8.9878_len_40842 4830181 40842
+2658758 2658835 10217 10294 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_292837_flag_1_multi_3.0000_len_706 4830181 706
+2549197 2549275 176 98 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_30363_flag_1_multi_1.6606_len_502 4830181 502
+4374328 4374412 502 419 2 2 0
+7
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_334304_flag_1_multi_8.9681_len_27989 4830181 27989
+580508 580588 186 106 1 1 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_91607_flag_1_multi_4.9970_len_6850 4830181 6850
+2927027 2927156 139 10 3 3 0
+0

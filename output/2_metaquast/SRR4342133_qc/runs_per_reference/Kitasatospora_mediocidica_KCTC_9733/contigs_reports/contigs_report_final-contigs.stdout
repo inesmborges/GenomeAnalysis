@@ -1,0 +1,81 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000001.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_3_quiver.1_C__whole_genome_shotgun_sequence]
+	Loaded [Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000002.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_2_quiver_dupTrim_1247.2_C__whole_genome_shotgun_sequence]
+	Loaded [Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000003.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_9_quiver_dupTrim_9452.3_C__whole_genome_shotgun_sequence]
+	Loaded [Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000004.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_1_quiver.4_C__whole_genome_shotgun_sequence]
+	Loaded [Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000005.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_8_quiver.5_C__whole_genome_shotgun_sequence]
+	Loaded [Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000006.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_0_quiver.6_C__whole_genome_shotgun_sequence]
+	Loaded [Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000007.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_5_quiver_dupTrim_2801.7_C__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 7
+	Total Region Length: 8681761
+Analyzing contigs...
+CONTIG: k119_160745_flag_1_multi_9.2909_len_2807 (2807bp)
+Best alignment score: 202.0 (LEN: 212, IDY: 95.28)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2726304 2726515 | 1678 1467 | 212 212 | 95.28 | Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000005.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_8_quiver.5_C__whole_genome_shotgun_sequence k119_160745_flag_1_multi_9.2909_len_2807
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 202.0, number of alignments: 1, unaligned bases: 2595
+		This contig is partially unaligned. (Aligned 212 out of 2807 bases)
+		Alignment: 1017466 1017677 | 1467 1678 | 212 212 | 95.28 | Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000001.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_3_quiver.1_C__whole_genome_shotgun_sequence k119_160745_flag_1_multi_9.2909_len_2807
+		Unaligned bases: 1 to 1466 (1466)
+		Unaligned bases: 1679 to 2807 (1129)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Kitasatospora_mediocidica_KCTC_9733/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000002.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_2_quiver_dupTrim_1247.2_C__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000001.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_3_quiver.1_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 1017752 (1017752 bp)
+			START in gap: 1 to 1017466 (1017465 bp)
+			Align 1: 1017466 1017677 k119_160745_flag_1_multi_9.2909_len_2807 1467 1678
+			END in gap: 1017677 to 1017752 (75 bp).
+
+WARNING: Reference Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000003.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_9_quiver_dupTrim_9452.3_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000005.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_8_quiver.5_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000004.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_1_quiver.4_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000007.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_5_quiver_dupTrim_2801.7_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000006.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_0_quiver.6_C__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Kitasatospora_mediocidica_KCTC_9733/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 1 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 2595
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 2807
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 212
+
+	SNPs: 10
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 2
+		Internal Gaps: 0
+		External Gaps: 2
+		External Gap Total: 1017540
+		External Gap Average: 508770
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

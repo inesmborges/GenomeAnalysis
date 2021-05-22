@@ -1,0 +1,3 @@
+Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence
+1 278804
+278918 4719581

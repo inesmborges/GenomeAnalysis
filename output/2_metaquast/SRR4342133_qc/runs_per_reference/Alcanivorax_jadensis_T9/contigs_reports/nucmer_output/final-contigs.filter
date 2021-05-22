@@ -1,0 +1,12 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Alcanivorax_jadensis_T9.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Alcanivorax_jadensis_T9.fasta
+NUCMER
+>Alcanivorax_jadensis_T9_NZ_ARXU01000004.1_Alcanivorax_jadensis_T9_contig4__whole_genome_shotgun_sequence k119_225482_flag_1_multi_24.9882_len_143990 298895 143990
+274697 274781 46739 46654 1 1 0
+-82
+0
+>Alcanivorax_jadensis_T9_NZ_ARXU01000001.1_Alcanivorax_jadensis_T9_contig1__whole_genome_shotgun_sequence k119_272751_flag_1_multi_23.3399_len_91657 539039 91657
+21299 21376 28142 28219 0 0 0
+0
+>Alcanivorax_jadensis_T9_NZ_ARXU01000002.1_Alcanivorax_jadensis_T9_contig2__whole_genome_shotgun_sequence k119_86745_flag_1_multi_3.0000_len_784 478970 784
+157082 157168 305 391 0 0 0
+0

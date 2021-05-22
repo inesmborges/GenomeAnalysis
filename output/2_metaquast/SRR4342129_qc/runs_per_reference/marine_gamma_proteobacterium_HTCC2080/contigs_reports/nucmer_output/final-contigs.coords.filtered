@@ -1,0 +1,18 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+97815 97893 | 519 441 | 79 79 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000011.1_Marine_gamma_proteobacterium_HTCC2080_1100755000548__whole_genome_shotgun_sequence k119_331369_flag_1_multi_2.9409_len_525
+134542 134616 | 145 219 | 75 75 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000011.1_Marine_gamma_proteobacterium_HTCC2080_1100755000548__whole_genome_shotgun_sequence k119_192439_flag_1_multi_3.0000_len_574
+150441 150529 | 2102 2190 | 89 89 | 98.88 | marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1_Marine_gamma_proteobacterium_HTCC2080_1100755000532__whole_genome_shotgun_sequence k119_167995_flag_1_multi_5.0000_len_2625
+158019 158105 | 1020 1106 | 87 87 | 98.85 | marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1_Marine_gamma_proteobacterium_HTCC2080_1100755000532__whole_genome_shotgun_sequence k119_65437_flag_1_multi_2.8602_len_1106
+150441 150527 | 649 735 | 87 87 | 98.85 | marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1_Marine_gamma_proteobacterium_HTCC2080_1100755000532__whole_genome_shotgun_sequence k119_20801_flag_1_multi_1.8868_len_817
+53628 53708 | 33 113 | 81 81 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000004.1_Marine_gamma_proteobacterium_HTCC2080_1100755000533__whole_genome_shotgun_sequence k119_426278_flag_1_multi_1.9546_len_868
+53628 53702 | 75 1 | 75 75 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000004.1_Marine_gamma_proteobacterium_HTCC2080_1100755000533__whole_genome_shotgun_sequence k119_427901_flag_1_multi_3.0000_len_1231
+53628 53745 | 522 639 | 118 118 | 97.46 | marine_gamma_proteobacterium_HTCC2080_AAVV01000004.1_Marine_gamma_proteobacterium_HTCC2080_1100755000533__whole_genome_shotgun_sequence k119_355209_flag_1_multi_2.4082_len_805
+15767 15849 | 715 797 | 83 83 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000020.1_Marine_gamma_proteobacterium_HTCC2080_1100755000550__whole_genome_shotgun_sequence k119_278128_flag_1_multi_3.0000_len_1250
+15766 15855 | 384 474 | 90 91 | 97.8 | marine_gamma_proteobacterium_HTCC2080_AAVV01000020.1_Marine_gamma_proteobacterium_HTCC2080_1100755000550__whole_genome_shotgun_sequence k119_320245_flag_1_multi_1.7770_len_572
+102723 102803 | 560 640 | 81 81 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000005.1_Marine_gamma_proteobacterium_HTCC2080_1100755000542__whole_genome_shotgun_sequence k119_2925_flag_1_multi_2.3031_len_914
+102726 102803 | 603 526 | 78 78 | 98.72 | marine_gamma_proteobacterium_HTCC2080_AAVV01000005.1_Marine_gamma_proteobacterium_HTCC2080_1100755000542__whole_genome_shotgun_sequence k119_325932_flag_1_multi_3.0619_len_717
+34234 34626 | 1 394 | 393 394 | 96.7 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1_Marine_gamma_proteobacterium_HTCC2080_1100755000539__whole_genome_shotgun_sequence k119_169502_flag_1_multi_3.6415_len_780
+29853 30012 | 160 1 | 160 160 | 96.25 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1_Marine_gamma_proteobacterium_HTCC2080_1100755000539__whole_genome_shotgun_sequence k119_237817_flag_0_multi_2.0000_len_557
+91763 91851 | 132 44 | 89 89 | 98.88 | marine_gamma_proteobacterium_HTCC2080_AAVV01000002.1_Marine_gamma_proteobacterium_HTCC2080_1100755000543__whole_genome_shotgun_sequence k119_394472_flag_1_multi_1.9361_len_761
+177830 177915 | 181 97 | 86 85 | 98.84 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1_Marine_gamma_proteobacterium_HTCC2080_1100755000537__whole_genome_shotgun_sequence k119_128605_flag_1_multi_5.0000_len_5333

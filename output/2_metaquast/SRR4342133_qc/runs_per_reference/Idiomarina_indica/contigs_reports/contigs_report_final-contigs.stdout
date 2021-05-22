@@ -1,0 +1,177 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Idiomarina_indica_NZ_FMXN01000001.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000003.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000004.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000005.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000006.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000007.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000008.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000009.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000010.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000011.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000012.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000013.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000014.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000015.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000016.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000017.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000018.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000019.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000020.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000021.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000022.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000023.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000024.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000025.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000026.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000027.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000028.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000029.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000030.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+	Loaded [Idiomarina_indica_NZ_FMXN01000031.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 31
+	Total Region Length: 2206361
+Analyzing contigs...
+CONTIG: k119_228574_flag_1_multi_1.8438_len_548 (548bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.80)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 205898 205979 | 531 451 | 82 81 | 98.78 | Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_228574_flag_1_multi_1.8438_len_548
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 465
+		Alignment: 205790 205872 | 533 451 | 83 83 | 98.8 | Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_228574_flag_1_multi_1.8438_len_548
+
+CONTIG: k119_216046_flag_1_multi_2.6667_len_557 (557bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.81)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 205792 205872 | 246 166 | 81 81 | 98.77 | Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_216046_flag_1_multi_2.6667_len_557
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 474
+		Alignment: 205896 205979 | 248 166 | 84 83 | 98.81 | Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_216046_flag_1_multi_2.6667_len_557
+
+CONTIG: k119_345451_flag_0_multi_14.7809_len_8671 (8671bp)
+Best alignment score: 86.0 (LEN: 89, IDY: 96.67)
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 8582
+		This contig is partially unaligned. (Aligned 89 out of 8671 bases)
+		Alignment: 19798 19887 | 1201 1289 | 90 89 | 96.67 | Idiomarina_indica_NZ_FMXN01000013.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_345451_flag_0_multi_14.7809_len_8671
+		Unaligned bases: 1 to 1200 (1200)
+		Unaligned bases: 1290 to 8671 (7382)
+
+CONTIG: k119_27787_flag_1_multi_5.0000_len_2379 (2379bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 2303
+		This contig is partially unaligned. (Aligned 76 out of 2379 bases)
+		Alignment: 19812 19887 | 2194 2119 | 76 76 | 100.0 | Idiomarina_indica_NZ_FMXN01000013.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_27787_flag_1_multi_5.0000_len_2379
+		Unaligned bases: 1 to 2118 (2118)
+		Unaligned bases: 2195 to 2379 (185)
+
+CONTIG: k119_119910_flag_1_multi_5.8640_len_2656 (2656bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 2577
+		This contig is partially unaligned. (Aligned 79 out of 2656 bases)
+		Alignment: 19809 19887 | 1583 1505 | 79 79 | 100.0 | Idiomarina_indica_NZ_FMXN01000013.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_119910_flag_1_multi_5.8640_len_2656
+		Unaligned bases: 1 to 1504 (1504)
+		Unaligned bases: 1584 to 2656 (1073)
+
+CONTIG: k119_132108_flag_1_multi_2.8970_len_915 (915bp)
+Best alignment score: 267.0 (LEN: 278, IDY: 96.04)
+			The best set is below. Score: 267.0, number of alignments: 1, unaligned bases: 637
+		This contig is partially unaligned. (Aligned 278 out of 915 bases)
+		Alignment: 57 334 | 638 915 | 278 278 | 96.04 | Idiomarina_indica_NZ_FMXN01000029.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_132108_flag_1_multi_2.8970_len_915
+		Unaligned bases: 1 to 637 (637)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Idiomarina_indica/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000006.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000020.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000026.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Idiomarina_indica_NZ_FMXN01000013.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 48756 (48756 bp)
+			START in gap: 1 to 19798 (19797 bp)
+			Align 1: 19798 19887 k119_345451_flag_0_multi_14.7809_len_8671 1201 1289
+				The next alignment (19809 19887 k119_119910_flag_1_multi_5.8640_len_2656 1583 1505) is redundant. Skipping.
+				The next alignment (19812 19887 k119_27787_flag_1_multi_5.0000_len_2379 2194 2119) is redundant. Skipping.
+
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000012.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000003.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000009.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000011.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 339412 (339412 bp)
+			START in gap: 1 to 205790 (205789 bp)
+			Align 1: 205790 205872 k119_228574_flag_1_multi_1.8438_len_548 533 451
+				Gap between this and next alignment: 205872 to 205896 (23 bp)
+				Next Alignment: 205896 205979 k119_216046_flag_1_multi_2.6667_len_557 248 166
+
+			Align 2: 205896 205979 k119_216046_flag_1_multi_2.6667_len_557 248 166
+			END in gap: 205979 to 339412 (133433 bp).
+
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000004.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000001.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000022.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000010.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000023.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000014.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000015.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000008.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000018.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000019.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000025.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000016.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000005.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000028.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000024.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000027.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000031.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Idiomarina_indica_NZ_FMXN01000029.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 1286 (1286 bp)
+			START in gap: 1 to 57 (56 bp)
+			Align 1: 57 334 k119_132108_flag_1_multi_2.8970_len_915 638 915
+			END in gap: 334 to 1286 (952 bp).
+
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000030.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000021.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000017.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Idiomarina_indica_NZ_FMXN01000007.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Idiomarina_indica/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 4 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 14099
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 535
+
+	SNPs: 14
+	Insertions: 0
+	Deletions: 2
+
+	Positive Gaps: 6
+		Internal Gaps: 0
+		External Gaps: 6
+		External Gap Total: 360050
+		External Gap Average: 60008
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 1 (155)

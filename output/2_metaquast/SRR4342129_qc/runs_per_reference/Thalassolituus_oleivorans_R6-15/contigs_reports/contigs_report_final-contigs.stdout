@@ -1,0 +1,114 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 3764053
+Analyzing contigs...
+CONTIG: k119_198323_flag_1_multi_1.7233_len_549 (549bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2507680 2507755 | 548 473 | 76 76 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_198323_flag_1_multi_1.7233_len_549
+		Skipping redundant alignment 2508046 2508121 | 548 473 | 76 76 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_198323_flag_1_multi_1.7233_len_549
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 100.8, number of alignments: 2, unaligned bases: 396
+		This contig is misassembled. 4 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 549 and total length of all aligns is 153
+		Alignment: 1780667 1780743 | 414 338 | 77 77 | 97.4 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_198323_flag_1_multi_1.7233_len_549
+		Alignment: 2507475 2507550 | 548 473 | 76 76 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_198323_flag_1_multi_1.7233_len_549
+		Unaligned bases: 396
+
+CONTIG: k119_401989_flag_1_multi_1.9192_len_639 (639bp)
+Best alignment score: 75.0 (LEN: 77, IDY: 97.40)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 562
+		Alignment: 3498753 3498829 | 94 170 | 77 77 | 97.4 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_401989_flag_1_multi_1.9192_len_639
+
+CONTIG: k119_430447_flag_1_multi_1.8152_len_752 (752bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2507680 2507755 | 560 635 | 76 76 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_430447_flag_1_multi_1.8152_len_752
+		Skipping redundant alignment 2508046 2508121 | 560 635 | 76 76 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_430447_flag_1_multi_1.8152_len_752
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 676
+		This contig is partially unaligned. (Aligned 76 out of 752 bases)
+		Alignment: 2507475 2507550 | 560 635 | 76 76 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_430447_flag_1_multi_1.8152_len_752
+		Unaligned bases: 1 to 559 (559)
+		Unaligned bases: 636 to 752 (117)
+
+CONTIG: k119_157457_flag_1_multi_1.0000_len_622 (622bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 101.8, number of alignments: 2, unaligned bases: 468
+		This contig is misassembled. 2 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 622 and total length of all aligns is 154
+		Alignment: 1780667 1780743 | 237 161 | 77 77 | 97.4 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_157457_flag_1_multi_1.0000_len_622
+		Alignment: 2507475 2507551 | 364 288 | 77 77 | 100.0 | Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_157457_flag_1_multi_1.0000_len_622
+		Unaligned bases: 468
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Thalassolituus_oleivorans_R6-15/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome: 6 total alignments. 1 total regions.
+		Region: 1 to 3764053 (3764053 bp)
+			START in gap: 1 to 1780667 (1780666 bp)
+			Align 1: 1780667 1780743 k119_198323_flag_1_multi_1.7233_len_549 414 338
+				The next alignment (1780667 1780743 k119_157457_flag_1_multi_1.0000_len_622 237 161) is redundant. Skipping.
+				Gap between this and next alignment: 1780743 to 2507475 (726731 bp)
+				Next Alignment: 2507475 2507550 k119_198323_flag_1_multi_1.7233_len_549 548 473
+
+			Align 3: 2507475 2507550 k119_198323_flag_1_multi_1.7233_len_549 548 473
+				The next alignment (2507475 2507550 k119_430447_flag_1_multi_1.8152_len_752 560 635) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 2507550 to 2507475 (-75 bp)
+				Next Alignment: 2507475 2507551 k119_157457_flag_1_multi_1.0000_len_622 364 288
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 364 to 288.
+			Align 5: 2507551 2507551 k119_157457_flag_1_multi_1.0000_len_622 288 288
+				Gap between this and next alignment: 2507551 to 3498753 (991201 bp)
+				Next Alignment: 3498753 3498829 k119_401989_flag_1_multi_1.9192_len_639 94 170
+
+			Align 6: 3498753 3498829 k119_401989_flag_1_multi_1.9192_len_639 94 170
+			END in gap: 3498829 to 3764053 (265224 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Thalassolituus_oleivorans_R6-15/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 1 part
+Half Unaligned Contigs with Misassemblies: 2
+Unaligned Contig Bases: 676
+
+Ambiguously Mapped Contigs: 2
+Total Bases in Ambiguously Mapped Contigs: 1301
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 231
+
+	SNPs: 4
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 4
+		Internal Gaps: 1
+		External Gaps: 3
+		External Gap Total: 3037091
+		External Gap Average: 1012364
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -75
+		External Overlaps Average: -75
+	Contigs with Redundant Alignments: 1 (153)

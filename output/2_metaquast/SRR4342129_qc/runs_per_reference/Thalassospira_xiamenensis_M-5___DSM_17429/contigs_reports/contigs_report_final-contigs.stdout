@@ -1,0 +1,113 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome]
+	Loaded [Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004389.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_plasmid_unnamed__complete_sequence]
+Loading SNPs...
+	Total Regions: 2
+	Total Region Length: 4768950
+Analyzing contigs...
+CONTIG: k119_367536_flag_1_multi_4.0000_len_517 (517bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2449862 2449935 | 438 512 | 74 75 | 98.67 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_367536_flag_1_multi_4.0000_len_517
+		Skipping redundant alignment 2873683 2873756 | 438 512 | 74 75 | 98.67 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_367536_flag_1_multi_4.0000_len_517
+		Skipping redundant alignment 3166549 3166622 | 438 512 | 74 75 | 98.67 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_367536_flag_1_multi_4.0000_len_517
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 442
+		Alignment: 162703 162776 | 512 438 | 74 75 | 98.67 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_367536_flag_1_multi_4.0000_len_517
+
+CONTIG: k119_292384_flag_1_multi_2.0000_len_516 (516bp)
+Best alignment score: 85.0 (LEN: 87, IDY: 97.70)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 429
+		Alignment: 598810 598896 | 516 430 | 87 87 | 97.7 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_292384_flag_1_multi_2.0000_len_516
+
+CONTIG: k119_73302_flag_1_multi_6.3724_len_1687 (1687bp)
+Best alignment score: 94.0 (LEN: 94, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2447378 2447471 | 1 94 | 94 94 | 100.0 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_73302_flag_1_multi_6.3724_len_1687
+		Skipping redundant alignment 2871199 2871292 | 1 94 | 94 94 | 100.0 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_73302_flag_1_multi_6.3724_len_1687
+		Skipping redundant alignment 3164065 3164158 | 1 94 | 94 94 | 100.0 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_73302_flag_1_multi_6.3724_len_1687
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 94.0, number of alignments: 1, unaligned bases: 1593
+		This contig is partially unaligned. (Aligned 94 out of 1687 bases)
+		Alignment: 165167 165260 | 94 1 | 94 94 | 100.0 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_73302_flag_1_multi_6.3724_len_1687
+		Unaligned bases: 95 to 1687 (1593)
+
+CONTIG: k119_215775_flag_1_multi_25.2577_len_701 (701bp)
+Best alignment score: 72.0 (LEN: 73, IDY: 98.63)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2450294 2450366 | 701 629 | 73 73 | 98.63 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_215775_flag_1_multi_25.2577_len_701
+		Skipping redundant alignment 2874115 2874187 | 701 629 | 73 73 | 98.63 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_215775_flag_1_multi_25.2577_len_701
+		Skipping redundant alignment 3166981 3167053 | 701 629 | 73 73 | 98.63 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_215775_flag_1_multi_25.2577_len_701
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 72.0, number of alignments: 1, unaligned bases: 628
+		This contig is partially unaligned. (Aligned 73 out of 701 bases)
+		Alignment: 162272 162344 | 629 701 | 73 73 | 98.63 | Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome k119_215775_flag_1_multi_25.2577_len_701
+		Unaligned bases: 1 to 628 (628)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Thalassospira_xiamenensis_M-5___DSM_17429/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004388.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_chromosome__complete_genome: 4 total alignments. 1 total regions.
+		Region: 1 to 4576570 (4576570 bp)
+			START in gap: 1 to 162272 (162271 bp)
+			Align 1: 162272 162344 k119_215775_flag_1_multi_25.2577_len_701 629 701
+				Gap between this and next alignment: 162344 to 162703 (358 bp)
+				Next Alignment: 162703 162776 k119_367536_flag_1_multi_4.0000_len_517 512 438
+
+			Align 2: 162703 162776 k119_367536_flag_1_multi_4.0000_len_517 512 438
+				Gap between this and next alignment: 162776 to 165167 (2390 bp)
+				Next Alignment: 165167 165260 k119_73302_flag_1_multi_6.3724_len_1687 94 1
+
+			Align 3: 165167 165260 k119_73302_flag_1_multi_6.3724_len_1687 94 1
+				Gap between this and next alignment: 165260 to 598810 (433549 bp)
+				Next Alignment: 598810 598896 k119_292384_flag_1_multi_2.0000_len_516 516 430
+
+			Align 4: 598810 598896 k119_292384_flag_1_multi_2.0000_len_516 516 430
+			END in gap: 598896 to 4576570 (3977674 bp).
+
+WARNING: Reference Thalassospira_xiamenensis_M-5___DSM_17429_NZ_CP004389.1_Thalassospira_xiamenensis_M-5___DSM_17429_strain_M-5_plasmid_unnamed__complete_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Thalassospira_xiamenensis_M-5___DSM_17429/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 2 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 2221
+
+Ambiguously Mapped Contigs: 3
+Total Bases in Ambiguously Mapped Contigs: 2905
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 328
+
+	SNPs: 3
+	Insertions: 1
+	Deletions: 0
+
+	Positive Gaps: 5
+		Internal Gaps: 0
+		External Gaps: 5
+		External Gap Total: 4576242
+		External Gap Average: 915248
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

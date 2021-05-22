@@ -1,0 +1,15 @@
+reference chromosomes:
+	Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence (total length: 4511574 bp, maximal covered length: 156 bp)
+	Marivirga_tractuosa_NC_014750.1_Marivirga_tractuosa_DSM_4126_plasmid_pFTRAC01__complete_sequence (total length: 4916 bp, maximal covered length: 0 bp)
+
+total genome size: 4516490
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Marivir | 0.00345%  | 1.00000     | 4         | -         | -         | -         | -         |

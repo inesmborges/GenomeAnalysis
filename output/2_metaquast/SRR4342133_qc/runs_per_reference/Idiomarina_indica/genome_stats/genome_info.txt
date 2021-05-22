@@ -1,0 +1,44 @@
+reference chromosomes:
+	Idiomarina_indica_NZ_FMXN01000006.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 139063 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000020.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 5868 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000026.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 1692 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000013.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 48756 bp, maximal covered length: 90 bp)
+	Idiomarina_indica_NZ_FMXN01000012.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 50606 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000025.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 1749 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000009.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 93298 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000011.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 81402 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 339412 bp, maximal covered length: 167 bp)
+	Idiomarina_indica_NZ_FMXN01000004.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 156360 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000027.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 1666 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000022.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 4585 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000010.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 83537 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000005.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 154634 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000014.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 47968 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000015.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 47272 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000008.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 117832 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000018.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 17098 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000019.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 15606 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000003.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 224458 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000016.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 28694 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000023.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 2627 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000028.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 1600 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000024.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 2192 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000001.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 375747 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000031.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 1223 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000029.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 1286 bp, maximal covered length: 278 bp)
+	Idiomarina_indica_NZ_FMXN01000030.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 1247 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000007.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 133927 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000017.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 20365 bp, maximal covered length: 0 bp)
+	Idiomarina_indica_NZ_FMXN01000021.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence (total length: 4591 bp, maximal covered length: 0 bp)
+
+total genome size: 2206361
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Idiomar | 0.02425%  | 3.04112     | 34        | -         | -         | -         | -         |

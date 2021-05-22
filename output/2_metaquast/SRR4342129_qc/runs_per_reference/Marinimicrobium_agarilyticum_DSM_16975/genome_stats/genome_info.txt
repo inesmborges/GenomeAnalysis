@@ -1,0 +1,42 @@
+reference chromosomes:
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000018.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00017.17_C__whole_genome_shotgun_sequence (total length: 37263 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000016.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00015.15_C__whole_genome_shotgun_sequence (total length: 85588 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000017.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00016.16_C__whole_genome_shotgun_sequence (total length: 80390 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000008.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00007.7_C__whole_genome_shotgun_sequence (total length: 241616 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000015.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00014.14_C__whole_genome_shotgun_sequence (total length: 106359 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000004.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence (total length: 483069 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000013.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00012.12_C__whole_genome_shotgun_sequence (total length: 125772 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000007.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence (total length: 277498 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000023.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00022.22_C__whole_genome_shotgun_sequence (total length: 7248 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000014.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00013.13_C__whole_genome_shotgun_sequence (total length: 125172 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000028.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00027.27_C__whole_genome_shotgun_sequence (total length: 1932 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000019.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00018.18_C__whole_genome_shotgun_sequence (total length: 21577 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000003.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00002.2_C__whole_genome_shotgun_sequence (total length: 706577 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000025.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00024.24_C__whole_genome_shotgun_sequence (total length: 3969 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000027.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00026.26_C__whole_genome_shotgun_sequence (total length: 2000 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000022.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00021.21_C__whole_genome_shotgun_sequence (total length: 8536 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000011.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00010.10_C__whole_genome_shotgun_sequence (total length: 148163 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000006.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00005.5_C__whole_genome_shotgun_sequence (total length: 298838 bp, maximal covered length: 77 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000020.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00019.19_C__whole_genome_shotgun_sequence (total length: 16313 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000010.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00009.9_C__whole_genome_shotgun_sequence (total length: 155550 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000021.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00020.20_C__whole_genome_shotgun_sequence (total length: 15831 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000012.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00011.11_C__whole_genome_shotgun_sequence (total length: 146698 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000029.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00028.28_C__whole_genome_shotgun_sequence (total length: 1345 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000024.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00023.23_C__whole_genome_shotgun_sequence (total length: 4875 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_KE384008.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00001.1__whole_genome_shotgun_sequence (total length: 756692 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000030.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00029.29_C__whole_genome_shotgun_sequence (total length: 1104 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000009.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00008.8_C__whole_genome_shotgun_sequence (total length: 180858 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000026.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00025.25_C__whole_genome_shotgun_sequence (total length: 2495 bp, maximal covered length: 0 bp)
+	Marinimicrobium_agarilyticum_DSM_16975_NZ_AUHU01000005.1_Marinimicrobium_agarilyticum_DSM_16975_G547DRAFT_scaffold00004.4_C__whole_genome_shotgun_sequence (total length: 458963 bp, maximal covered length: 0 bp)
+
+total genome size: 4502291
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Marinim | 0.00171%  | 2.00000     | 30        | -         | -         | -         | -         |

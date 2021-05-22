@@ -1,0 +1,16 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Idiomarina_indica.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Idiomarina_indica.fasta
+NUCMER
+>Idiomarina_indica_NZ_FMXN01000029.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_132108_flag_1_multi_2.8970_len_915 1286 915
+57 334 638 915 11 11 0
+0
+>Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_216046_flag_1_multi_2.6667_len_557 339412 557
+205896 205979 248 166 1 1 0
+7
+0
+>Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_228574_flag_1_multi_1.8438_len_548 339412 548
+205790 205872 533 451 1 1 0
+0
+>Idiomarina_indica_NZ_FMXN01000013.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_345451_flag_0_multi_14.7809_len_8671 48756 8671
+19798 19887 1201 1289 3 3 0
+6
+0

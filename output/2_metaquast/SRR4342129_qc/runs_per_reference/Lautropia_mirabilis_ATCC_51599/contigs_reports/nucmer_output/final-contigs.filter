@@ -1,0 +1,5 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Lautropia_mirabilis_ATCC_51599.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Lautropia_mirabilis_ATCC_51599.fasta
+NUCMER
+>Lautropia_mirabilis_ATCC_51599_NZ_GL636063.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD2__whole_genome_shotgun_sequence k119_139524_flag_1_multi_17.2286_len_1882 3392 1882
+1264 1340 1245 1169 3 3 0
+0

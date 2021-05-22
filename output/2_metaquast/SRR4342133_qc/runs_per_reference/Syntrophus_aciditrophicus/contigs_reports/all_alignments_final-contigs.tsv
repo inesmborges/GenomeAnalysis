@@ -1,0 +1,7 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+739807	739881	211	285	Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence	k119_178624_flag_1_multi_3.6631_len_1134	100.0		True
+CONTIG	k119_178624_flag_1_multi_3.6631_len_1134	1134	correct_unaligned
+742007	742113	1183	1077	Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence	k119_61129_flag_0_multi_25.0000_len_1183	95.33		True
+CONTIG	k119_61129_flag_0_multi_25.0000_len_1183	1183	correct_unaligned
+739069	739140	587	658	Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence	k119_191732_flag_0_multi_10.7619_len_665	100.0		True
+CONTIG	k119_191732_flag_0_multi_10.7619_len_665	665	correct_unaligned

@@ -1,0 +1,10 @@
+Ruegeria_pomeroyi_NC_006569.1_Ruegeria_pomeroyi_DSS-3_megaplasmid__complete_sequence
+1 491611
+Ruegeria_pomeroyi_NC_003911.12_Ruegeria_pomeroyi_DSS-3__complete_sequence
+1 262073
+262513 263247
+263375 263727
+263812 266643
+267162 2251311
+2251391 2645393
+2645473 4109437

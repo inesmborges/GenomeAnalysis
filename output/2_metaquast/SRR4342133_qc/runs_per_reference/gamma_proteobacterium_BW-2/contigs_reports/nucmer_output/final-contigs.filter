@@ -1,0 +1,16 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/gamma_proteobacterium_BW-2.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_gamma_proteobacterium_BW-2.fasta
+NUCMER
+>gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_162632_flag_0_multi_25.9211_len_6455 4074140 6455
+1130982 1131066 6263 6180 3 3 0
+8
+0
+>gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_322049_flag_1_multi_5.0000_len_575 4074140 575
+2353111 2353191 154 233 1 1 0
+77
+0
+>gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_355746_flag_1_multi_3.7554_len_2106 4074140 2106
+3785029 3785107 478 400 0 0 0
+0
+>gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_93367_flag_1_multi_8.0000_len_12029 4074140 12029
+2682663 2682741 8539 8617 0 0 0
+0

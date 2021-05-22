@@ -1,0 +1,27 @@
+reference chromosomes:
+	Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 752090 bp, maximal covered length: 154 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000008.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 129576 bp, maximal covered length: 0 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000007.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 164924 bp, maximal covered length: 0 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000002.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 786126 bp, maximal covered length: 0 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000011.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 11782 bp, maximal covered length: 74 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000010.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 16815 bp, maximal covered length: 0 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000006.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 233277 bp, maximal covered length: 0 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000013.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 2163 bp, maximal covered length: 180 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000012.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 2998 bp, maximal covered length: 0 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000009.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 77832 bp, maximal covered length: 0 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000004.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 302042 bp, maximal covered length: 0 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000014.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 1772 bp, maximal covered length: 110 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000001.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 881492 bp, maximal covered length: 0 bp)
+	Microbulbifer_yueqingensis_NZ_FNFH01000005.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence (total length: 301965 bp, maximal covered length: 0 bp)
+
+total genome size: 3664854
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Microbu | 0.01413%  | 2.37259     | 19        | -         | -         | -         | -         |

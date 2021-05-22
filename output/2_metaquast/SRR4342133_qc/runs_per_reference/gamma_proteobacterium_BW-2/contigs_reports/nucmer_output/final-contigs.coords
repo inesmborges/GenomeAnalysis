@@ -1,0 +1,9 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+ 3785029  3785104  |       21       96  |       76       76  |   100.00  | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome	k119_121669_flag_1_multi_8.0000_len_5895
+ 1130982  1131066  |     6263     6180  |       85       84  |    96.47  | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome	k119_162632_flag_0_multi_25.9211_len_6455
+ 1410790  1410870  |      233      154  |       81       80  |    98.77  | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome	k119_322049_flag_1_multi_5.0000_len_575
+ 2353111  2353191  |      154      233  |       81       80  |    98.77  | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome	k119_322049_flag_1_multi_5.0000_len_575
+ 3785029  3785107  |      478      400  |       79       79  |   100.00  | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome	k119_355746_flag_1_multi_3.7554_len_2106
+ 3785029  3785104  |    12748    12823  |       76       76  |   100.00  | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome	k119_82782_flag_1_multi_9.0000_len_12828
+ 2682663  2682741  |     8539     8617  |       79       79  |   100.00  | gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome	k119_93367_flag_1_multi_8.0000_len_12029

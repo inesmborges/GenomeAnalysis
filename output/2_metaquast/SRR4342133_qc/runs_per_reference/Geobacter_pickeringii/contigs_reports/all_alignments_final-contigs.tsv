@@ -1,0 +1,5 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3581735	3581820	106	191	Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome	k119_34150_flag_0_multi_11.6875_len_9177	95.35		True
+CONTIG	k119_34150_flag_0_multi_11.6875_len_9177	9177	correct_unaligned
+2447119	2447186	264	197	Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome	k119_284642_flag_1_multi_5.7156_len_1318	100.0		True
+CONTIG	k119_284642_flag_1_multi_5.7156_len_1318	1318	correct_unaligned

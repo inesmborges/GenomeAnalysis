@@ -1,0 +1,375 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/combined_reference.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/combined_reference/../quast_corrected_input/final-contigs.fa
+NUCMER
+>Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence k119_111391_flag_1_multi_7.0000_len_1795 1212026 1795
+218246 218319 1578 1505 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_116015_flag_1_multi_3.0000_len_797 507037 797
+490266 490343 18 95 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_11961_flag_1_multi_2.6647_len_626 3261541 626
+2733308 2733415 553 447 5 5 0
+97
+0
+>Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence k119_123184_flag_1_multi_3.0000_len_742 4511574 742
+3149750 3149830 138 58 1 1 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_12791_flag_0_multi_2.6934_len_1342 3261541 1342
+251474 251893 420 1 10 10 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_131442_flag_1_multi_5.0000_len_3188 3045708 3188
+575837 575923 643 729 0 0 0
+0
+>Idiomarina_indica_NZ_FMXN01000029.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_132108_flag_1_multi_2.8970_len_915 1286 915
+57 334 638 915 11 11 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_136847_flag_1_multi_6.9199_len_7913 4830181 7913
+4470400 4470492 697 605 4 4 0
+-10
+6
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_144541_flag_1_multi_2.0474_len_583 4775416 583
+4569683 4569771 304 216 4 4 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_14520_flag_1_multi_5.0000_len_1070 3261541 1070
+1768557 1768645 982 1070 4 4 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_148028_flag_1_multi_11.0000_len_79341 4830181 79341
+278853 278946 27674 27766 3 3 0
+5
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000002.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696062.2_C__whole_genome_shotgun_sequence k119_159323_flag_0_multi_10.0000_len_533 116874 533
+3942 4024 386 468 2 2 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_15966_flag_1_multi_2.8681_len_1271 4775416 1271
+2136284 2136359 1175 1250 1 1 0
+0
+>Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000001.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_3_quiver.1_C__whole_genome_shotgun_sequence k119_160745_flag_1_multi_9.2909_len_2807 1017752 2807
+1017466 1017677 1467 1678 10 10 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k119_16105_flag_1_multi_3.8451_len_1707 38564 1707
+35152 35226 112 186 1 1 0
+0
+35407 35481 208 282 1 1 0
+0
+>Formosa_algae_NZ_JAGGJQ010000020.1_Formosa_algae_strain_DSM_15523_Ga0454090_20__whole_genome_shotgun_sequence k119_161932_flag_1_multi_7.2656_len_1463 3390 1463
+1125 1357 1463 1231 8 8 0
+0
+>gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_162632_flag_0_multi_25.9211_len_6455 4074140 6455
+1130982 1131066 6263 6180 3 3 0
+8
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_17096_flag_1_multi_4.8884_len_3346 3261541 3346
+2440881 2440962 2948 2867 1 1 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_171327_flag_1_multi_1.7416_len_684 4306142 684
+437878 437956 182 260 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_172148_flag_1_multi_6.0000_len_3098 3261541 3098
+409739 409819 2693 2613 0 0 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_174128_flag_1_multi_6.4023_len_1342 4306142 1342
+59836 59930 1199 1293 3 3 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_175454_flag_1_multi_8.8009_len_3736 3261541 3736
+1715743 1715845 93 195 3 3 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence k119_175827_flag_1_multi_11.0000_len_10678 57811 10678
+42388 42473 10565 10480 0 0 0
+0
+>Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k119_178624_flag_1_multi_3.6631_len_1134 3179300 1134
+739807 739881 211 285 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_179626_flag_1_multi_6.8933_len_2218 3261541 2218
+2291645 2291742 104 7 2 2 0
+9
+-3
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_179841_flag_1_multi_4.9845_len_5017 4830181 5017
+2927525 2927625 101 1 3 3 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_18004_flag_1_multi_4.9246_len_4839 4775416 4839
+2140955 2141203 4839 4592 10 10 0
+238
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_182500_flag_1_multi_4.5801_len_5565 3045708 5565
+2691341 2691418 3162 3239 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_186614_flag_1_multi_7.0000_len_13783 207158 13783
+6230 6311 895 814 0 0 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_191732_flag_0_multi_10.7619_len_665 2978976 665
+2807721 2807792 658 587 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_195746_flag_1_multi_8.0000_len_1415 3045708 1415
+2961135 2961219 1359 1275 1 1 0
+0
+>Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_214699_flag_1_multi_7.0000_len_1705 200747 1705
+33940 34015 1336 1411 1 1 0
+0
+>Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_216046_flag_1_multi_2.6667_len_557 339412 557
+205896 205979 248 166 1 1 0
+7
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_219313_flag_1_multi_3.0721_len_646 3045708 646
+1569535 1569612 234 157 0 0 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_222652_flag_1_multi_4.0000_len_1787 4775416 1787
+3038711 3038789 450 528 0 0 0
+0
+>Alcanivorax_jadensis_T9_NZ_ARXU01000004.1_Alcanivorax_jadensis_T9_contig4__whole_genome_shotgun_sequence k119_225482_flag_1_multi_24.9882_len_143990 298895 143990
+274697 274781 46739 46654 1 1 0
+-82
+0
+>Alcanivorax_jadensis_T9_NZ_ARXU01000005.1_Alcanivorax_jadensis_T9_contig5__whole_genome_shotgun_sequence k119_228574_flag_1_multi_1.8438_len_548 244829 548
+111659 111736 450 527 0 0 0
+0
+>Idiomarina_indica_NZ_FMXN01000002.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_228574_flag_1_multi_1.8438_len_548 339412 548
+205790 205872 533 451 1 1 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_228661_flag_1_multi_6.0000_len_3166 3045708 3166
+1951050 1951156 151 257 1 1 0
+0
+>Formosa_algae_NZ_JAGGJQ010000020.1_Formosa_algae_strain_DSM_15523_Ga0454090_20__whole_genome_shotgun_sequence k119_230197_flag_0_multi_3.8095_len_686 3390 686
+372 748 310 686 14 14 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000001.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695939.1_C__whole_genome_shotgun_sequence k119_241811_flag_1_multi_12.9540_len_5333 223287 5333
+48656 48734 2238 2316 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_242737_flag_1_multi_3.0000_len_560 4830181 560
+1488606 1488682 316 240 1 1 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_247891_flag_0_multi_10.0821_len_3311 4775416 3311
+2136529 2136745 3095 3311 10 10 0
+0
+>Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence k119_249648_flag_0_multi_3.5937_len_813 4719581 813
+3620190 3620302 813 701 5 5 0
+0
+>Magnetococcus_marinus_NC_008576.1_Magnetococcus_marinus_MC-1__complete_sequence k119_249677_flag_0_multi_3.5486_len_757 4719581 757
+278805 278917 113 1 5 5 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_253005_flag_1_multi_3.0000_len_2032 4830181 2032
+4374339 4374413 301 375 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_257030_flag_1_multi_7.8170_len_3945 3261541 3945
+1755672 1755751 3296 3375 0 0 0
+0
+1768581 1768683 3497 3599 3 3 0
+0
+>Owenweeksia_hongkongensis_DSM_17368_NC_016599.1_Owenweeksia_hongkongensis_DSM_17368__complete_sequence k119_261553_flag_1_multi_5.5689_len_1128 4000057 1128
+1353015 1353090 235 160 0 0 0
+0
+>Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence k119_261553_flag_1_multi_5.5689_len_1128 1212026 1128
+441276 441351 234 159 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_262934_flag_1_multi_4.1954_len_636 3045708 636
+1107586 1107665 453 532 2 2 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_265299_flag_1_multi_8.9730_len_4635 3261541 4635
+750683 750760 4035 3958 0 0 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_266055_flag_0_multi_8.6608_len_2737 4775416 2737
+626052 626126 1726 1652 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_26759_flag_1_multi_3.0000_len_524 3045708 524
+1118786 1118853 1 68 0 0 0
+0
+>Alcanivorax_jadensis_T9_NZ_ARXU01000001.1_Alcanivorax_jadensis_T9_contig1__whole_genome_shotgun_sequence k119_272751_flag_1_multi_23.3399_len_91657 539039 91657
+21299 21376 28142 28219 0 0 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_273389_flag_1_multi_1.7663_len_992 4775416 992
+2140185 2140269 85 1 3 3 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_276822_flag_1_multi_2.0000_len_500 4775416 500
+2687764 2687844 44 124 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_282853_flag_1_multi_9.0000_len_13327 4830181 13327
+494547 494620 12555 12628 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318 3045708 1318
+1570179 1570349 1149 1318 8 8 0
+12
+0
+>Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k119_284642_flag_1_multi_5.7156_len_1318 3618700 1318
+2447119 2447186 264 197 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054 207158 1054
+202995 203071 456 380 0 0 0
+0
+203170 203249 646 567 0 0 0
+0
+>Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_287380_flag_1_multi_9.0000_len_1657 415303 1657
+254976 255070 1172 1079 1 1 0
+90
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_290873_flag_1_multi_4.0000_len_884 3045708 884
+2960838 2960928 709 799 1 1 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_291953_flag_1_multi_8.9878_len_40842 4830181 40842
+2658758 2658835 10217 10294 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k119_292500_flag_1_multi_4.9805_len_530 38564 530
+34746 34988 7 249 9 9 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_292837_flag_1_multi_3.0000_len_706 4830181 706
+2549197 2549275 176 98 0 0 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_293680_flag_1_multi_5.0000_len_10027 4775416 10027
+850365 850471 2308 2414 3 3 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_293852_flag_0_multi_10.8750_len_1719 4775416 1719
+4627357 4627424 1 68 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_30363_flag_1_multi_1.6606_len_502 4830181 502
+4374328 4374412 502 419 2 2 0
+7
+0
+>Formosa_algae_NZ_JAGGJQ010000001.1_Formosa_algae_strain_DSM_15523_Ga0454090_01__whole_genome_shotgun_sequence k119_304105_flag_0_multi_8.0000_len_24759 824498 24759
+243623 243695 8729 8801 0 0 0
+0
+>Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence k119_304976_flag_1_multi_3.0000_len_688 1029779 688
+86634 86710 3 79 2 2 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence k119_305649_flag_1_multi_12.3539_len_3165 65910 3165
+44030 44107 764 687 0 0 0
+0
+>Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence k119_30622_flag_1_multi_4.0000_len_1307 1029779 1307
+549439 549514 486 561 0 0 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_310556_flag_1_multi_31.1974_len_727 2978976 727
+2661969 2662035 456 522 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_318289_flag_0_multi_1.9292_len_656 3261541 656
+2736097 2736254 78 235 4 4 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_32051_flag_1_multi_5.0000_len_987 3045708 987
+2831813 2831891 845 923 0 0 0
+0
+>gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_322049_flag_1_multi_5.0000_len_575 4074140 575
+2353111 2353191 154 233 1 1 0
+77
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_322671_flag_1_multi_3.0000_len_700 3045708 700
+1573497 1573577 297 377 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_32586_flag_1_multi_4.0000_len_729 3045708 729
+1627221 1627298 353 430 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000004.1_Aquimarina_atlantica_strain_22II-S11-z7_contig4__whole_genome_shotgun_sequence k119_328219_flag_1_multi_6.8614_len_3886 520297 3886
+61783 61860 2599 2676 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_328219_flag_1_multi_6.8614_len_3886 507037 3886
+490265 490342 2677 2600 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_330090_flag_1_multi_8.0000_len_8043 3045708 8043
+142615 142707 7992 7900 0 0 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_333450_flag_0_multi_33.4722_len_3433 4306142 3433
+286506 286599 3315 3408 3 3 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_334304_flag_1_multi_8.9681_len_27989 4830181 27989
+580508 580588 186 106 1 1 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_337703_flag_1_multi_2.9605_len_1865 3261541 1865
+1768857 1768938 1797 1716 1 1 0
+0
+>Idiomarina_indica_NZ_FMXN01000013.1_Pseudidiomarina_indica_strain_CGMCC_1.10824__whole_genome_shotgun_sequence k119_345451_flag_0_multi_14.7809_len_8671 48756 8671
+19798 19887 1201 1289 3 3 0
+6
+0
+>Owenweeksia_hongkongensis_DSM_17368_NC_016599.1_Owenweeksia_hongkongensis_DSM_17368__complete_sequence k119_345737_flag_1_multi_8.9755_len_9254 4000057 9254
+2670792 2670868 441 517 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_351478_flag_1_multi_6.0000_len_2097 3045708 2097
+2054388 2054464 223 147 1 1 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_355446_flag_1_multi_4.0000_len_827 3045708 827
+237668 237748 440 360 0 0 0
+0
+>gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_355746_flag_1_multi_3.7554_len_2106 4074140 2106
+3785029 3785107 478 400 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_360526_flag_1_multi_8.0000_len_6602 507037 6602
+147003 147078 843 918 0 0 0
+0
+149068 149143 4795 4870 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_362767_flag_1_multi_6.0000_len_4401 3045708 4401
+2691342 2691436 2895 2800 4 4 0
+-88
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_384265_flag_1_multi_2.9478_len_885 3261541 885
+598365 598444 439 518 0 0 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_42177_flag_1_multi_4.5529_len_1139 4775416 1139
+2137626 2137809 1139 957 1 1 0
+84
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_44905_flag_1_multi_8.0000_len_1148 3261541 1148
+746568 746643 127 52 0 0 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_48643_flag_1_multi_8.4508_len_4238 2978976 4238
+183578 183656 680 602 0 0 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_53104_flag_1_multi_3.6838_len_821 4306142 821
+1869351 1869428 253 176 0 0 0
+0
+>Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k119_61129_flag_0_multi_25.0000_len_1183 3179300 1183
+742007 742113 1183 1077 5 5 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_649_flag_1_multi_3.6262_len_820 3261541 820
+409738 409818 194 114 0 0 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000002.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696062.2_C__whole_genome_shotgun_sequence k119_67447_flag_1_multi_5.0000_len_2553 116874 2553
+93917 94005 2428 2340 0 0 0
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588 3045708 588
+1568843 1569128 588 303 13 13 0
+0
+1569360 1569436 157 81 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_76917_flag_1_multi_3.5803_len_1041 3261541 1041
+1770392 1770476 755 671 2 2 0
+0
+>Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_79423_flag_1_multi_7.9774_len_6323 200747 6323
+34364 34437 263 190 1 1 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_80028_flag_1_multi_9.0000_len_24092 4775416 24092
+4330166 4330280 298 413 4 4 0
+-99
+0
+>Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_80111_flag_1_multi_6.6646_len_5324 3045708 5324
+2228461 2228542 1663 1582 0 0 0
+0
+>Marivirga_tractuosa_NC_014759.1_Marivirga_tractuosa_DSM_4126__complete_sequence k119_82884_flag_1_multi_3.7993_len_1001 4511574 1001
+2010643 2010717 615 689 0 0 0
+0
+>Owenweeksia_hongkongensis_DSM_17368_NC_016599.1_Owenweeksia_hongkongensis_DSM_17368__complete_sequence k119_82884_flag_1_multi_3.7993_len_1001 4000057 1001
+1917442 1917679 763 1001 7 7 0
+-8
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_86216_flag_0_multi_3.5113_len_874 3261541 874
+252459 253215 1 757 22 22 0
+0
+253337 253448 763 874 0 0 0
+0
+>Alcanivorax_jadensis_T9_NZ_ARXU01000002.1_Alcanivorax_jadensis_T9_contig2__whole_genome_shotgun_sequence k119_86745_flag_1_multi_3.0000_len_784 478970 784
+157082 157168 305 391 0 0 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Candidatus_Nitromaritima_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence k119_87324_flag_1_multi_9.0000_len_13494 57811 13494
+42215 42307 9503 9411 1 1 0
+0
+>Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k119_87324_flag_1_multi_9.0000_len_13494 3618700 13494
+3581733 3581820 9354 9267 4 4 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k119_87556_flag_1_multi_4.3743_len_803 4775416 803
+2138140 2138245 106 1 1 1 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k119_87841_flag_1_multi_4.0000_len_1864 507037 1864
+190977 191053 1399 1323 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k119_91607_flag_1_multi_4.9970_len_6850 4830181 6850
+2316487 2316616 10 139 3 3 0
+0
+>gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome k119_93367_flag_1_multi_8.0000_len_12029 4074140 12029
+2682663 2682741 8539 8617 0 0 0
+0

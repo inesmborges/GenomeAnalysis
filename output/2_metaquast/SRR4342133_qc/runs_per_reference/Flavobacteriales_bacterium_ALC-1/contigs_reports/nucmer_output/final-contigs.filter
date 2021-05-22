@@ -1,0 +1,22 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Flavobacteriales_bacterium_ALC-1.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Flavobacteriales_bacterium_ALC-1.fasta
+NUCMER
+>Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence k119_111391_flag_1_multi_7.0000_len_1795 1212026 1795
+218246 218319 1578 1505 0 0 0
+0
+>Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence k119_230197_flag_0_multi_3.8095_len_686 1212026 686
+438272 438648 310 686 15 15 0
+0
+>Flavobacteriales_bacterium_ALC-1_ABHI01000004.1_Flavobacteriales_bacterium_ALC-1_1103813602122__whole_genome_shotgun_sequence k119_261553_flag_1_multi_5.5689_len_1128 462108 1128
+106064 106139 234 159 0 0 0
+0
+>Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence k119_304976_flag_1_multi_3.0000_len_688 1029779 688
+86634 86710 3 79 2 2 0
+0
+>Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence k119_30622_flag_1_multi_4.0000_len_1307 1029779 1307
+549439 549514 486 561 0 0 0
+0
+>Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence k119_360526_flag_1_multi_8.0000_len_6602 1029779 6602
+1008765 1008840 843 918 0 0 0
+0
+1010681 1010754 4795 4868 0 0 0
+0

@@ -1,0 +1,11 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Psychrobacter_sp._PRwf-1.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Psychrobacter_sp._PRwf-1.fasta
+NUCMER
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_191732_flag_0_multi_10.7619_len_665 2978976 665
+2819539 2819610 658 587 0 0 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_310556_flag_1_multi_31.1974_len_727 2978976 727
+2661969 2662035 456 522 0 0 0
+0
+>Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_48643_flag_1_multi_8.4508_len_4238 2978976 4238
+183578 183656 680 602 0 0 0
+0

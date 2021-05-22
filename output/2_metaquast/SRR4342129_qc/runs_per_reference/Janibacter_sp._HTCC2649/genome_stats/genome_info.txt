@@ -1,0 +1,20 @@
+reference chromosomes:
+	Janibacter_sp._HTCC2649_NZ_AAMN01000011.1_Janibacter_sp._HTCC2649_1099316001520__whole_genome_shotgun_sequence (total length: 1359 bp, maximal covered length: 0 bp)
+	Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence (total length: 4221782 bp, maximal covered length: 661 bp)
+	Janibacter_sp._HTCC2649_NZ_AAMN01000010.1_Janibacter_sp._HTCC2649_1099316001511__whole_genome_shotgun_sequence (total length: 1561 bp, maximal covered length: 0 bp)
+	Janibacter_sp._HTCC2649_NZ_AAMN01000014.1_Janibacter_sp._HTCC2649_1099316001525__whole_genome_shotgun_sequence (total length: 1029 bp, maximal covered length: 0 bp)
+	Janibacter_sp._HTCC2649_NZ_AAMN01000012.1_Janibacter_sp._HTCC2649_1099316001526__whole_genome_shotgun_sequence (total length: 1100 bp, maximal covered length: 0 bp)
+	Janibacter_sp._HTCC2649_NZ_AAMN01000013.1_Janibacter_sp._HTCC2649_1099316001539__whole_genome_shotgun_sequence (total length: 1038 bp, maximal covered length: 0 bp)
+	Janibacter_sp._HTCC2649_NZ_AAMN01000009.1_Janibacter_sp._HTCC2649_1099316001544__whole_genome_shotgun_sequence (total length: 7199 bp, maximal covered length: 0 bp)
+
+total genome size: 4235068
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Janibac | 0.01561%  | 3.11649     | 13        | -         | -         | -         | -         |

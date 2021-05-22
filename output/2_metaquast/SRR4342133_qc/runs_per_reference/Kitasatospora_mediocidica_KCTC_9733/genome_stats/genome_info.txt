@@ -1,0 +1,20 @@
+reference chromosomes:
+	Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000002.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_2_quiver_dupTrim_1247.2_C__whole_genome_shotgun_sequence (total length: 309937 bp, maximal covered length: 0 bp)
+	Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000001.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_3_quiver.1_C__whole_genome_shotgun_sequence (total length: 1017752 bp, maximal covered length: 212 bp)
+	Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000004.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_1_quiver.4_C__whole_genome_shotgun_sequence (total length: 1536119 bp, maximal covered length: 0 bp)
+	Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000005.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_8_quiver.5_C__whole_genome_shotgun_sequence (total length: 2728129 bp, maximal covered length: 0 bp)
+	Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000003.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_9_quiver_dupTrim_9452.3_C__whole_genome_shotgun_sequence (total length: 563189 bp, maximal covered length: 0 bp)
+	Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000007.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_5_quiver_dupTrim_2801.7_C__whole_genome_shotgun_sequence (total length: 1602380 bp, maximal covered length: 0 bp)
+	Kitasatospora_mediocidica_KCTC_9733_NZ_JQLN01000006.1_Kitasatospora_mediocidica_KCTC_9733_BS80DRAFT_unitig_0_quiver.6_C__whole_genome_shotgun_sequence (total length: 924255 bp, maximal covered length: 0 bp)
+
+total genome size: 8681761
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Kitasat | 0.00244%  | 1.00000     | 8         | -         | -         | -         | -         |

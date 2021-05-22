@@ -1,0 +1,60 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Luminiphilus_syltensis_NOR5-1B.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Luminiphilus_syltensis_NOR5-1B.fasta
+NUCMER
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_11961_flag_1_multi_2.6647_len_626 3261541 626
+2733308 2733415 553 447 5 5 0
+97
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_12791_flag_0_multi_2.6934_len_1342 3261541 1342
+251474 251893 420 1 10 10 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_14520_flag_1_multi_5.0000_len_1070 3261541 1070
+1768557 1768645 982 1070 4 4 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_17096_flag_1_multi_4.8884_len_3346 3261541 3346
+2440881 2440962 2948 2867 1 1 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_172148_flag_1_multi_6.0000_len_3098 3261541 3098
+409739 409819 2693 2613 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_175454_flag_1_multi_8.8009_len_3736 3261541 3736
+1715743 1715845 93 195 3 3 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_179626_flag_1_multi_6.8933_len_2218 3261541 2218
+2291645 2291742 104 7 2 2 0
+9
+-3
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_257030_flag_1_multi_7.8170_len_3945 3261541 3945
+1755672 1755751 3296 3375 0 0 0
+0
+1768581 1768683 3497 3599 3 3 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_265299_flag_1_multi_8.9730_len_4635 3261541 4635
+750683 750760 4035 3958 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_272751_flag_1_multi_23.3399_len_91657 3261541 91657
+2234118 2234195 28142 28219 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_318289_flag_0_multi_1.9292_len_656 3261541 656
+2736097 2736254 78 235 4 4 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_337703_flag_1_multi_2.9605_len_1865 3261541 1865
+1768857 1768938 1797 1716 1 1 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_384265_flag_1_multi_2.9478_len_885 3261541 885
+598365 598444 439 518 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_44905_flag_1_multi_8.0000_len_1148 3261541 1148
+746568 746643 127 52 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_649_flag_1_multi_3.6262_len_820 3261541 820
+409738 409818 194 114 0 0 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_76917_flag_1_multi_3.5803_len_1041 3261541 1041
+1770392 1770476 755 671 2 2 0
+0
+>Luminiphilus_syltensis_NOR5-1B_NZ_DS999411.1_Luminiphilus_syltensis_NOR5-1B_scf_1109846220923__whole_genome_shotgun_sequence k119_86216_flag_0_multi_3.5113_len_874 3261541 874
+252459 253215 1 757 22 22 0
+0
+253337 253448 763 874 0 0 0
+0

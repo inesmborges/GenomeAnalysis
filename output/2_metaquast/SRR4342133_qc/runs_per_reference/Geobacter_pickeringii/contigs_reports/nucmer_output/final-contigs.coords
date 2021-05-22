@@ -1,0 +1,6 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+ 2447119  2447186  |      264      197  |       68       68  |   100.00  | Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome	k119_284642_flag_1_multi_5.7156_len_1318
+ 2827531  2827598  |      264      197  |       68       68  |   100.00  | Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome	k119_284642_flag_1_multi_5.7156_len_1318
+ 2910626  2910693  |      264      197  |       68       68  |   100.00  | Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome	k119_284642_flag_1_multi_5.7156_len_1318
+ 3581735  3581820  |      106      191  |       86       86  |    95.35  | Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome	k119_34150_flag_0_multi_11.6875_len_9177

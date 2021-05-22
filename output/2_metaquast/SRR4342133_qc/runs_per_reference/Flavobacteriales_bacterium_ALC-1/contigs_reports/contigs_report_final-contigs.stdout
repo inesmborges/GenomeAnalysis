@@ -1,0 +1,147 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence]
+	Loaded [Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence]
+	Loaded [Flavobacteriales_bacterium_ALC-1_ABHI01000003.1_Flavobacteriales_bacterium_ALC-1_1103813602120__whole_genome_shotgun_sequence]
+	Loaded [Flavobacteriales_bacterium_ALC-1_ABHI01000004.1_Flavobacteriales_bacterium_ALC-1_1103813602122__whole_genome_shotgun_sequence]
+	Loaded [Flavobacteriales_bacterium_ALC-1_ABHI01000005.1_Flavobacteriales_bacterium_ALC-1_1103813602121__whole_genome_shotgun_sequence]
+	Loaded [Flavobacteriales_bacterium_ALC-1_ABHI01000006.1_Flavobacteriales_bacterium_ALC-1_1103813602119__whole_genome_shotgun_sequence]
+	Loaded [Flavobacteriales_bacterium_ALC-1_ABHI01000007.1_Flavobacteriales_bacterium_ALC-1_1103813602116__whole_genome_shotgun_sequence]
+	Loaded [Flavobacteriales_bacterium_ALC-1_ABHI01000008.1_Flavobacteriales_bacterium_ALC-1_1103813602118__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 8
+	Total Region Length: 3825707
+Analyzing contigs...
+CONTIG: k119_230197_flag_0_multi_3.8095_len_686 (686bp)
+Best alignment score: 362.0 (LEN: 377, IDY: 96.02)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 103060 103436 | 310 686 | 377 377 | 96.02 | Flavobacteriales_bacterium_ALC-1_ABHI01000004.1_Flavobacteriales_bacterium_ALC-1_1103813602122__whole_genome_shotgun_sequence k119_230197_flag_0_multi_3.8095_len_686
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 362.0, number of alignments: 1, unaligned bases: 309
+		Alignment: 438272 438648 | 310 686 | 377 377 | 96.02 | Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence k119_230197_flag_0_multi_3.8095_len_686
+
+CONTIG: k119_111391_flag_1_multi_7.0000_len_1795 (1795bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1721
+		This contig is partially unaligned. (Aligned 74 out of 1795 bases)
+		Alignment: 218246 218319 | 1578 1505 | 74 74 | 100.0 | Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence k119_111391_flag_1_multi_7.0000_len_1795
+		Unaligned bases: 1 to 1504 (1504)
+		Unaligned bases: 1579 to 1795 (217)
+
+CONTIG: k119_261553_flag_1_multi_5.5689_len_1128 (1128bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 106064 106139 | 234 159 | 76 76 | 100.0 | Flavobacteriales_bacterium_ALC-1_ABHI01000004.1_Flavobacteriales_bacterium_ALC-1_1103813602122__whole_genome_shotgun_sequence k119_261553_flag_1_multi_5.5689_len_1128
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1052
+		This contig is partially unaligned. (Aligned 76 out of 1128 bases)
+		Alignment: 441276 441351 | 234 159 | 76 76 | 100.0 | Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence k119_261553_flag_1_multi_5.5689_len_1128
+		Unaligned bases: 1 to 158 (158)
+		Unaligned bases: 235 to 1128 (894)
+
+CONTIG: k119_30622_flag_1_multi_4.0000_len_1307 (1307bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1231
+		This contig is partially unaligned. (Aligned 76 out of 1307 bases)
+		Alignment: 549439 549514 | 486 561 | 76 76 | 100.0 | Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence k119_30622_flag_1_multi_4.0000_len_1307
+		Unaligned bases: 1 to 485 (485)
+		Unaligned bases: 562 to 1307 (746)
+
+CONTIG: k119_304976_flag_1_multi_3.0000_len_688 (688bp)
+Best alignment score: 75.0 (LEN: 77, IDY: 97.40)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 611
+		This contig is partially unaligned. (Aligned 77 out of 688 bases)
+		Alignment: 86634 86710 | 3 79 | 77 77 | 97.4 | Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence k119_304976_flag_1_multi_3.0000_len_688
+		Unaligned bases: 1 to 2 (2)
+		Unaligned bases: 80 to 688 (609)
+
+CONTIG: k119_360526_flag_1_multi_8.0000_len_6602 (6602bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1010681 1010754 | 4795 4868 | 74 74 | 100.0 | Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence k119_360526_flag_1_multi_8.0000_len_6602
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 6526
+		This contig is partially unaligned. (Aligned 76 out of 6602 bases)
+		Alignment: 1008765 1008840 | 843 918 | 76 76 | 100.0 | Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence k119_360526_flag_1_multi_8.0000_len_6602
+		Unaligned bases: 1 to 842 (842)
+		Unaligned bases: 919 to 6602 (5684)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Flavobacteriales_bacterium_ALC-1/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Flavobacteriales_bacterium_ALC-1_ABHI01000004.1_Flavobacteriales_bacterium_ALC-1_1103813602122__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacteriales_bacterium_ALC-1_ABHI01000002.1_Flavobacteriales_bacterium_ALC-1_1103813602117__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 1029779 (1029779 bp)
+			START in gap: 1 to 86634 (86633 bp)
+			Align 1: 86634 86710 k119_304976_flag_1_multi_3.0000_len_688 3 79
+				Gap between this and next alignment: 86710 to 549439 (462728 bp)
+				Next Alignment: 549439 549514 k119_30622_flag_1_multi_4.0000_len_1307 486 561
+
+			Align 2: 549439 549514 k119_30622_flag_1_multi_4.0000_len_1307 486 561
+				Gap between this and next alignment: 549514 to 1008765 (459250 bp)
+				Next Alignment: 1008765 1008840 k119_360526_flag_1_multi_8.0000_len_6602 843 918
+
+			Align 3: 1008765 1008840 k119_360526_flag_1_multi_8.0000_len_6602 843 918
+			END in gap: 1008840 to 1029779 (20939 bp).
+
+WARNING: Reference Flavobacteriales_bacterium_ALC-1_ABHI01000005.1_Flavobacteriales_bacterium_ALC-1_1103813602121__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacteriales_bacterium_ALC-1_ABHI01000007.1_Flavobacteriales_bacterium_ALC-1_1103813602116__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacteriales_bacterium_ALC-1_ABHI01000003.1_Flavobacteriales_bacterium_ALC-1_1103813602120__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacteriales_bacterium_ALC-1_ABHI01000006.1_Flavobacteriales_bacterium_ALC-1_1103813602119__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Flavobacteriales_bacterium_ALC-1_ABHI01000008.1_Flavobacteriales_bacterium_ALC-1_1103813602118__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Flavobacteriales_bacterium_ALC-1_ABHI01000001.1_Flavobacteriales_bacterium_ALC-1_1103813602123__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 1212026 (1212026 bp)
+			START in gap: 1 to 218246 (218245 bp)
+			Align 1: 218246 218319 k119_111391_flag_1_multi_7.0000_len_1795 1578 1505
+				Gap between this and next alignment: 218319 to 438272 (219952 bp)
+				Next Alignment: 438272 438648 k119_230197_flag_0_multi_3.8095_len_686 310 686
+
+			Align 2: 438272 438648 k119_230197_flag_0_multi_3.8095_len_686 310 686
+				Gap between this and next alignment: 438648 to 441276 (2627 bp)
+				Next Alignment: 441276 441351 k119_261553_flag_1_multi_5.5689_len_1128 234 159
+
+			Align 3: 441276 441351 k119_261553_flag_1_multi_5.5689_len_1128 234 159
+			END in gap: 441351 to 1212026 (770675 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Flavobacteriales_bacterium_ALC-1/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 5 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 11141
+
+Ambiguously Mapped Contigs: 2
+Total Bases in Ambiguously Mapped Contigs: 1814
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 756
+
+	SNPs: 17
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 8
+		Internal Gaps: 0
+		External Gaps: 8
+		External Gap Total: 2241049
+		External Gap Average: 280131
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

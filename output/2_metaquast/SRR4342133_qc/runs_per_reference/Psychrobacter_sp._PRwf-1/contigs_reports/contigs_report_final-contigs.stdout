@@ -1,0 +1,113 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Psychrobacter_sp._PRwf-1_NC_009516.1_Psychrobacter_sp._PRwf-1_plasmid_pRWF101__complete_sequence]
+	Loaded [Psychrobacter_sp._PRwf-1_NC_009517.1_Psychrobacter_sp._PRwf-1_plasmid_pRWF102__complete_sequence]
+	Loaded [Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence]
+Loading SNPs...
+	Total Regions: 3
+	Total Region Length: 2995049
+Analyzing contigs...
+CONTIG: k119_325931_flag_1_multi_14.9981_len_7441 (7441bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 7362
+		This contig is partially unaligned. (Aligned 79 out of 7441 bases)
+		Alignment: 183578 183656 | 3456 3378 | 79 79 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_325931_flag_1_multi_14.9981_len_7441
+		Unaligned bases: 1 to 3377 (3377)
+		Unaligned bases: 3457 to 7441 (3985)
+
+CONTIG: k119_310556_flag_1_multi_31.1974_len_727 (727bp)
+Best alignment score: 67.0 (LEN: 67, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2661969 2662035 | 456 522 | 67 67 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_310556_flag_1_multi_31.1974_len_727
+		Skipping redundant alignment 2804811 2804877 | 456 522 | 67 67 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_310556_flag_1_multi_31.1974_len_727
+		Skipping redundant alignment 2810704 2810770 | 456 522 | 67 67 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_310556_flag_1_multi_31.1974_len_727
+		Skipping redundant alignment 2816629 2816695 | 456 522 | 67 67 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_310556_flag_1_multi_31.1974_len_727
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 67.0, number of alignments: 1, unaligned bases: 660
+		Alignment: 780587 780653 | 522 456 | 67 67 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_310556_flag_1_multi_31.1974_len_727
+
+CONTIG: k119_191732_flag_0_multi_10.7619_len_665 (665bp)
+Best alignment score: 72.0 (LEN: 72, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2664879 2664950 | 658 587 | 72 72 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_191732_flag_0_multi_10.7619_len_665
+		Skipping redundant alignment 2807721 2807792 | 658 587 | 72 72 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_191732_flag_0_multi_10.7619_len_665
+		Skipping redundant alignment 2813614 2813685 | 658 587 | 72 72 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_191732_flag_0_multi_10.7619_len_665
+		Skipping redundant alignment 2819539 2819610 | 658 587 | 72 72 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_191732_flag_0_multi_10.7619_len_665
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 72.0, number of alignments: 1, unaligned bases: 593
+		This contig is partially unaligned. (Aligned 72 out of 665 bases)
+		Alignment: 777672 777743 | 587 658 | 72 72 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_191732_flag_0_multi_10.7619_len_665
+		Unaligned bases: 1 to 586 (586)
+		Unaligned bases: 659 to 665 (7)
+
+CONTIG: k119_48643_flag_1_multi_8.4508_len_4238 (4238bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 4159
+		This contig is partially unaligned. (Aligned 79 out of 4238 bases)
+		Alignment: 183578 183656 | 680 602 | 79 79 | 100.0 | Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence k119_48643_flag_1_multi_8.4508_len_4238
+		Unaligned bases: 1 to 601 (601)
+		Unaligned bases: 681 to 4238 (3558)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Psychrobacter_sp._PRwf-1/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Psychrobacter_sp._PRwf-1_NC_009516.1_Psychrobacter_sp._PRwf-1_plasmid_pRWF101__complete_sequence does not have any alignments! 
+WARNING: Reference Psychrobacter_sp._PRwf-1_NC_009517.1_Psychrobacter_sp._PRwf-1_plasmid_pRWF102__complete_sequence does not have any alignments! 
+	Reference Psychrobacter_sp._PRwf-1_NC_009524.1_Psychrobacter_sp._PRwf-1__complete_sequence: 4 total alignments. 1 total regions.
+		Region: 1 to 2978976 (2978976 bp)
+			START in gap: 1 to 183578 (183577 bp)
+			Align 1: 183578 183656 k119_325931_flag_1_multi_14.9981_len_7441 3456 3378
+				The next alignment (183578 183656 k119_48643_flag_1_multi_8.4508_len_4238 680 602) is redundant. Skipping.
+				Gap between this and next alignment: 183656 to 777672 (594015 bp)
+				Next Alignment: 777672 777743 k119_191732_flag_0_multi_10.7619_len_665 587 658
+
+			Align 3: 777672 777743 k119_191732_flag_0_multi_10.7619_len_665 587 658
+				Gap between this and next alignment: 777743 to 780587 (2843 bp)
+				Next Alignment: 780587 780653 k119_310556_flag_1_multi_31.1974_len_727 522 456
+
+			Align 4: 780587 780653 k119_310556_flag_1_multi_31.1974_len_727 522 456
+			END in gap: 780653 to 2978976 (2198323 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Psychrobacter_sp._PRwf-1/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 12114
+
+Ambiguously Mapped Contigs: 2
+Total Bases in Ambiguously Mapped Contigs: 1392
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 218
+
+	SNPs: 0
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 4
+		Internal Gaps: 0
+		External Gaps: 4
+		External Gap Total: 2978758
+		External Gap Average: 744690
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 1 (79)

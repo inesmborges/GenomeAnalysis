@@ -1,0 +1,373 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_KLH11_DS999532.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220443_genomic_scaffold__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_KLH11_DS999533.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220442_genomic_scaffold__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_KLH11_DS999534.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220446_genomic_scaffold__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_KLH11_DS999535.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220444_genomic_scaffold__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_KLH11_DS999536.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220447_genomic_scaffold__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 6
+	Total Region Length: 4487498
+Analyzing contigs...
+CONTIG: k119_140102_flag_1_multi_2.8731_len_1049 (1049bp)
+Best alignment score: 80.0 (LEN: 80, IDY: 100.00)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 969
+		This contig is partially unaligned. (Aligned 80 out of 1049 bases)
+		Alignment: 222738 222817 | 139 60 | 80 80 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_140102_flag_1_multi_2.8731_len_1049
+		Unaligned bases: 1 to 59 (59)
+		Unaligned bases: 140 to 1049 (910)
+
+CONTIG: k119_305483_flag_1_multi_5.0000_len_1699 (1699bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1621
+		This contig is partially unaligned. (Aligned 78 out of 1699 bases)
+		Alignment: 222741 222818 | 1539 1616 | 78 78 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_305483_flag_1_multi_5.0000_len_1699
+		Unaligned bases: 1 to 1538 (1538)
+		Unaligned bases: 1617 to 1699 (83)
+
+CONTIG: k119_113119_flag_1_multi_2.0000_len_504 (504bp)
+Best alignment score: 87.0 (LEN: 89, IDY: 97.75)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2932790 2932866 | 239 315 | 77 77 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_113119_flag_1_multi_2.0000_len_504
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 415
+		Alignment: 2932650 2932738 | 228 316 | 89 89 | 97.75 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_113119_flag_1_multi_2.0000_len_504
+
+CONTIG: k119_142890_flag_1_multi_2.0000_len_753 (753bp)
+Best alignment score: 75.0 (LEN: 77, IDY: 97.40)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 676
+		This contig is partially unaligned. (Aligned 77 out of 753 bases)
+		Alignment: 1124899 1124975 | 609 533 | 77 77 | 97.4 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_142890_flag_1_multi_2.0000_len_753
+		Unaligned bases: 1 to 532 (532)
+		Unaligned bases: 610 to 753 (144)
+
+CONTIG: k119_143681_flag_1_multi_5.7090_len_875 (875bp)
+Best alignment score: 495.0 (LEN: 516, IDY: 95.93)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1332583 1333098 | 875 360 | 516 516 | 95.93 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_143681_flag_1_multi_5.7090_len_875
+		Skipping redundant alignment 1581903 1582418 | 875 360 | 516 516 | 95.93 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_143681_flag_1_multi_5.7090_len_875
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 495.0, number of alignments: 1, unaligned bases: 359
+		Alignment: 503504 504019 | 360 875 | 516 516 | 95.93 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_143681_flag_1_multi_5.7090_len_875
+
+CONTIG: k119_365103_flag_1_multi_3.0000_len_726 (726bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 649
+		Alignment: 2768075 2768151 | 398 474 | 77 77 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_365103_flag_1_multi_3.0000_len_726
+
+CONTIG: k119_90765_flag_1_multi_8.0000_len_6166 (6166bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 6089
+		This contig is partially unaligned. (Aligned 77 out of 6166 bases)
+		Alignment: 124476 124552 | 5466 5542 | 77 77 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_90765_flag_1_multi_8.0000_len_6166
+		Unaligned bases: 1 to 5465 (5465)
+		Unaligned bases: 5543 to 6166 (624)
+
+CONTIG: k119_366279_flag_1_multi_5.0000_len_4653 (4653bp)
+Best alignment score: 69.0 (LEN: 69, IDY: 100.00)
+			The best set is below. Score: 69.0, number of alignments: 1, unaligned bases: 4584
+		This contig is partially unaligned. (Aligned 69 out of 4653 bases)
+		Alignment: 488529 488597 | 1544 1476 | 69 69 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_366279_flag_1_multi_5.0000_len_4653
+		Unaligned bases: 1 to 1475 (1475)
+		Unaligned bases: 1545 to 4653 (3109)
+
+CONTIG: k119_174235_flag_1_multi_5.0000_len_654 (654bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 575
+		This contig is partially unaligned. (Aligned 79 out of 654 bases)
+		Alignment: 2546179 2546257 | 518 596 | 79 79 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_174235_flag_1_multi_5.0000_len_654
+		Unaligned bases: 1 to 517 (517)
+		Unaligned bases: 597 to 654 (58)
+
+CONTIG: k119_312326_flag_1_multi_3.8300_len_2113 (2113bp)
+Best alignment score: 419.0 (LEN: 439, IDY: 95.44)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1327691 1328129 | 1675 2113 | 439 439 | 95.44 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_312326_flag_1_multi_3.8300_len_2113
+		Skipping redundant alignment 1577011 1577449 | 1675 2113 | 439 439 | 95.44 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_312326_flag_1_multi_3.8300_len_2113
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 419.0, number of alignments: 1, unaligned bases: 1674
+		This contig is partially unaligned. (Aligned 439 out of 2113 bases)
+		Alignment: 508473 508911 | 2113 1675 | 439 439 | 95.44 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_312326_flag_1_multi_3.8300_len_2113
+		Unaligned bases: 1 to 1674 (1674)
+
+CONTIG: k119_367536_flag_1_multi_4.0000_len_517 (517bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1328916 1328989 | 511 438 | 74 74 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_367536_flag_1_multi_4.0000_len_517
+		Skipping redundant alignment 1578236 1578309 | 511 438 | 74 74 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_367536_flag_1_multi_4.0000_len_517
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 443
+		Alignment: 507613 507686 | 438 511 | 74 74 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_367536_flag_1_multi_4.0000_len_517
+
+CONTIG: k119_93524_flag_1_multi_3.0000_len_688 (688bp)
+Best alignment score: 79.0 (LEN: 80, IDY: 98.75)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2675487 2675561 | 458 532 | 75 75 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_93524_flag_1_multi_3.0000_len_688
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 608
+		Alignment: 2675681 2675760 | 458 537 | 80 80 | 98.75 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_93524_flag_1_multi_3.0000_len_688
+
+CONTIG: k119_204385_flag_1_multi_3.0000_len_527 (527bp)
+Best alignment score: 91.0 (LEN: 91, IDY: 100.00)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 436
+		Alignment: 1298486 1298576 | 270 360 | 91 91 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_204385_flag_1_multi_3.0000_len_527
+
+CONTIG: k119_38400_flag_1_multi_4.0000_len_1298 (1298bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.80)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 1215
+		This contig is partially unaligned. (Aligned 83 out of 1298 bases)
+		Alignment: 222738 222820 | 1204 1122 | 83 83 | 98.8 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_38400_flag_1_multi_4.0000_len_1298
+		Unaligned bases: 1 to 1121 (1121)
+		Unaligned bases: 1205 to 1298 (94)
+
+CONTIG: k119_371905_flag_1_multi_2.0000_len_819 (819bp)
+Best alignment score: 84.0 (LEN: 86, IDY: 97.67)
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 733
+		This contig is partially unaligned. (Aligned 86 out of 819 bases)
+		Alignment: 1527367 1527452 | 819 734 | 86 86 | 97.67 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_371905_flag_1_multi_2.0000_len_819
+		Unaligned bases: 1 to 733 (733)
+
+CONTIG: k119_180054_flag_1_multi_3.0000_len_707 (707bp)
+Best alignment score: 94.0 (LEN: 94, IDY: 100.00)
+			The best set is below. Score: 94.0, number of alignments: 1, unaligned bases: 613
+		Alignment: 3123075 3123168 | 518 425 | 94 94 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_180054_flag_1_multi_3.0000_len_707
+
+CONTIG: k119_43960_flag_1_multi_4.3785_len_1382 (1382bp)
+Best alignment score: 229.0 (LEN: 232, IDY: 98.71)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1329132 1329212 | 907 828 | 81 80 | 98.77 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_43960_flag_1_multi_4.3785_len_1382
+		Skipping redundant alignment 1578452 1578532 | 907 828 | 81 80 | 98.77 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_43960_flag_1_multi_4.3785_len_1382
+		Skipping redundant alignment 1329378 1329458 | 1030 950 | 81 81 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_43960_flag_1_multi_4.3785_len_1382
+		Skipping redundant alignment 1578698 1578778 | 1030 950 | 81 81 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_43960_flag_1_multi_4.3785_len_1382
+		Skipping redundant alignment 1328767 1328998 | 1376 1145 | 232 232 | 98.71 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_43960_flag_1_multi_4.3785_len_1382
+		Skipping redundant alignment 1578087 1578318 | 1376 1145 | 232 232 | 98.71 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_43960_flag_1_multi_4.3785_len_1382
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 363.0, number of alignments: 3, unaligned bases: 989
+		This contig is misassembled. 9 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 1382 and total length of all aligns is 393
+		Alignment: 507390 507470 | 828 907 | 81 80 | 98.77 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_43960_flag_1_multi_4.3785_len_1382
+		Alignment: 507144 507224 | 950 1030 | 81 81 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_43960_flag_1_multi_4.3785_len_1382
+		Alignment: 507604 507835 | 1145 1376 | 232 232 | 98.71 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_43960_flag_1_multi_4.3785_len_1382
+		Unaligned bases: 989
+
+CONTIG: k119_266949_flag_1_multi_7.0889_len_895 (895bp)
+Best alignment score: 287.0 (LEN: 294, IDY: 97.62)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1332804 1333097 | 895 602 | 294 294 | 97.62 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_266949_flag_1_multi_7.0889_len_895
+		Skipping redundant alignment 1582124 1582417 | 895 602 | 294 294 | 97.62 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_266949_flag_1_multi_7.0889_len_895
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 287.0, number of alignments: 1, unaligned bases: 601
+		This contig is partially unaligned. (Aligned 294 out of 895 bases)
+		Alignment: 503505 503798 | 602 895 | 294 294 | 97.62 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_266949_flag_1_multi_7.0889_len_895
+		Unaligned bases: 1 to 601 (601)
+
+CONTIG: k119_102552_flag_1_multi_6.0000_len_1415 (1415bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1338
+		This contig is partially unaligned. (Aligned 77 out of 1415 bases)
+		Alignment: 2546179 2546255 | 1339 1415 | 77 77 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_102552_flag_1_multi_6.0000_len_1415
+		Unaligned bases: 1 to 1338 (1338)
+
+CONTIG: k119_75137_flag_1_multi_8.0000_len_6630 (6630bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 6551
+		This contig is partially unaligned. (Aligned 79 out of 6630 bases)
+		Alignment: 2546179 2546257 | 74 152 | 79 79 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_75137_flag_1_multi_8.0000_len_6630
+		Unaligned bases: 1 to 73 (73)
+		Unaligned bases: 153 to 6630 (6478)
+
+CONTIG: k119_48182_flag_1_multi_4.1703_len_1076 (1076bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1329132 1329207 | 738 663 | 76 76 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_48182_flag_1_multi_4.1703_len_1076
+		Skipping redundant alignment 1578452 1578527 | 738 663 | 76 76 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_48182_flag_1_multi_4.1703_len_1076
+		Skipping redundant alignment 1329380 1329457 | 832 755 | 78 78 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_48182_flag_1_multi_4.1703_len_1076
+		Skipping redundant alignment 1578700 1578777 | 832 755 | 78 78 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_48182_flag_1_multi_4.1703_len_1076
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 144.0, number of alignments: 2, unaligned bases: 922
+		This contig is misassembled. 6 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 1076 and total length of all aligns is 154
+		Alignment: 507395 507470 | 663 738 | 76 76 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_48182_flag_1_multi_4.1703_len_1076
+		Alignment: 507145 507222 | 755 832 | 78 78 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_48182_flag_1_multi_4.1703_len_1076
+		Unaligned bases: 922
+
+CONTIG: k119_434999_flag_1_multi_2.0000_len_500 (500bp)
+Best alignment score: 85.0 (LEN: 85, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2932789 2932866 | 71 148 | 78 78 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_434999_flag_1_multi_2.0000_len_500
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 415
+		Alignment: 2932657 2932741 | 68 152 | 85 85 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_434999_flag_1_multi_2.0000_len_500
+
+CONTIG: k119_270470_flag_1_multi_4.0000_len_1349 (1349bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1272
+		This contig is partially unaligned. (Aligned 77 out of 1349 bases)
+		Alignment: 1124899 1124975 | 1219 1295 | 77 77 | 100.0 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_270470_flag_1_multi_4.0000_len_1349
+		Unaligned bases: 1 to 1218 (1218)
+		Unaligned bases: 1296 to 1349 (54)
+
+CONTIG: k119_26680_flag_1_multi_7.7933_len_3945 (3945bp)
+Best alignment score: 81.0 (LEN: 83, IDY: 97.62)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 3862
+		This contig is partially unaligned. (Aligned 83 out of 3945 bases)
+		Alignment: 2297613 2297696 | 109 191 | 84 83 | 97.62 | Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence k119_26680_flag_1_multi_7.7933_len_3945
+		Unaligned bases: 1 to 108 (108)
+		Unaligned bases: 192 to 3945 (3754)
+
+CONTIG: k119_286602_flag_1_multi_7.2267_len_6651 (6651bp)
+Best alignment score: 87.0 (LEN: 88, IDY: 98.86)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 6563
+		This contig is partially unaligned. (Aligned 88 out of 6651 bases)
+		Alignment: 483545 483632 | 2750 2837 | 88 88 | 98.86 | Rhodobacteraceae_bacterium_KLH11_DS999532.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220443_genomic_scaffold__whole_genome_shotgun_sequence k119_286602_flag_1_multi_7.2267_len_6651
+		Unaligned bases: 1 to 2749 (2749)
+		Unaligned bases: 2838 to 6651 (3814)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Rhodobacteraceae_bacterium_KLH11/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Rhodobacteraceae_bacterium_KLH11_DS999532.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220443_genomic_scaffold__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 708450 (708450 bp)
+			START in gap: 1 to 483545 (483544 bp)
+			Align 1: 483545 483632 k119_286602_flag_1_multi_7.2267_len_6651 2750 2837
+			END in gap: 483632 to 708450 (224818 bp).
+
+WARNING: Reference Rhodobacteraceae_bacterium_KLH11_DS999533.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220442_genomic_scaffold__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_KLH11_DS999536.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220447_genomic_scaffold__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence: 27 total alignments. 1 total regions.
+		Region: 1 to 3124921 (3124921 bp)
+			START in gap: 1 to 124476 (124475 bp)
+			Align 1: 124476 124552 k119_90765_flag_1_multi_8.0000_len_6166 5466 5542
+				Gap between this and next alignment: 124552 to 222738 (98185 bp)
+				Next Alignment: 222738 222817 k119_140102_flag_1_multi_2.8731_len_1049 139 60
+
+			Align 2: 222738 222817 k119_140102_flag_1_multi_2.8731_len_1049 139 60
+				Negative gap (overlap) between this and next alignment: 222817 to 222738 (-79 bp)
+				Next Alignment: 222738 222820 k119_38400_flag_1_multi_4.0000_len_1298 1204 1122
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1204 to 1124.
+			Align 3: 222818 222820 k119_38400_flag_1_multi_4.0000_len_1298 1124 1122
+				The next alignment (222741 222818 k119_305483_flag_1_multi_5.0000_len_1699 1539 1616) is redundant. Skipping.
+				Gap between this and next alignment: 222820 to 488529 (265708 bp)
+				Next Alignment: 488529 488597 k119_366279_flag_1_multi_5.0000_len_4653 1544 1476
+
+			Align 5: 488529 488597 k119_366279_flag_1_multi_5.0000_len_4653 1544 1476
+				Gap between this and next alignment: 488597 to 503504 (14906 bp)
+				Next Alignment: 503504 504019 k119_143681_flag_1_multi_5.7090_len_875 360 875
+
+			Align 6: 503504 504019 k119_143681_flag_1_multi_5.7090_len_875 360 875
+				The next alignment (503505 503798 k119_266949_flag_1_multi_7.0889_len_895 602 895) is redundant. Skipping.
+				Gap between this and next alignment: 504019 to 507144 (3124 bp)
+				Next Alignment: 507144 507224 k119_43960_flag_1_multi_4.3785_len_1382 950 1030
+
+			Align 8: 507144 507224 k119_43960_flag_1_multi_4.3785_len_1382 950 1030
+				The next alignment (507145 507222 k119_48182_flag_1_multi_4.1703_len_1076 755 832) is redundant. Skipping.
+				Gap between this and next alignment: 507224 to 507390 (165 bp)
+				Next Alignment: 507390 507470 k119_43960_flag_1_multi_4.3785_len_1382 828 907
+
+			Align 10: 507390 507470 k119_43960_flag_1_multi_4.3785_len_1382 828 907
+				The next alignment (507395 507470 k119_48182_flag_1_multi_4.1703_len_1076 663 738) is redundant. Skipping.
+				Gap between this and next alignment: 507470 to 507604 (133 bp)
+				Next Alignment: 507604 507835 k119_43960_flag_1_multi_4.3785_len_1382 1145 1376
+
+			Align 12: 507604 507835 k119_43960_flag_1_multi_4.3785_len_1382 1145 1376
+				The next alignment (507613 507686 k119_367536_flag_1_multi_4.0000_len_517 438 511) is redundant. Skipping.
+				Gap between this and next alignment: 507835 to 508473 (637 bp)
+				Next Alignment: 508473 508911 k119_312326_flag_1_multi_3.8300_len_2113 2113 1675
+
+			Align 14: 508473 508911 k119_312326_flag_1_multi_3.8300_len_2113 2113 1675
+				Gap between this and next alignment: 508911 to 1124899 (615987 bp)
+				Next Alignment: 1124899 1124975 k119_142890_flag_1_multi_2.0000_len_753 609 533
+
+			Align 15: 1124899 1124975 k119_142890_flag_1_multi_2.0000_len_753 609 533
+				The next alignment (1124899 1124975 k119_270470_flag_1_multi_4.0000_len_1349 1219 1295) is redundant. Skipping.
+				Gap between this and next alignment: 1124975 to 1298486 (173510 bp)
+				Next Alignment: 1298486 1298576 k119_204385_flag_1_multi_3.0000_len_527 270 360
+
+			Align 17: 1298486 1298576 k119_204385_flag_1_multi_3.0000_len_527 270 360
+				Gap between this and next alignment: 1298576 to 1527367 (228790 bp)
+				Next Alignment: 1527367 1527452 k119_371905_flag_1_multi_2.0000_len_819 819 734
+
+			Align 18: 1527367 1527452 k119_371905_flag_1_multi_2.0000_len_819 819 734
+				Gap between this and next alignment: 1527452 to 2297613 (770160 bp)
+				Next Alignment: 2297613 2297696 k119_26680_flag_1_multi_7.7933_len_3945 109 191
+
+			Align 19: 2297613 2297696 k119_26680_flag_1_multi_7.7933_len_3945 109 191
+				Gap between this and next alignment: 2297696 to 2546179 (248482 bp)
+				Next Alignment: 2546179 2546257 k119_174235_flag_1_multi_5.0000_len_654 518 596
+
+			Align 20: 2546179 2546257 k119_174235_flag_1_multi_5.0000_len_654 518 596
+				The next alignment (2546179 2546255 k119_102552_flag_1_multi_6.0000_len_1415 1339 1415) is redundant. Skipping.
+				The next alignment (2546179 2546257 k119_75137_flag_1_multi_8.0000_len_6630 74 152) is redundant. Skipping.
+				Gap between this and next alignment: 2546257 to 2675681 (129423 bp)
+				Next Alignment: 2675681 2675760 k119_93524_flag_1_multi_3.0000_len_688 458 537
+
+			Align 23: 2675681 2675760 k119_93524_flag_1_multi_3.0000_len_688 458 537
+				Gap between this and next alignment: 2675760 to 2768075 (92314 bp)
+				Next Alignment: 2768075 2768151 k119_365103_flag_1_multi_3.0000_len_726 398 474
+
+			Align 24: 2768075 2768151 k119_365103_flag_1_multi_3.0000_len_726 398 474
+				Gap between this and next alignment: 2768151 to 2932650 (164498 bp)
+				Next Alignment: 2932650 2932738 k119_113119_flag_1_multi_2.0000_len_504 228 316
+
+			Align 25: 2932650 2932738 k119_113119_flag_1_multi_2.0000_len_504 228 316
+				Negative gap (overlap) between this and next alignment: 2932738 to 2932657 (-81 bp)
+				Next Alignment: 2932657 2932741 k119_434999_flag_1_multi_2.0000_len_500 68 152
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 68 to 150.
+			Align 26: 2932739 2932741 k119_434999_flag_1_multi_2.0000_len_500 150 152
+				Gap between this and next alignment: 2932741 to 3123075 (190333 bp)
+				Next Alignment: 3123075 3123168 k119_180054_flag_1_multi_3.0000_len_707 518 425
+
+			Align 27: 3123075 3123168 k119_180054_flag_1_multi_3.0000_len_707 518 425
+			END in gap: 3123168 to 3124921 (1753 bp).
+
+WARNING: Reference Rhodobacteraceae_bacterium_KLH11_DS999534.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220446_genomic_scaffold__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_KLH11_DS999535.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220444_genomic_scaffold__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/runs_per_reference/Rhodobacteraceae_bacterium_KLH11/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 17 part
+Half Unaligned Contigs with Misassemblies: 2
+Unaligned Contig Bases: 40234
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 6858
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2426
+
+	SNPs: 53
+	Insertions: 0
+	Deletions: 2
+
+	Positive Gaps: 20
+		Internal Gaps: 2
+		External Gaps: 18
+		External Gap Total: 3830647
+		External Gap Average: 212814
+	Negative Gaps: 2
+		Internal Overlaps: 0
+		External Overlaps: 2
+		External Overlaps Total: -160
+		External Overlaps Average: -80
+	Contigs with Redundant Alignments: 5 (833)

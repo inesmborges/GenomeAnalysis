@@ -1,0 +1,468 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000007.1_Sulfitobacter_sp._NAS-14.1_1099451320460__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000011.1_Sulfitobacter_sp._NAS-14.1_1099451320457__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000017.1_Sulfitobacter_sp._NAS-14.1_1099451320455__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000021.1_Sulfitobacter_sp._NAS-14.1_1099451320444__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_CH959313.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320476__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_CH959314.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320475__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_CH959315.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320470__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_CH959316.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320473__whole_genome_shotgun_sequence]
+	Loaded [Sulfitobacter_sp._NAS-14.1_NZ_CH959317.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320472__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 11
+	Total Region Length: 4010516
+Analyzing contigs...
+CONTIG: k119_284642_flag_1_multi_5.7156_len_1318 (1318bp)
+Best alignment score: 162.0 (LEN: 170, IDY: 95.32)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 203171 203248 | 427 504 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318
+		Skipping redundant alignment 1107595 1107672 | 504 427 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318
+		Skipping redundant alignment 1569535 1569612 | 427 504 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318
+		Skipping redundant alignment 203815 203985 | 1149 1318 | 171 170 | 95.32 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318
+		Skipping redundant alignment 1106858 1107028 | 1318 1149 | 171 170 | 95.32 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318
+		Skipping redundant alignment 1570179 1570349 | 1149 1318 | 171 170 | 95.32 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 240.0, number of alignments: 2, unaligned bases: 1070
+		This contig is misassembled. 8 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 1318 and total length of all aligns is 248
+		Alignment: 2270 2347 | 427 504 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318
+		Alignment: 2914 3084 | 1149 1318 | 171 170 | 95.32 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_284642_flag_1_multi_5.7156_len_1318
+		Unaligned bases: 1070
+
+CONTIG: k119_186614_flag_1_multi_7.0000_len_13783 (13783bp)
+Best alignment score: 82.0 (LEN: 82, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1103633 1103712 | 816 895 | 80 80 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_186614_flag_1_multi_7.0000_len_13783
+		Skipping redundant alignment 1573495 1573574 | 895 816 | 80 80 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_186614_flag_1_multi_7.0000_len_13783
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 13701
+		This contig is partially unaligned. (Aligned 82 out of 13783 bases)
+		Alignment: 6230 6311 | 895 814 | 82 82 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_186614_flag_1_multi_7.0000_len_13783
+		Unaligned bases: 1 to 813 (813)
+		Unaligned bases: 896 to 13783 (12888)
+
+CONTIG: k119_286664_flag_1_multi_4.0578_len_1054 (1054bp)
+Best alignment score: 80.0 (LEN: 80, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1569359 1569435 | 456 380 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054
+		Skipping redundant alignment 2094 2170 | 456 380 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054
+		Skipping redundant alignment 202995 203071 | 456 380 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054
+		Skipping redundant alignment 1569534 1569613 | 646 567 | 80 80 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054
+		Skipping redundant alignment 2269 2348 | 646 567 | 80 80 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054
+		Skipping redundant alignment 203170 203249 | 646 567 | 80 80 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 147.0, number of alignments: 2, unaligned bases: 897
+		This contig is misassembled. 8 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 1054 and total length of all aligns is 157
+		Alignment: 1107772 1107848 | 380 456 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054
+		Alignment: 1107594 1107673 | 567 646 | 80 80 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_286664_flag_1_multi_4.0578_len_1054
+		Unaligned bases: 897
+
+CONTIG: k119_336088_flag_1_multi_2.7350_len_602 (602bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1569359 1569435 | 431 355 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_336088_flag_1_multi_2.7350_len_602
+		Skipping redundant alignment 2094 2170 | 431 355 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_336088_flag_1_multi_2.7350_len_602
+		Skipping redundant alignment 202995 203071 | 431 355 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_336088_flag_1_multi_2.7350_len_602
+		Skipping redundant alignment 1569534 1569612 | 552 474 | 79 79 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_336088_flag_1_multi_2.7350_len_602
+		Skipping redundant alignment 2269 2347 | 552 474 | 79 79 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_336088_flag_1_multi_2.7350_len_602
+		Skipping redundant alignment 203170 203248 | 552 474 | 79 79 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_336088_flag_1_multi_2.7350_len_602
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 151.0, number of alignments: 2, unaligned bases: 446
+		This contig is misassembled. 8 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 602 and total length of all aligns is 156
+		Alignment: 1107772 1107848 | 355 431 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_336088_flag_1_multi_2.7350_len_602
+		Alignment: 1107595 1107673 | 474 552 | 79 79 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_336088_flag_1_multi_2.7350_len_602
+		Unaligned bases: 446
+
+CONTIG: k119_262934_flag_1_multi_4.1954_len_636 (636bp)
+Best alignment score: 78.0 (LEN: 80, IDY: 97.50)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1569542 1569621 | 532 453 | 80 80 | 97.5 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_262934_flag_1_multi_4.1954_len_636
+		Skipping redundant alignment 2277 2356 | 532 453 | 80 80 | 97.5 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_262934_flag_1_multi_4.1954_len_636
+		Skipping redundant alignment 203178 203257 | 532 453 | 80 80 | 97.5 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_262934_flag_1_multi_4.1954_len_636
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 556
+		Alignment: 1107586 1107665 | 453 532 | 80 80 | 97.5 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_262934_flag_1_multi_4.1954_len_636
+
+CONTIG: k119_67489_flag_1_multi_1.7036_len_588 (588bp)
+Best alignment score: 273.0 (LEN: 286, IDY: 95.45)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1569360 1569436 | 157 81 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588
+		Skipping redundant alignment 2095 2171 | 157 81 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588
+		Skipping redundant alignment 202996 203072 | 157 81 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588
+		Skipping redundant alignment 1568843 1569128 | 588 303 | 286 286 | 95.45 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588
+		Skipping redundant alignment 1578 1863 | 588 303 | 286 286 | 95.45 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588
+		Skipping redundant alignment 202479 202764 | 588 303 | 286 286 | 95.45 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 345.0, number of alignments: 2, unaligned bases: 225
+		This contig is misassembled. 8 total aligns.
+			Real Alignment 1: 1107771 1107847 | 81 157 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588
+			  Gap between these two alignments (local misassembly). Inconsistency = 86
+			Real Alignment 2: 1108079 1108364 | 303 588 | 286 286 | 95.45 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_67489_flag_1_multi_1.7036_len_588
+
+CONTIG: k119_219313_flag_1_multi_3.0721_len_646 (646bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1569535 1569612 | 234 157 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_219313_flag_1_multi_3.0721_len_646
+		Skipping redundant alignment 2270 2347 | 234 157 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_219313_flag_1_multi_3.0721_len_646
+		Skipping redundant alignment 203171 203248 | 234 157 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_219313_flag_1_multi_3.0721_len_646
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 568
+		Alignment: 1107595 1107672 | 157 234 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_219313_flag_1_multi_3.0721_len_646
+
+CONTIG: k119_50463_flag_1_multi_3.0000_len_1623 (1623bp)
+Best alignment score: 77.0 (LEN: 78, IDY: 98.72)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1545
+		This contig is partially unaligned. (Aligned 78 out of 1623 bases)
+		Alignment: 1627221 1627298 | 742 665 | 78 78 | 98.72 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_50463_flag_1_multi_3.0000_len_1623
+		Unaligned bases: 1 to 664 (664)
+		Unaligned bases: 743 to 1623 (881)
+
+CONTIG: k119_26759_flag_1_multi_3.0000_len_524 (524bp)
+Best alignment score: 68.0 (LEN: 68, IDY: 100.00)
+			The best set is below. Score: 68.0, number of alignments: 1, unaligned bases: 456
+		Alignment: 1118786 1118853 | 1 68 | 68 68 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_26759_flag_1_multi_3.0000_len_524
+
+CONTIG: k119_199213_flag_1_multi_5.0000_len_761 (761bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 682
+		This contig is partially unaligned. (Aligned 79 out of 761 bases)
+		Alignment: 2831813 2831891 | 1 79 | 79 79 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_199213_flag_1_multi_5.0000_len_761
+		Unaligned bases: 80 to 761 (682)
+
+CONTIG: k119_322671_flag_1_multi_3.0000_len_700 (700bp)
+Best alignment score: 81.0 (LEN: 81, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 6232 6309 | 297 374 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence k119_322671_flag_1_multi_3.0000_len_700
+		Skipping redundant alignment 1573497 1573577 | 297 377 | 81 81 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_322671_flag_1_multi_3.0000_len_700
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 619
+		Alignment: 1103630 1103710 | 377 297 | 81 81 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_322671_flag_1_multi_3.0000_len_700
+
+CONTIG: k119_325704_flag_1_multi_4.0000_len_1998 (1998bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1921
+		This contig is partially unaligned. (Aligned 77 out of 1998 bases)
+		Alignment: 575837 575913 | 77 1 | 77 77 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_325704_flag_1_multi_4.0000_len_1998
+		Unaligned bases: 78 to 1998 (1921)
+
+CONTIG: k119_80111_flag_1_multi_6.6646_len_5324 (5324bp)
+Best alignment score: 82.0 (LEN: 82, IDY: 100.00)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 5242
+		This contig is partially unaligned. (Aligned 82 out of 5324 bases)
+		Alignment: 2228461 2228542 | 1663 1582 | 82 82 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_80111_flag_1_multi_6.6646_len_5324
+		Unaligned bases: 1 to 1581 (1581)
+		Unaligned bases: 1664 to 5324 (3661)
+
+CONTIG: k119_351297_flag_1_multi_2.5766_len_889 (889bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 813
+		This contig is partially unaligned. (Aligned 76 out of 889 bases)
+		Alignment: 2691343 2691418 | 189 264 | 76 76 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_351297_flag_1_multi_2.5766_len_889
+		Unaligned bases: 1 to 188 (188)
+		Unaligned bases: 265 to 889 (625)
+
+CONTIG: k119_351478_flag_1_multi_6.0000_len_2097 (2097bp)
+Best alignment score: 76.0 (LEN: 77, IDY: 98.70)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 2020
+		This contig is partially unaligned. (Aligned 77 out of 2097 bases)
+		Alignment: 2054388 2054464 | 223 147 | 77 77 | 98.7 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_351478_flag_1_multi_6.0000_len_2097
+		Unaligned bases: 1 to 146 (146)
+		Unaligned bases: 224 to 2097 (1874)
+
+CONTIG: k119_301974_flag_1_multi_3.0000_len_603 (603bp)
+Best alignment score: 83.0 (LEN: 85, IDY: 97.65)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 518
+		Alignment: 142617 142701 | 256 340 | 85 85 | 97.65 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_301974_flag_1_multi_3.0000_len_603
+
+CONTIG: k119_228661_flag_1_multi_6.0000_len_3166 (3166bp)
+Best alignment score: 106.0 (LEN: 107, IDY: 99.07)
+			The best set is below. Score: 106.0, number of alignments: 1, unaligned bases: 3059
+		This contig is partially unaligned. (Aligned 107 out of 3166 bases)
+		Alignment: 1951050 1951156 | 151 257 | 107 107 | 99.07 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_228661_flag_1_multi_6.0000_len_3166
+		Unaligned bases: 1 to 150 (150)
+		Unaligned bases: 258 to 3166 (2909)
+
+CONTIG: k119_32051_flag_1_multi_5.0000_len_987 (987bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 908
+		This contig is partially unaligned. (Aligned 79 out of 987 bases)
+		Alignment: 2831813 2831891 | 845 923 | 79 79 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_32051_flag_1_multi_5.0000_len_987
+		Unaligned bases: 1 to 844 (844)
+		Unaligned bases: 924 to 987 (64)
+
+CONTIG: k119_32586_flag_1_multi_4.0000_len_729 (729bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 651
+		Alignment: 1627221 1627298 | 353 430 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_32586_flag_1_multi_4.0000_len_729
+
+CONTIG: k119_131442_flag_1_multi_5.0000_len_3188 (3188bp)
+Best alignment score: 87.0 (LEN: 87, IDY: 100.00)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 3101
+		This contig is partially unaligned. (Aligned 87 out of 3188 bases)
+		Alignment: 575837 575923 | 643 729 | 87 87 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_131442_flag_1_multi_5.0000_len_3188
+		Unaligned bases: 1 to 642 (642)
+		Unaligned bases: 730 to 3188 (2459)
+
+CONTIG: k119_255797_flag_1_multi_6.0000_len_2686 (2686bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 2610
+		This contig is partially unaligned. (Aligned 76 out of 2686 bases)
+		Alignment: 2691343 2691418 | 2488 2563 | 76 76 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_255797_flag_1_multi_6.0000_len_2686
+		Unaligned bases: 1 to 2487 (2487)
+		Unaligned bases: 2564 to 2686 (123)
+
+CONTIG: k119_355446_flag_1_multi_4.0000_len_827 (827bp)
+Best alignment score: 81.0 (LEN: 81, IDY: 100.00)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 746
+		Alignment: 237668 237748 | 440 360 | 81 81 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_355446_flag_1_multi_4.0000_len_827
+
+CONTIG: k119_330090_flag_1_multi_8.0000_len_8043 (8043bp)
+Best alignment score: 93.0 (LEN: 93, IDY: 100.00)
+			The best set is below. Score: 93.0, number of alignments: 1, unaligned bases: 7950
+		This contig is partially unaligned. (Aligned 93 out of 8043 bases)
+		Alignment: 142615 142707 | 7992 7900 | 93 93 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_330090_flag_1_multi_8.0000_len_8043
+		Unaligned bases: 1 to 7899 (7899)
+		Unaligned bases: 7993 to 8043 (51)
+
+CONTIG: k119_182500_flag_1_multi_4.5801_len_5565 (5565bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 5487
+		This contig is partially unaligned. (Aligned 78 out of 5565 bases)
+		Alignment: 2691341 2691418 | 3162 3239 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_182500_flag_1_multi_4.5801_len_5565
+		Unaligned bases: 1 to 3161 (3161)
+		Unaligned bases: 3240 to 5565 (2326)
+
+CONTIG: k119_306393_flag_1_multi_4.0000_len_906 (906bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 830
+		This contig is partially unaligned. (Aligned 76 out of 906 bases)
+		Alignment: 2054389 2054464 | 1 76 | 76 76 | 98.68 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_306393_flag_1_multi_4.0000_len_906
+		Unaligned bases: 77 to 906 (830)
+
+CONTIG: k119_333952_flag_1_multi_7.0000_len_11231 (11231bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 11153
+		This contig is partially unaligned. (Aligned 78 out of 11231 bases)
+		Alignment: 237670 237747 | 11113 11190 | 78 78 | 100.0 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_333952_flag_1_multi_7.0000_len_11231
+		Unaligned bases: 1 to 11112 (11112)
+		Unaligned bases: 11191 to 11231 (41)
+
+CONTIG: k119_362767_flag_1_multi_6.0000_len_4401 (4401bp)
+Best alignment score: 92.0 (LEN: 96, IDY: 95.83)
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 4305
+		This contig is partially unaligned. (Aligned 96 out of 4401 bases)
+		Alignment: 2691342 2691436 | 2895 2800 | 95 96 | 95.83 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_362767_flag_1_multi_6.0000_len_4401
+		Unaligned bases: 1 to 2799 (2799)
+		Unaligned bases: 2896 to 4401 (1506)
+
+CONTIG: k119_290873_flag_1_multi_4.0000_len_884 (884bp)
+Best alignment score: 90.0 (LEN: 91, IDY: 98.90)
+			The best set is below. Score: 90.0, number of alignments: 1, unaligned bases: 793
+		This contig is partially unaligned. (Aligned 91 out of 884 bases)
+		Alignment: 2960838 2960928 | 709 799 | 91 91 | 98.9 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_290873_flag_1_multi_4.0000_len_884
+		Unaligned bases: 1 to 708 (708)
+		Unaligned bases: 800 to 884 (85)
+
+CONTIG: k119_316210_flag_1_multi_4.0000_len_1651 (1651bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1576
+		This contig is partially unaligned. (Aligned 75 out of 1651 bases)
+		Alignment: 2054388 2054462 | 1577 1651 | 75 75 | 98.67 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_316210_flag_1_multi_4.0000_len_1651
+		Unaligned bases: 1 to 1576 (1576)
+
+CONTIG: k119_97396_flag_1_multi_5.0000_len_2880 (2880bp)
+Best alignment score: 88.0 (LEN: 91, IDY: 96.70)
+			The best set is below. Score: 88.0, number of alignments: 1, unaligned bases: 2789
+		This contig is partially unaligned. (Aligned 91 out of 2880 bases)
+		Alignment: 2960838 2960928 | 2712 2802 | 91 91 | 96.7 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_97396_flag_1_multi_5.0000_len_2880
+		Unaligned bases: 1 to 2711 (2711)
+		Unaligned bases: 2803 to 2880 (78)
+
+CONTIG: k119_195746_flag_1_multi_8.0000_len_1415 (1415bp)
+Best alignment score: 84.0 (LEN: 85, IDY: 98.82)
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 1330
+		This contig is partially unaligned. (Aligned 85 out of 1415 bases)
+		Alignment: 2961135 2961219 | 1359 1275 | 85 85 | 98.82 | Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence k119_195746_flag_1_multi_8.0000_len_1415
+		Unaligned bases: 1 to 1274 (1274)
+		Unaligned bases: 1360 to 1415 (56)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Sulfitobacter_sp._NAS-14.1/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Sulfitobacter_sp._NAS-14.1_NZ_CH959314.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320475__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000021.1_Sulfitobacter_sp._NAS-14.1_1099451320444__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000011.1_Sulfitobacter_sp._NAS-14.1_1099451320457__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 207158 (207158 bp)
+			START in gap: 1 to 2270 (2269 bp)
+			Align 1: 2270 2347 k119_284642_flag_1_multi_5.7156_len_1318 427 504
+				Gap between this and next alignment: 2347 to 2914 (566 bp)
+				Next Alignment: 2914 3084 k119_284642_flag_1_multi_5.7156_len_1318 1149 1318
+
+			Align 2: 2914 3084 k119_284642_flag_1_multi_5.7156_len_1318 1149 1318
+				Gap between this and next alignment: 3084 to 6230 (3145 bp)
+				Next Alignment: 6230 6311 k119_186614_flag_1_multi_7.0000_len_13783 895 814
+
+			Align 3: 6230 6311 k119_186614_flag_1_multi_7.0000_len_13783 895 814
+			END in gap: 6311 to 207158 (200847 bp).
+
+WARNING: Reference Sulfitobacter_sp._NAS-14.1_NZ_CH959313.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320476__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence: 32 total alignments. 1 total regions.
+		Region: 1 to 3045708 (3045708 bp)
+			START in gap: 1 to 142615 (142614 bp)
+			Align 1: 142615 142707 k119_330090_flag_1_multi_8.0000_len_8043 7992 7900
+				The next alignment (142617 142701 k119_301974_flag_1_multi_3.0000_len_603 256 340) is redundant. Skipping.
+				Gap between this and next alignment: 142707 to 237668 (94960 bp)
+				Next Alignment: 237668 237748 k119_355446_flag_1_multi_4.0000_len_827 440 360
+
+			Align 3: 237668 237748 k119_355446_flag_1_multi_4.0000_len_827 440 360
+				The next alignment (237670 237747 k119_333952_flag_1_multi_7.0000_len_11231 11113 11190) is redundant. Skipping.
+				Gap between this and next alignment: 237748 to 575837 (338088 bp)
+				Next Alignment: 575837 575913 k119_325704_flag_1_multi_4.0000_len_1998 77 1
+
+			Align 5: 575837 575913 k119_325704_flag_1_multi_4.0000_len_1998 77 1
+				Negative gap (overlap) between this and next alignment: 575913 to 575837 (-76 bp)
+				Next Alignment: 575837 575923 k119_131442_flag_1_multi_5.0000_len_3188 643 729
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 643 to 720.
+			Align 6: 575914 575923 k119_131442_flag_1_multi_5.0000_len_3188 720 729
+				Gap between this and next alignment: 575923 to 1103630 (527706 bp)
+				Next Alignment: 1103630 1103710 k119_322671_flag_1_multi_3.0000_len_700 377 297
+
+			Align 7: 1103630 1103710 k119_322671_flag_1_multi_3.0000_len_700 377 297
+				Gap between this and next alignment: 1103710 to 1107586 (3875 bp)
+				Next Alignment: 1107586 1107665 k119_262934_flag_1_multi_4.1954_len_636 453 532
+
+			Align 8: 1107586 1107665 k119_262934_flag_1_multi_4.1954_len_636 453 532
+				Negative gap (overlap) between this and next alignment: 1107665 to 1107594 (-71 bp)
+				Next Alignment: 1107594 1107673 k119_286664_flag_1_multi_4.0578_len_1054 567 646
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 567 to 639.
+			Align 9: 1107666 1107673 k119_286664_flag_1_multi_4.0578_len_1054 639 646
+				The next alignment (1107595 1107673 k119_336088_flag_1_multi_2.7350_len_602 474 552) is redundant. Skipping.
+				The next alignment (1107595 1107672 k119_219313_flag_1_multi_3.0721_len_646 157 234) is redundant. Skipping.
+				Gap between this and next alignment: 1107673 to 1107771 (97 bp)
+				Next Alignment: 1107771 1107847 k119_67489_flag_1_multi_1.7036_len_588 81 157
+
+			Align 12: 1107771 1107847 k119_67489_flag_1_multi_1.7036_len_588 81 157
+				Negative gap (overlap) between this and next alignment: 1107847 to 1107772 (-75 bp)
+				Next Alignment: 1107772 1107848 k119_286664_flag_1_multi_4.0578_len_1054 380 456
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 380 to 456.
+			Align 13: 1107848 1107848 k119_286664_flag_1_multi_4.0578_len_1054 456 456
+				The next alignment (1107772 1107848 k119_336088_flag_1_multi_2.7350_len_602 355 431) is redundant. Skipping.
+				Gap between this and next alignment: 1107848 to 1108079 (230 bp)
+				Next Alignment: 1108079 1108364 k119_67489_flag_1_multi_1.7036_len_588 303 588
+
+			Align 15: 1108079 1108364 k119_67489_flag_1_multi_1.7036_len_588 303 588
+				Gap between this and next alignment: 1108364 to 1118786 (10421 bp)
+				Next Alignment: 1118786 1118853 k119_26759_flag_1_multi_3.0000_len_524 1 68
+
+			Align 16: 1118786 1118853 k119_26759_flag_1_multi_3.0000_len_524 1 68
+				Gap between this and next alignment: 1118853 to 1627221 (508367 bp)
+				Next Alignment: 1627221 1627298 k119_50463_flag_1_multi_3.0000_len_1623 742 665
+
+			Align 17: 1627221 1627298 k119_50463_flag_1_multi_3.0000_len_1623 742 665
+				The next alignment (1627221 1627298 k119_32586_flag_1_multi_4.0000_len_729 353 430) is redundant. Skipping.
+				Gap between this and next alignment: 1627298 to 1951050 (323751 bp)
+				Next Alignment: 1951050 1951156 k119_228661_flag_1_multi_6.0000_len_3166 151 257
+
+			Align 19: 1951050 1951156 k119_228661_flag_1_multi_6.0000_len_3166 151 257
+				Gap between this and next alignment: 1951156 to 2054388 (103231 bp)
+				Next Alignment: 2054388 2054464 k119_351478_flag_1_multi_6.0000_len_2097 223 147
+
+			Align 20: 2054388 2054464 k119_351478_flag_1_multi_6.0000_len_2097 223 147
+				The next alignment (2054388 2054462 k119_316210_flag_1_multi_4.0000_len_1651 1577 1651) is redundant. Skipping.
+				The next alignment (2054389 2054464 k119_306393_flag_1_multi_4.0000_len_906 1 76) is redundant. Skipping.
+				Gap between this and next alignment: 2054464 to 2228461 (173996 bp)
+				Next Alignment: 2228461 2228542 k119_80111_flag_1_multi_6.6646_len_5324 1663 1582
+
+			Align 23: 2228461 2228542 k119_80111_flag_1_multi_6.6646_len_5324 1663 1582
+				Gap between this and next alignment: 2228542 to 2691341 (462798 bp)
+				Next Alignment: 2691341 2691418 k119_182500_flag_1_multi_4.5801_len_5565 3162 3239
+
+			Align 24: 2691341 2691418 k119_182500_flag_1_multi_4.5801_len_5565 3162 3239
+				Negative gap (overlap) between this and next alignment: 2691418 to 2691342 (-76 bp)
+				Next Alignment: 2691342 2691436 k119_362767_flag_1_multi_6.0000_len_4401 2895 2800
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 2895 to 2818.
+			Align 25: 2691419 2691436 k119_362767_flag_1_multi_6.0000_len_4401 2818 2800
+				The next alignment (2691343 2691418 k119_351297_flag_1_multi_2.5766_len_889 189 264) is redundant. Skipping.
+				The next alignment (2691343 2691418 k119_255797_flag_1_multi_6.0000_len_2686 2488 2563) is redundant. Skipping.
+				Gap between this and next alignment: 2691436 to 2831813 (140376 bp)
+				Next Alignment: 2831813 2831891 k119_199213_flag_1_multi_5.0000_len_761 1 79
+
+			Align 28: 2831813 2831891 k119_199213_flag_1_multi_5.0000_len_761 1 79
+				The next alignment (2831813 2831891 k119_32051_flag_1_multi_5.0000_len_987 845 923) is redundant. Skipping.
+				Gap between this and next alignment: 2831891 to 2960838 (128946 bp)
+				Next Alignment: 2960838 2960928 k119_290873_flag_1_multi_4.0000_len_884 709 799
+
+			Align 30: 2960838 2960928 k119_290873_flag_1_multi_4.0000_len_884 709 799
+				The next alignment (2960838 2960928 k119_97396_flag_1_multi_5.0000_len_2880 2712 2802) is redundant. Skipping.
+				Gap between this and next alignment: 2960928 to 2961135 (206 bp)
+				Next Alignment: 2961135 2961219 k119_195746_flag_1_multi_8.0000_len_1415 1359 1275
+
+			Align 32: 2961135 2961219 k119_195746_flag_1_multi_8.0000_len_1415 1359 1275
+			END in gap: 2961219 to 3045708 (84489 bp).
+
+WARNING: Reference Sulfitobacter_sp._NAS-14.1_NZ_CH959316.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320473__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000007.1_Sulfitobacter_sp._NAS-14.1_1099451320460__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Sulfitobacter_sp._NAS-14.1_NZ_CH959317.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320472__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Sulfitobacter_sp._NAS-14.1_NZ_CH959315.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320470__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000017.1_Sulfitobacter_sp._NAS-14.1_1099451320455__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Sulfitobacter_sp._NAS-14.1/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 21 part
+Half Unaligned Contigs with Misassemblies: 3
+Unaligned Contig Bases: 72885
+
+Ambiguously Mapped Contigs: 7
+Total Bases in Ambiguously Mapped Contigs: 5544
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1888
+
+	SNPs: 30
+	Insertions: 1
+	Deletions: 1
+
+	Positive Gaps: 21
+		Internal Gaps: 1
+		External Gaps: 20
+		External Gap Total: 3250412
+		External Gap Average: 162521
+	Negative Gaps: 4
+		Internal Overlaps: 0
+		External Overlaps: 4
+		External Overlaps Total: -298
+		External Overlaps Average: -74
+	Contigs with Redundant Alignments: 8 (948)

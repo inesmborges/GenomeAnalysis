@@ -1,0 +1,6 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+59836 59930 | 1199 1293 | 95 95 | 96.84 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_174128_flag_1_multi_6.4023_len_1342
+226157 226234 | 253 176 | 78 78 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_53104_flag_1_multi_3.6838_len_821
+59837 59930 | 3315 3408 | 94 94 | 96.81 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_333450_flag_0_multi_33.4722_len_3433
+226156 226234 | 182 260 | 79 79 | 100.0 | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_171327_flag_1_multi_1.7416_len_684

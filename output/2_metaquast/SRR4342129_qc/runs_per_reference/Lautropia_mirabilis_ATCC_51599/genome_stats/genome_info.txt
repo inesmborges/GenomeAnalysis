@@ -1,0 +1,21 @@
+reference chromosomes:
+	Lautropia_mirabilis_ATCC_51599_NZ_GL636066.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD5__whole_genome_shotgun_sequence (total length: 949 bp, maximal covered length: 0 bp)
+	Lautropia_mirabilis_ATCC_51599_NZ_GL636064.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD3__whole_genome_shotgun_sequence (total length: 1729 bp, maximal covered length: 0 bp)
+	Lautropia_mirabilis_ATCC_51599_NZ_GL636062.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD1__whole_genome_shotgun_sequence (total length: 3142220 bp, maximal covered length: 0 bp)
+	Lautropia_mirabilis_ATCC_51599_NZ_GL636065.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD4__whole_genome_shotgun_sequence (total length: 1225 bp, maximal covered length: 0 bp)
+	Lautropia_mirabilis_ATCC_51599_NZ_GL636063.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD2__whole_genome_shotgun_sequence (total length: 3392 bp, maximal covered length: 77 bp)
+	Lautropia_mirabilis_ATCC_51599_NZ_GL636068.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD7__whole_genome_shotgun_sequence (total length: 769 bp, maximal covered length: 0 bp)
+	Lautropia_mirabilis_ATCC_51599_NZ_GL636069.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD8__whole_genome_shotgun_sequence (total length: 732 bp, maximal covered length: 0 bp)
+	Lautropia_mirabilis_ATCC_51599_NZ_GL636067.1_Lautropia_mirabilis_ATCC_51599_SCAFFOLD6__whole_genome_shotgun_sequence (total length: 909 bp, maximal covered length: 0 bp)
+
+total genome size: 3151925
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Lautrop | 0.00244%  | 1.00000     | 9         | -         | -         | -         | -         |

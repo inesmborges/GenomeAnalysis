@@ -1,0 +1,24 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  226156   226234  |      182      260  |       79       79  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_171327_flag_1_multi_1.7416_len_684
+  437878   437956  |      182      260  |       79       79  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_171327_flag_1_multi_1.7416_len_684
+ 1869350  1869428  |      182      260  |       79       79  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_171327_flag_1_multi_1.7416_len_684
+   59836    59930  |     1199     1293  |       95       95  |    96.84  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_174128_flag_1_multi_6.4023_len_1342
+  228385   228479  |     1199     1293  |       95       95  |    96.84  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_174128_flag_1_multi_6.4023_len_1342
+  279562   279656  |     1199     1293  |       95       95  |    96.84  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_174128_flag_1_multi_6.4023_len_1342
+  286505   286599  |     1199     1293  |       95       95  |    96.84  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_174128_flag_1_multi_6.4023_len_1342
+  440107   440201  |     1199     1293  |       95       95  |    96.84  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_174128_flag_1_multi_6.4023_len_1342
+ 1871579  1871673  |     1199     1293  |       95       95  |    96.84  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_174128_flag_1_multi_6.4023_len_1342
+ 3108436  3108530  |     1293     1199  |       95       95  |    96.84  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_174128_flag_1_multi_6.4023_len_1342
+ 4278356  4278450  |     1293     1199  |       95       95  |    96.84  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_174128_flag_1_multi_6.4023_len_1342
+   59837    59930  |     3315     3408  |       94       94  |    96.81  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_333450_flag_0_multi_33.4722_len_3433
+  228386   228479  |     3315     3408  |       94       94  |    96.81  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_333450_flag_0_multi_33.4722_len_3433
+  279563   279656  |     3315     3408  |       94       94  |    96.81  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_333450_flag_0_multi_33.4722_len_3433
+  286506   286599  |     3315     3408  |       94       94  |    96.81  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_333450_flag_0_multi_33.4722_len_3433
+  440108   440201  |     3315     3408  |       94       94  |    96.81  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_333450_flag_0_multi_33.4722_len_3433
+ 1871580  1871673  |     3315     3408  |       94       94  |    96.81  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_333450_flag_0_multi_33.4722_len_3433
+ 3108436  3108529  |     3408     3315  |       94       94  |    96.81  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_333450_flag_0_multi_33.4722_len_3433
+ 4278356  4278449  |     3408     3315  |       94       94  |    96.81  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_333450_flag_0_multi_33.4722_len_3433
+  226157   226234  |      253      176  |       78       78  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_53104_flag_1_multi_3.6838_len_821
+  437879   437956  |      253      176  |       78       78  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_53104_flag_1_multi_3.6838_len_821
+ 1869351  1869428  |      253      176  |       78       78  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence	k119_53104_flag_1_multi_3.6838_len_821

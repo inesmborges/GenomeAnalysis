@@ -1,0 +1,154 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000001.1_Alcanivorax_jadensis_T9_contig1__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000002.1_Alcanivorax_jadensis_T9_contig2__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000003.1_Alcanivorax_jadensis_T9_contig3__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000004.1_Alcanivorax_jadensis_T9_contig4__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000005.1_Alcanivorax_jadensis_T9_contig5__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000006.1_Alcanivorax_jadensis_T9_contig6__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000007.1_Alcanivorax_jadensis_T9_contig7__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000008.1_Alcanivorax_jadensis_T9_contig8__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000009.1_Alcanivorax_jadensis_T9_contig9__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000010.1_Alcanivorax_jadensis_T9_contig10__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000011.1_Alcanivorax_jadensis_T9_contig11__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000012.1_Alcanivorax_jadensis_T9_contig12__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000013.1_Alcanivorax_jadensis_T9_contig13__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000014.1_Alcanivorax_jadensis_T9_contig14__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000015.1_Alcanivorax_jadensis_T9_contig15__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000016.1_Alcanivorax_jadensis_T9_contig16__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000017.1_Alcanivorax_jadensis_T9_contig17__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000018.1_Alcanivorax_jadensis_T9_contig18__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000019.1_Alcanivorax_jadensis_T9_contig19__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000020.1_Alcanivorax_jadensis_T9_contig20__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000021.1_Alcanivorax_jadensis_T9_contig21__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000022.1_Alcanivorax_jadensis_T9_contig22__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000023.1_Alcanivorax_jadensis_T9_contig23__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000024.1_Alcanivorax_jadensis_T9_contig24__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000025.1_Alcanivorax_jadensis_T9_contig25__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000026.1_Alcanivorax_jadensis_T9_contig26__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000027.1_Alcanivorax_jadensis_T9_contig27__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000028.1_Alcanivorax_jadensis_T9_contig28__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000029.1_Alcanivorax_jadensis_T9_contig29__whole_genome_shotgun_sequence]
+	Loaded [Alcanivorax_jadensis_T9_NZ_ARXU01000030.1_Alcanivorax_jadensis_T9_contig30__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 30
+	Total Region Length: 3629371
+Analyzing contigs...
+CONTIG: k119_225482_flag_1_multi_24.9882_len_143990 (143990bp)
+Best alignment score: 85.0 (LEN: 86, IDY: 98.84)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 143904
+		This contig is partially unaligned. (Aligned 86 out of 143990 bases)
+		Alignment: 274697 274781 | 46739 46654 | 85 86 | 98.84 | Alcanivorax_jadensis_T9_NZ_ARXU01000004.1_Alcanivorax_jadensis_T9_contig4__whole_genome_shotgun_sequence k119_225482_flag_1_multi_24.9882_len_143990
+		Unaligned bases: 1 to 46653 (46653)
+		Unaligned bases: 46740 to 143990 (97251)
+
+CONTIG: k119_272751_flag_1_multi_23.3399_len_91657 (91657bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 91579
+		This contig is partially unaligned. (Aligned 78 out of 91657 bases)
+		Alignment: 21299 21376 | 28142 28219 | 78 78 | 100.0 | Alcanivorax_jadensis_T9_NZ_ARXU01000001.1_Alcanivorax_jadensis_T9_contig1__whole_genome_shotgun_sequence k119_272751_flag_1_multi_23.3399_len_91657
+		Unaligned bases: 1 to 28141 (28141)
+		Unaligned bases: 28220 to 91657 (63438)
+
+CONTIG: k119_106171_flag_1_multi_24.9854_len_131557 (131557bp)
+Best alignment score: 80.0 (LEN: 82, IDY: 97.56)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 131475
+		This contig is partially unaligned. (Aligned 82 out of 131557 bases)
+		Alignment: 157087 157168 | 73320 73401 | 82 82 | 97.56 | Alcanivorax_jadensis_T9_NZ_ARXU01000002.1_Alcanivorax_jadensis_T9_contig2__whole_genome_shotgun_sequence k119_106171_flag_1_multi_24.9854_len_131557
+		Unaligned bases: 1 to 73319 (73319)
+		Unaligned bases: 73402 to 131557 (58156)
+
+CONTIG: k119_86745_flag_1_multi_3.0000_len_784 (784bp)
+Best alignment score: 87.0 (LEN: 87, IDY: 100.00)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 697
+		Alignment: 157082 157168 | 305 391 | 87 87 | 100.0 | Alcanivorax_jadensis_T9_NZ_ARXU01000002.1_Alcanivorax_jadensis_T9_contig2__whole_genome_shotgun_sequence k119_86745_flag_1_multi_3.0000_len_784
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Alcanivorax_jadensis_T9/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000016.1_Alcanivorax_jadensis_T9_contig16__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000003.1_Alcanivorax_jadensis_T9_contig3__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000024.1_Alcanivorax_jadensis_T9_contig24__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000029.1_Alcanivorax_jadensis_T9_contig29__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000027.1_Alcanivorax_jadensis_T9_contig27__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000026.1_Alcanivorax_jadensis_T9_contig26__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000012.1_Alcanivorax_jadensis_T9_contig12__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000011.1_Alcanivorax_jadensis_T9_contig11__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000025.1_Alcanivorax_jadensis_T9_contig25__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000014.1_Alcanivorax_jadensis_T9_contig14__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000022.1_Alcanivorax_jadensis_T9_contig22__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000023.1_Alcanivorax_jadensis_T9_contig23__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000015.1_Alcanivorax_jadensis_T9_contig15__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000013.1_Alcanivorax_jadensis_T9_contig13__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000010.1_Alcanivorax_jadensis_T9_contig10__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000028.1_Alcanivorax_jadensis_T9_contig28__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000021.1_Alcanivorax_jadensis_T9_contig21__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000009.1_Alcanivorax_jadensis_T9_contig9__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000017.1_Alcanivorax_jadensis_T9_contig17__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000006.1_Alcanivorax_jadensis_T9_contig6__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000018.1_Alcanivorax_jadensis_T9_contig18__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000007.1_Alcanivorax_jadensis_T9_contig7__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000019.1_Alcanivorax_jadensis_T9_contig19__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Alcanivorax_jadensis_T9_NZ_ARXU01000004.1_Alcanivorax_jadensis_T9_contig4__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 298895 (298895 bp)
+			START in gap: 1 to 274697 (274696 bp)
+			Align 1: 274697 274781 k119_225482_flag_1_multi_24.9882_len_143990 46739 46654
+			END in gap: 274781 to 298895 (24114 bp).
+
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000030.1_Alcanivorax_jadensis_T9_contig30__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Alcanivorax_jadensis_T9_NZ_ARXU01000001.1_Alcanivorax_jadensis_T9_contig1__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 539039 (539039 bp)
+			START in gap: 1 to 21299 (21298 bp)
+			Align 1: 21299 21376 k119_272751_flag_1_multi_23.3399_len_91657 28142 28219
+			END in gap: 21376 to 539039 (517663 bp).
+
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000008.1_Alcanivorax_jadensis_T9_contig8__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Alcanivorax_jadensis_T9_NZ_ARXU01000002.1_Alcanivorax_jadensis_T9_contig2__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 478970 (478970 bp)
+			START in gap: 1 to 157082 (157081 bp)
+			Align 1: 157082 157168 k119_86745_flag_1_multi_3.0000_len_784 305 391
+				The next alignment (157087 157168 k119_106171_flag_1_multi_24.9854_len_131557 73320 73401) is redundant. Skipping.
+
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000020.1_Alcanivorax_jadensis_T9_contig20__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Alcanivorax_jadensis_T9_NZ_ARXU01000005.1_Alcanivorax_jadensis_T9_contig5__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Alcanivorax_jadensis_T9/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 366958
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 250
+
+	SNPs: 0
+	Insertions: 1
+	Deletions: 0
+
+	Positive Gaps: 5
+		Internal Gaps: 0
+		External Gaps: 5
+		External Gap Total: 994852
+		External Gap Average: 198970
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 1 (82)

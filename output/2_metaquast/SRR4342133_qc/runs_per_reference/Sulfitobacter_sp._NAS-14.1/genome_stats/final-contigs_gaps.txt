@@ -1,0 +1,41 @@
+Sulfitobacter_sp._NAS-14.1_NZ_CH959317.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320472__whole_genome_shotgun_sequence
+1 20214
+Sulfitobacter_sp._NAS-14.1_NZ_CH959314.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320475__whole_genome_shotgun_sequence
+1 104079
+Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000021.1_Sulfitobacter_sp._NAS-14.1_1099451320444__whole_genome_shotgun_sequence
+1 11882
+Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000011.1_Sulfitobacter_sp._NAS-14.1_1099451320457__whole_genome_shotgun_sequence
+1 98301
+Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000006.1_Sulfitobacter_sp._NAS-14.1_1099451320454__whole_genome_shotgun_sequence
+1 2269
+2348 2913
+3085 6229
+6312 207158
+Sulfitobacter_sp._NAS-14.1_NZ_CH959313.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320476__whole_genome_shotgun_sequence
+1 116593
+Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000017.1_Sulfitobacter_sp._NAS-14.1_1099451320455__whole_genome_shotgun_sequence
+1 23727
+Sulfitobacter_sp._NAS-14.1_NZ_CH959316.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320473__whole_genome_shotgun_sequence
+1 100112
+Sulfitobacter_sp._NAS-14.1_NZ_AALZ01000007.1_Sulfitobacter_sp._NAS-14.1_1099451320460__whole_genome_shotgun_sequence
+1 179991
+Sulfitobacter_sp._NAS-14.1_NZ_CH959315.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320470__whole_genome_shotgun_sequence
+1 102751
+Sulfitobacter_sp._NAS-14.1_NZ_CH959312.1_Sulfitobacter_sp._NAS-14.1_scf_1099451320477__whole_genome_shotgun_sequence
+1 142614
+142708 237667
+237749 575836
+575924 1103629
+1103711 1107585
+1107674 1107770
+1107849 1108078
+1108365 1118785
+1118854 1627220
+1627299 1951049
+1951157 2054387
+2054465 2228460
+2228543 2691340
+2691437 2831812
+2831892 2960837
+2960929 2961134
+2961220 3045708

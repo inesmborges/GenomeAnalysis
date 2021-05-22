@@ -1,0 +1,14 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Thalassolituus_oleivorans_R6-15.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Thalassolituus_oleivorans_R6-15.fasta
+NUCMER
+>Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_157457_flag_1_multi_1.0000_len_622 3764053 622
+2507475 2507551 364 288 0 0 0
+0
+>Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_198323_flag_1_multi_1.7233_len_549 3764053 549
+1780667 1780743 414 338 2 2 0
+0
+>Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_401989_flag_1_multi_1.9192_len_639 3764053 639
+3498753 3498829 94 170 2 2 0
+0
+>Thalassolituus_oleivorans_R6-15_NZ_CP006829.1_Thalassolituus_oleivorans_R6-15_chromosome__complete_genome k119_430447_flag_1_multi_1.8152_len_752 3764053 752
+2508046 2508121 560 635 0 0 0
+0

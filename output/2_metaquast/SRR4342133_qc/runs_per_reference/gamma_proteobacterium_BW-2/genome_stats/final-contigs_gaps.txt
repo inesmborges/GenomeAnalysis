@@ -1,0 +1,6 @@
+gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome
+1 1130981
+1131067 1410789
+1410871 2682662
+2682742 3785028
+3785108 4074140

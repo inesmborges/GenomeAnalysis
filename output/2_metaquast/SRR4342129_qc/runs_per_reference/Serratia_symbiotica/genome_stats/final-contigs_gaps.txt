@@ -1,0 +1,5 @@
+Serratia_symbiotica_NZ_LR025083.1_Serratia_symbiotica_strain_SeCistrobi_genome_assembly__chromosome__1
+1 719652
+719730 2414146
+Serratia_symbiotica_NZ_LR025084.1_Serratia_symbiotica_strain_SeCistrobi_genome_assembly__plasmid__pSeCistrobi01
+1 22667

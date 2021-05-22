@@ -1,0 +1,14 @@
+reference chromosomes:
+	Planctomyces_brasiliensis_DSM_5305_NC_015174.1_Rubinisphaera_brasiliensis_DSM_5305__complete_sequence (total length: 6006602 bp, maximal covered length: 153 bp)
+
+total genome size: 6006602
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Plancto | 0.00255%  | 5.99346     | 3         | -         | -         | -         | -         |

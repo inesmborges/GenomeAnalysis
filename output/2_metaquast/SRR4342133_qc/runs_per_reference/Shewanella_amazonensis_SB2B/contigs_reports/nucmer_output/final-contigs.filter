@@ -1,0 +1,11 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Shewanella_amazonensis_SB2B.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Shewanella_amazonensis_SB2B.fasta
+NUCMER
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_171327_flag_1_multi_1.7416_len_684 4306142 684
+1869350 1869428 182 260 0 0 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_174128_flag_1_multi_6.4023_len_1342 4306142 1342
+286505 286599 1199 1293 3 3 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_sequence k119_333450_flag_0_multi_33.4722_len_3433 4306142 3433
+3108436 3108529 3408 3315 3 3 0
+0

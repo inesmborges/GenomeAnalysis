@@ -1,0 +1,12 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/Owenweeksia_hongkongensis_DSM_17368.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/quast_corrected_input/final-contigs_to_Owenweeksia_hongkongensis_DSM_17368.fasta
+NUCMER
+>Owenweeksia_hongkongensis_DSM_17368_NC_016599.1_Owenweeksia_hongkongensis_DSM_17368__complete_sequence k119_261553_flag_1_multi_5.5689_len_1128 4000057 1128
+1917173 1917248 235 160 0 0 0
+0
+>Owenweeksia_hongkongensis_DSM_17368_NC_016599.1_Owenweeksia_hongkongensis_DSM_17368__complete_sequence k119_345737_flag_1_multi_8.9755_len_9254 4000057 9254
+2670792 2670868 441 517 0 0 0
+0
+>Owenweeksia_hongkongensis_DSM_17368_NC_016599.1_Owenweeksia_hongkongensis_DSM_17368__complete_sequence k119_82884_flag_1_multi_3.7993_len_1001 4000057 1001
+1917442 1917679 763 1001 7 7 0
+-8
+0

@@ -1,0 +1,217 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Formosa_algae_NZ_JAGGJQ010000001.1_Formosa_algae_strain_DSM_15523_Ga0454090_01__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000002.1_Formosa_algae_strain_DSM_15523_Ga0454090_02__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000004.1_Formosa_algae_strain_DSM_15523_Ga0454090_04__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000005.1_Formosa_algae_strain_DSM_15523_Ga0454090_05__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000006.1_Formosa_algae_strain_DSM_15523_Ga0454090_06__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000007.1_Formosa_algae_strain_DSM_15523_Ga0454090_07__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000008.1_Formosa_algae_strain_DSM_15523_Ga0454090_08__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000009.1_Formosa_algae_strain_DSM_15523_Ga0454090_09__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000010.1_Formosa_algae_strain_DSM_15523_Ga0454090_10__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000012.1_Formosa_algae_strain_DSM_15523_Ga0454090_12__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000013.1_Formosa_algae_strain_DSM_15523_Ga0454090_13__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000014.1_Formosa_algae_strain_DSM_15523_Ga0454090_14__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000015.1_Formosa_algae_strain_DSM_15523_Ga0454090_15__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000016.1_Formosa_algae_strain_DSM_15523_Ga0454090_16__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000017.1_Formosa_algae_strain_DSM_15523_Ga0454090_17__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000018.1_Formosa_algae_strain_DSM_15523_Ga0454090_18__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000019.1_Formosa_algae_strain_DSM_15523_Ga0454090_19__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000020.1_Formosa_algae_strain_DSM_15523_Ga0454090_20__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000021.1_Formosa_algae_strain_DSM_15523_Ga0454090_21__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000022.1_Formosa_algae_strain_DSM_15523_Ga0454090_22__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000023.1_Formosa_algae_strain_DSM_15523_Ga0454090_23__whole_genome_shotgun_sequence]
+	Loaded [Formosa_algae_NZ_JAGGJQ010000024.1_Formosa_algae_strain_DSM_15523_Ga0454090_24__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 24
+	Total Region Length: 4300260
+Analyzing contigs...
+CONTIG: k119_79423_flag_1_multi_7.9774_len_6323 (6323bp)
+Best alignment score: 73.0 (LEN: 74, IDY: 98.65)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 34364 34437 | 263 190 | 74 74 | 98.65 | Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_79423_flag_1_multi_7.9774_len_6323
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 6249
+		This contig is partially unaligned. (Aligned 74 out of 6323 bases)
+		Alignment: 33940 34013 | 263 190 | 74 74 | 98.65 | Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_79423_flag_1_multi_7.9774_len_6323
+		Unaligned bases: 1 to 189 (189)
+		Unaligned bases: 264 to 6323 (6060)
+
+CONTIG: k119_214699_flag_1_multi_7.0000_len_1705 (1705bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 34364 34438 | 1336 1410 | 75 75 | 98.67 | Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_214699_flag_1_multi_7.0000_len_1705
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 1629
+		This contig is partially unaligned. (Aligned 76 out of 1705 bases)
+		Alignment: 33940 34015 | 1336 1411 | 76 76 | 98.68 | Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence k119_214699_flag_1_multi_7.0000_len_1705
+		Unaligned bases: 1 to 1335 (1335)
+		Unaligned bases: 1412 to 1705 (294)
+
+CONTIG: k119_30622_flag_1_multi_4.0000_len_1307 (1307bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1231
+		This contig is partially unaligned. (Aligned 76 out of 1307 bases)
+		Alignment: 452705 452780 | 561 486 | 76 76 | 100.0 | Formosa_algae_NZ_JAGGJQ010000002.1_Formosa_algae_strain_DSM_15523_Ga0454090_02__whole_genome_shotgun_sequence k119_30622_flag_1_multi_4.0000_len_1307
+		Unaligned bases: 1 to 485 (485)
+		Unaligned bases: 562 to 1307 (746)
+
+CONTIG: k119_304105_flag_0_multi_8.0000_len_24759 (24759bp)
+Best alignment score: 73.0 (LEN: 73, IDY: 100.00)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 24686
+		This contig is partially unaligned. (Aligned 73 out of 24759 bases)
+		Alignment: 243623 243695 | 8729 8801 | 73 73 | 100.0 | Formosa_algae_NZ_JAGGJQ010000001.1_Formosa_algae_strain_DSM_15523_Ga0454090_01__whole_genome_shotgun_sequence k119_304105_flag_0_multi_8.0000_len_24759
+		Unaligned bases: 1 to 8728 (8728)
+		Unaligned bases: 8802 to 24759 (15958)
+
+CONTIG: k119_111391_flag_1_multi_7.0000_len_1795 (1795bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1721
+		This contig is partially unaligned. (Aligned 74 out of 1795 bases)
+		Alignment: 65471 65544 | 1505 1578 | 74 74 | 100.0 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_111391_flag_1_multi_7.0000_len_1795
+		Unaligned bases: 1 to 1504 (1504)
+		Unaligned bases: 1579 to 1795 (217)
+
+CONTIG: k119_360526_flag_1_multi_8.0000_len_6602 (6602bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 235324 235398 | 843 917 | 75 75 | 100.0 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_360526_flag_1_multi_8.0000_len_6602
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 6526
+		This contig is partially unaligned. (Aligned 76 out of 6602 bases)
+		Alignment: 253167 253242 | 843 918 | 76 76 | 100.0 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_360526_flag_1_multi_8.0000_len_6602
+		Unaligned bases: 1 to 842 (842)
+		Unaligned bases: 919 to 6602 (5684)
+
+CONTIG: k119_287380_flag_1_multi_9.0000_len_1657 (1657bp)
+Best alignment score: 93.0 (LEN: 94, IDY: 98.95)
+			The best set is below. Score: 93.0, number of alignments: 1, unaligned bases: 1563
+		This contig is partially unaligned. (Aligned 94 out of 1657 bases)
+		Alignment: 254976 255070 | 1172 1079 | 95 94 | 98.95 | Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence k119_287380_flag_1_multi_9.0000_len_1657
+		Unaligned bases: 1 to 1078 (1078)
+		Unaligned bases: 1173 to 1657 (485)
+
+CONTIG: k119_230197_flag_0_multi_3.8095_len_686 (686bp)
+Best alignment score: 363.0 (LEN: 377, IDY: 96.29)
+			The best set is below. Score: 363.0, number of alignments: 1, unaligned bases: 309
+		Alignment: 372 748 | 310 686 | 377 377 | 96.29 | Formosa_algae_NZ_JAGGJQ010000020.1_Formosa_algae_strain_DSM_15523_Ga0454090_20__whole_genome_shotgun_sequence k119_230197_flag_0_multi_3.8095_len_686
+
+CONTIG: k119_161932_flag_1_multi_7.2656_len_1463 (1463bp)
+Best alignment score: 225.0 (LEN: 233, IDY: 96.57)
+			The best set is below. Score: 225.0, number of alignments: 1, unaligned bases: 1230
+		This contig is partially unaligned. (Aligned 233 out of 1463 bases)
+		Alignment: 1125 1357 | 1463 1231 | 233 233 | 96.57 | Formosa_algae_NZ_JAGGJQ010000020.1_Formosa_algae_strain_DSM_15523_Ga0454090_20__whole_genome_shotgun_sequence k119_161932_flag_1_multi_7.2656_len_1463
+		Unaligned bases: 1 to 1230 (1230)
+
+Analyzing coverage...
+Writing SNPs into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Formosa_algae/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Formosa_algae_NZ_JAGGJQ010000002.1_Formosa_algae_strain_DSM_15523_Ga0454090_02__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 601739 (601739 bp)
+			START in gap: 1 to 452705 (452704 bp)
+			Align 1: 452705 452780 k119_30622_flag_1_multi_4.0000_len_1307 561 486
+			END in gap: 452780 to 601739 (148959 bp).
+
+	Reference Formosa_algae_NZ_JAGGJQ010000011.1_Formosa_algae_strain_DSM_15523_Ga0454090_11__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 200747 (200747 bp)
+			START in gap: 1 to 33940 (33939 bp)
+			Align 1: 33940 34013 k119_79423_flag_1_multi_7.9774_len_6323 263 190
+				Negative gap (overlap) between this and next alignment: 34013 to 33940 (-73 bp)
+				Next Alignment: 33940 34015 k119_214699_flag_1_multi_7.0000_len_1705 1336 1411
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1336 to 1410.
+			Align 2: 34014 34015 k119_214699_flag_1_multi_7.0000_len_1705 1410 1411
+			END in gap: 34015 to 200747 (166732 bp).
+
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000012.1_Formosa_algae_strain_DSM_15523_Ga0454090_12__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000007.1_Formosa_algae_strain_DSM_15523_Ga0454090_07__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000021.1_Formosa_algae_strain_DSM_15523_Ga0454090_21__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Formosa_algae_NZ_JAGGJQ010000020.1_Formosa_algae_strain_DSM_15523_Ga0454090_20__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 3390 (3390 bp)
+			START in gap: 1 to 372 (371 bp)
+			Align 1: 372 748 k119_230197_flag_0_multi_3.8095_len_686 310 686
+				Gap between this and next alignment: 748 to 1125 (376 bp)
+				Next Alignment: 1125 1357 k119_161932_flag_1_multi_7.2656_len_1463 1463 1231
+
+			Align 2: 1125 1357 k119_161932_flag_1_multi_7.2656_len_1463 1463 1231
+			END in gap: 1357 to 3390 (2033 bp).
+
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000022.1_Formosa_algae_strain_DSM_15523_Ga0454090_22__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000009.1_Formosa_algae_strain_DSM_15523_Ga0454090_09__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000010.1_Formosa_algae_strain_DSM_15523_Ga0454090_10__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000013.1_Formosa_algae_strain_DSM_15523_Ga0454090_13__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000004.1_Formosa_algae_strain_DSM_15523_Ga0454090_04__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000018.1_Formosa_algae_strain_DSM_15523_Ga0454090_18__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Formosa_algae_NZ_JAGGJQ010000003.1_Formosa_algae_strain_DSM_15523_Ga0454090_03__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 415303 (415303 bp)
+			START in gap: 1 to 65471 (65470 bp)
+			Align 1: 65471 65544 k119_111391_flag_1_multi_7.0000_len_1795 1505 1578
+				Gap between this and next alignment: 65544 to 253167 (187622 bp)
+				Next Alignment: 253167 253242 k119_360526_flag_1_multi_8.0000_len_6602 843 918
+
+			Align 2: 253167 253242 k119_360526_flag_1_multi_8.0000_len_6602 843 918
+				Gap between this and next alignment: 253242 to 254976 (1733 bp)
+				Next Alignment: 254976 255070 k119_287380_flag_1_multi_9.0000_len_1657 1172 1079
+
+			Align 3: 254976 255070 k119_287380_flag_1_multi_9.0000_len_1657 1172 1079
+			END in gap: 255070 to 415303 (160233 bp).
+
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000023.1_Formosa_algae_strain_DSM_15523_Ga0454090_23__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000006.1_Formosa_algae_strain_DSM_15523_Ga0454090_06__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000008.1_Formosa_algae_strain_DSM_15523_Ga0454090_08__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000017.1_Formosa_algae_strain_DSM_15523_Ga0454090_17__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000019.1_Formosa_algae_strain_DSM_15523_Ga0454090_19__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000024.1_Formosa_algae_strain_DSM_15523_Ga0454090_24__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000016.1_Formosa_algae_strain_DSM_15523_Ga0454090_16__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Formosa_algae_NZ_JAGGJQ010000001.1_Formosa_algae_strain_DSM_15523_Ga0454090_01__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 824498 (824498 bp)
+			START in gap: 1 to 243623 (243622 bp)
+			Align 1: 243623 243695 k119_304105_flag_0_multi_8.0000_len_24759 8729 8801
+			END in gap: 243695 to 824498 (580803 bp).
+
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000014.1_Formosa_algae_strain_DSM_15523_Ga0454090_14__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000015.1_Formosa_algae_strain_DSM_15523_Ga0454090_15__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Formosa_algae_NZ_JAGGJQ010000005.1_Formosa_algae_strain_DSM_15523_Ga0454090_05__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/ins/GenomeAnalysis/output/2_quast/SRR4342133_qc/runs_per_reference/Formosa_algae/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 8 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 44835
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 6323
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1080
+
+	SNPs: 23
+	Insertions: 0
+	Deletions: 1
+
+	Positive Gaps: 13
+		Internal Gaps: 0
+		External Gaps: 13
+		External Gap Total: 2044597
+		External Gap Average: 157277
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -73
+		External Overlaps Average: -73
+	Contigs with Redundant Alignments: 0 (0)

@@ -1,0 +1,14 @@
+reference chromosomes:
+	gamma_proteobacterium_BW-2_CP032507.1_Ectothiorhodospiraceae_bacterium_BW-2_chromosome__complete_genome (total length: 4074140 bp, maximal covered length: 324 bp)
+
+total genome size: 4074140
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_gamma_p | 0.00795%  | 2.99074     | 5         | -         | -         | -         | -         |

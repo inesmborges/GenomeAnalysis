@@ -1,0 +1,17 @@
+/home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/Microbulbifer_yueqingensis.fasta /home/ins/GenomeAnalysis/output/2_quast/SRR4342129_qc/quast_corrected_input/final-contigs_to_Microbulbifer_yueqingensis.fasta
+NUCMER
+>Microbulbifer_yueqingensis_NZ_FNFH01000013.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_109950_flag_1_multi_4.5317_len_1272 2163 1272
+389 568 216 37 8 8 0
+0
+>Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_281400_flag_1_multi_4.0000_len_1105 752090 1105
+709802 709878 1076 1000 0 0 0
+0
+>Microbulbifer_yueqingensis_NZ_FNFH01000011.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_401989_flag_1_multi_1.9192_len_639 11782 639
+703 776 97 170 0 0 0
+0
+>Microbulbifer_yueqingensis_NZ_FNFH01000003.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_44979_flag_1_multi_5.0000_len_2013 752090 2013
+710111 710187 877 953 0 0 0
+0
+>Microbulbifer_yueqingensis_NZ_FNFH01000014.1_Microbulbifer_yueqingensis_strain_CGMCC_1.10658__whole_genome_shotgun_sequence k119_80995_flag_1_multi_2.6790_len_661 1772 661
+203 312 552 661 1 1 0
+0

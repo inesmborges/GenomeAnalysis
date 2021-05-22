@@ -1,0 +1,9 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+1742635 1742709 | 36030 35956 | 75 75 | 100.0 | Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_413965_flag_0_multi_13.0000_len_40848
+531393 531477 | 499 416 | 85 84 | 97.65 | Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_85838_flag_1_multi_2.7330_len_516
+880438 880709 | 1148 1424 | 272 277 | 96.03 | Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_334617_flag_0_multi_4.2736_len_1424
+880461 880709 | 249 1 | 249 249 | 96.39 | Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_334647_flag_0_multi_6.9073_len_2438
+3271864 3271941 | 736 659 | 78 78 | 100.0 | Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_285170_flag_0_multi_7.1192_len_5235
+2084397 2084471 | 382 456 | 75 75 | 100.0 | Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_13121_flag_1_multi_4.0000_len_789
+3269081 3269156 | 2473 2398 | 76 76 | 100.0 | Janibacter_sp._HTCC2649_NZ_CH672413.1_Janibacter_sp._HTCC2649_scf_1099316001559__whole_genome_shotgun_sequence k119_211844_flag_1_multi_8.0000_len_2688

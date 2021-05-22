@@ -1,0 +1,19 @@
+reference chromosomes:
+	Rhodobacteraceae_bacterium_KLH11_DS999532.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220443_genomic_scaffold__whole_genome_shotgun_sequence (total length: 708450 bp, maximal covered length: 88 bp)
+	Rhodobacteraceae_bacterium_KLH11_DS999533.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220442_genomic_scaffold__whole_genome_shotgun_sequence (total length: 411388 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_KLH11_DS999536.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220447_genomic_scaffold__whole_genome_shotgun_sequence (total length: 1035 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_KLH11_DS999531.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220445_genomic_scaffold__whole_genome_shotgun_sequence (total length: 3124921 bp, maximal covered length: 2338 bp)
+	Rhodobacteraceae_bacterium_KLH11_DS999534.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220446_genomic_scaffold__whole_genome_shotgun_sequence (total length: 161424 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_KLH11_DS999535.1_Rhodobacteraceae_bacterium_KLH11_scf_1108856220444_genomic_scaffold__whole_genome_shotgun_sequence (total length: 80280 bp, maximal covered length: 0 bp)
+
+total genome size: 4487498
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Rhodoba | 0.05406%  | 3.03256     | 24        | -         | -         | -         | -         |
