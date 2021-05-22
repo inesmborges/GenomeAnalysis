@@ -1,0 +1,62 @@
+/sw/apps/bioinfo/quast/5.0.2/snowy/bin/quast.py /home/ins/GenomeAnalysis/output/2_megahit/combined_assembly/final.contigs.fa -o /home/ins/GenomeAnalysis/output/2_quast2/combined_qc
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.25.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.2
+  CPUs number: 16
+
+Started: 2021-05-21 14:27:39
+
+Logging to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/quast.log
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+CWD: /domus/h1/ins/GenomeAnalysis/code
+Main parameters: 
+  MODE: default, threads: 4, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/ins/GenomeAnalysis/output/2_megahit/combined_assembly/final.contigs.fa ==> final.contigs
+
+2021-05-21 14:27:56
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 1358, L50 = 37129, Total length = 231304240, GC % = 47.76, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-05-21 14:28:17
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-05-21 14:28:24
+RESULTS:
+  Text versions of total report are saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/report.html
+  PDF version (tables and plots) is saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/report.pdf
+  Icarus (contig browser) is saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/icarus.html
+  Log is saved to /home/ins/GenomeAnalysis/output/2_quast2/combined_qc/quast.log
+
+Finished: 2021-05-21 14:28:24
+Elapsed time: 0:00:45.367250
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
